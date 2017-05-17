@@ -1,0 +1,57 @@
+DAC_DONOR,Donor,Donor_Group_Type,Donor_DAC_Country,Donor_EU_Country
+20005,"All Donors, Total",Group,Group,Group
+20001,"DAC Countries, Total",Group,Group,Group
+801,Australia,Donor,DAC,Non-EU
+1,Austria,Donor,DAC,EU
+2,Belgium,Donor,DAC,EU
+301,Canada,Donor,DAC,Non-EU
+3,Denmark,Donor,DAC,EU
+18,Finland,Donor,DAC,EU
+4,France,Donor,DAC,EU
+5,Germany,Donor,DAC,EU
+40,Greece,Donor,DAC,EU
+21,Ireland,Donor,DAC,EU
+6,Italy,Donor,DAC,EU
+701,Japan,Donor,DAC,Non-EU
+742,Korea,Donor,DAC,Non-EU
+22,Luxembourg,Donor,DAC,EU
+7,Netherlands,Donor,DAC,EU
+820,New Zealand,Donor,DAC,Non-EU
+8,Norway,Donor,DAC,Non-EU
+9,Portugal,Donor,DAC,EU
+50,Spain,Donor,DAC,EU
+10,Sweden,Donor,DAC,EU
+11,Switzerland,Donor,DAC,Non-EU
+12,United Kingdom,Donor,DAC,EU
+302,United States,Donor,DAC,Non-EU
+20002,"Multilaterals, Total",Group,Group,Group
+918,EU Institutions,Donor,Non-DAC,EU
+20006,"Non-DAC Countries, Total",Group,Group,Group
+72,Bulgaria,Donor,Non-DAC,EU
+732,Chinese Taipei,Donor,Non-DAC,Non-EU
+30,Cyprus,Donor,Non-DAC,EU
+68,Czech Republic,Donor,DAC,EU
+82,Estonia,Donor,Non-DAC,EU
+75,Hungary,Donor,Non-DAC,EU
+20,Iceland,Donor,DAC,Non-EU
+546,Israel,Donor,Non-DAC,Non-EU
+552,Kuwait (KFAED),Donor,Non-DAC,Non-EU
+83,Latvia,Donor,Non-DAC,EU
+70,Liechtenstein,Donor,Non-DAC,EU
+84,Lithuania,Donor,Non-DAC,EU
+45,Malta,Donor,Non-DAC,EU
+76,Poland,Donor,DAC,EU
+77,Romania,Donor,Non-DAC,EU
+87,Russia,Donor,Non-DAC,Non-EU
+566,Saudi Arabia,Donor,Non-DAC,Non-EU
+69,Slovak Republic,Donor,DAC,EU
+61,Slovenia,Donor,DAC,EU
+764,Thailand,Donor,Non-DAC,Non-EU
+55,Turkey,Donor,Non-DAC,Non-EU
+576,United Arab Emirates,Donor,Non-DAC,Non-EU
+20007,Other donor countries,Group,Group,Group
+20003,"G7 Countries, Total",Group,Group,Group
+20011,"DAC EU Members, Total",Group,Group,Group
+62,Croatia,Donor,Non-DAC,EU
+613,Kazakhstan,Donor,Non-DAC,Non-EU
+765,Timor Leste,Donor,Non-DAC,Non-EU
