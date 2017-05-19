@@ -1,0 +1,279 @@
+RECIPIENT,Recipient,Recipient_Group_Type,Recipient_LDC,Recipient_SSA,Recipient_Fragile_State_ONE2017,Recipient_Africa
+10100,"Developing Countries, Total",Group,Not LDC,Not SSA,Not Fragile State,Not Africa
+10001,"Africa, Total",Group,Not LDC,Not SSA,Not Fragile State,Not Africa
+10002,"North of Sahara, Total",Group,Not LDC,Not SSA,Not Fragile State,Not Africa
+10003,"South of Sahara, Total",Group,Not LDC,Not SSA,Not Fragile State,Not Africa
+10004,"America, Total",Group,Not LDC,Not SSA,Not Fragile State,Not Africa
+10005,"North & Central America, Total",Group,Not LDC,Not SSA,Not Fragile State,Not Africa
+10006,"South America, Total",Group,Not LDC,Not SSA,Not Fragile State,Not Africa
+10007,"Asia, Total",Group,Not LDC,Not SSA,Not Fragile State,Not Africa
+10008,"Far East Asia, Total",Group,Not LDC,Not SSA,Not Fragile State,Not Africa
+10009,"South & Central Asia, Total",Group,Not LDC,Not SSA,Not Fragile State,Not Africa
+10011,"Middle East, Total",Group,Not LDC,Not SSA,Not Fragile State,Not Africa
+10010,"Europe, Total",Group,Not LDC,Not SSA,Not Fragile State,Not Africa
+10012,"Oceania, Total",Group,Not LDC,Not SSA,Not Fragile State,Not Africa
+10016,"LDCs, Total",Group,Not LDC,Not SSA,Not Fragile State,Not Africa
+10017,"Other LICs, Total",Group,Not LDC,Not SSA,Not Fragile State,Not Africa
+10018,"LMICs, Total",Group,Not LDC,Not SSA,Not Fragile State,Not Africa
+10019,"UMICs, Total",Group,Not LDC,Not SSA,Not Fragile State,Not Africa
+10025,"MADCTs, Total",Group,Not LDC,Not SSA,Not Fragile State,Not Africa
+10024,Part I Unallocated by income,Group,Not LDC,Not SSA,Not Fragile State,Not Africa
+10013,"CEEC, Total",Group,Not LDC,Not SSA,Not Fragile State,Not Africa
+10014,"NIS, Total",Group,Not LDC,Not SSA,Not Fragile State,Not Africa
+10026,"Part II Countries, Total",Group,Not LDC,Not SSA,Not Fragile State,Not Africa
+10030,"HIPCs, Total",Group,Not LDC,Not SSA,Not Fragile State,Not Africa
+10040,"ACP Countries, Total",Group,Not LDC,Not SSA,Not Fragile State,Not Africa
+10041,"Club du Sahel, Total",Group,Not LDC,Not SSA,Not Fragile State,Not Africa
+71,Albania,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+130,Algeria,Country,Not LDC,Not SSA,Not Fragile State,Africa
+225,Angola,Country,LDC,SSA,Fragile State,Africa
+425,Argentina,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+373,Aruba,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+530,Bahrain,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+666,Bangladesh,Country,LDC,Not SSA,Fragile State,Not Africa
+86,Belarus,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+236,Benin,Country,LDC,SSA,Not Fragile State,Africa
+331,Bermuda,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+64,Bosnia and Herzegovina,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+431,Brazil,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+725,Brunei Darussalam,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+72,Bulgaria,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+728,Cambodia,Country,LDC,Not SSA,Fragile State,Not Africa
+229,Cameroon,Country,Not LDC,SSA,Fragile State,Africa
+386,Cayman Islands,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+434,Chile,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+730,China (People's Republic of),Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+732,Chinese Taipei,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+437,Colombia,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+235,Democratic Republic of the Congo,Country,LDC,SSA,Fragile State,Africa
+234,Congo,Country,Not LDC,SSA,Fragile State,Africa
+336,Costa Rica,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+247,Côte d'Ivoire,Country,Not LDC,SSA,Fragile State,Africa
+62,Croatia,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+30,Cyprus,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+68,Czech Republic,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+274,Djibouti,Country,LDC,Not SSA,Not Fragile State,Africa
+237,East African Community,Country,Not LDC,Not SSA,Not Fragile State,Africa
+440,Ecuador,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+142,Egypt,Country,Not LDC,Not SSA,Fragile State,Africa
+342,El Salvador,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+245,Equatorial Guinea,Country,LDC,SSA,Not Fragile State,Africa
+271,Eritrea,Country,LDC,SSA,Fragile State,Africa
+82,Estonia,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+840,French Polynesia,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+239,Gabon,Country,Not LDC,SSA,Not Fragile State,Africa
+240,Gambia,Country,LDC,SSA,Fragile State,Africa
+612,Georgia,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+241,Ghana,Country,Not LDC,SSA,Not Fragile State,Africa
+35,Gibraltar,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+347,Guatemala,Country,Not LDC,Not SSA,Fragile State,Not Africa
+243,Guinea,Country,LDC,SSA,Fragile State,Africa
+351,Honduras,Country,Not LDC,Not SSA,Fragile State,Not Africa
+735,"Hong Kong, China",Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+75,Hungary,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+645,India,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+738,Indonesia,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+650,Indus Basin,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+540,Iran,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+543,Iraq,Country,Not LDC,Not SSA,Fragile State,Not Africa
+546,Israel,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+549,Jordan,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+248,Kenya,Country,Not LDC,SSA,Fragile State,Africa
+740,Democratic People's Republic of Korea,Country,Not LDC,Not SSA,Fragile State,Not Africa
+742,Korea,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+552,Kuwait,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+83,Latvia,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+555,Lebanon,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+251,Liberia,Country,LDC,SSA,Fragile State,Africa
+133,Libya,Country,Not LDC,Not SSA,Fragile State,Africa
+84,Lithuania,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+748,"Macau, China",Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+252,Madagascar,Country,LDC,SSA,Fragile State,Africa
+751,Malaysia,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+45,Malta,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+256,Mauritania,Country,LDC,SSA,Fragile State,Africa
+258,Mayotte,Country,Not LDC,Not SSA,Not Fragile State,Africa
+752,Mekong Delta Project,Project,Not LDC,Not SSA,Not Fragile State,Not Africa
+358,Mexico,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+65,Montenegro,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+136,Morocco,Country,Not LDC,Not SSA,Not Fragile State,Africa
+259,Mozambique,Country,LDC,SSA,Fragile State,Africa
+635,Myanmar,Country,LDC,Not SSA,Fragile State,Not Africa
+275,Namibia,Country,Not LDC,SSA,Not Fragile State,Africa
+361,Netherlands Antilles,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+850,New Caledonia,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+364,Nicaragua,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+261,Nigeria,Country,Not LDC,SSA,Fragile State,Africa
+858,Northern Mariana Islands,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+558,Oman,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+665,Pakistan,Country,Not LDC,Not SSA,Fragile State,Not Africa
+550,West Bank and Gaza Strip,Country,Not LDC,Not SSA,Fragile State,Not Africa
+366,Panama,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+454,Peru,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+755,Philippines,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+76,Poland,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+561,Qatar,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+77,Romania,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+87,Russia,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+566,Saudi Arabia,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+269,Senegal,Country,LDC,SSA,Not Fragile State,Africa
+63,Serbia,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+272,Sierra Leone,Country,LDC,SSA,Fragile State,Africa
+69,Slovak Republic,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+61,Slovenia,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+273,Somalia,Country,LDC,Not SSA,Fragile State,Africa
+218,South Africa,Country,Not LDC,SSA,Not Fragile State,Africa
+640,Sri Lanka,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+276,Saint Helena,Country,Not LDC,Not SSA,Not Fragile State,Africa
+88,States Ex-Yugoslavia,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+278,Sudan,Country,LDC,Not SSA,Fragile State,Africa
+573,Syrian Arab Republic,Country,Not LDC,Not SSA,Fragile State,Not Africa
+282,Tanzania,Country,LDC,SSA,Fragile State,Africa
+764,Thailand,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+283,Togo,Country,LDC,SSA,Not Fragile State,Africa
+868,Tokelau,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+139,Tunisia,Country,Not LDC,Not SSA,Not Fragile State,Africa
+55,Turkey,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+387,Turks and Caicos Islands,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+85,Ukraine,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+576,United Arab Emirates,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+460,Uruguay,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+463,Venezuela,Country,Not LDC,Not SSA,Fragile State,Not Africa
+769,Viet Nam,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+388,British Virgin Islands,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+876,Wallis and Futuna,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+580,Yemen,Country,LDC,Not SSA,Fragile State,Not Africa
+189,"North of Sahara, regional",Region,Not LDC,Not SSA,Not Fragile State,Not Africa
+289,"South of Sahara, regional",Region,Not LDC,Not SSA,Not Fragile State,Not Africa
+298,"Africa, regional",Region,Not LDC,Not SSA,Not Fragile State,Not Africa
+380,"West Indies, regional",Region,Not LDC,Not SSA,Not Fragile State,Not Africa
+389,"North & Central America, regional",Region,Not LDC,Not SSA,Not Fragile State,Not Africa
+489,"South America, regional",Region,Not LDC,Not SSA,Not Fragile State,Not Africa
+498,"America, regional",Region,Not LDC,Not SSA,Not Fragile State,Not Africa
+589,"Middle East, regional",Region,Not LDC,Not SSA,Not Fragile State,Not Africa
+619,"Central Asia, regional",Region,Not LDC,Not SSA,Not Fragile State,Not Africa
+679,"South Asia, regional",Region,Not LDC,Not SSA,Not Fragile State,Not Africa
+689,"South & Central Asia, regional",Region,Not LDC,Not SSA,Not Fragile State,Not Africa
+789,"Far East Asia, regional",Region,Not LDC,Not SSA,Not Fragile State,Not Africa
+798,"Asia, regional",Region,Not LDC,Not SSA,Not Fragile State,Not Africa
+89,"Europe, regional",Region,Not LDC,Not SSA,Not Fragile State,Not Africa
+889,"Oceania, regional",Region,Not LDC,Not SSA,Not Fragile State,Not Africa
+9998,"Developing countries, unspecified",Other-TBD,Not LDC,Not SSA,Not Fragile State,Not Africa
+101,CEEC Unspecified,Other-TBD,Not LDC,Not SSA,Not Fragile State,Not Africa
+102,NIS Unspecified,Other-TBD,Not LDC,Not SSA,Not Fragile State,Not Africa
+79,CEEC/NIS Unspecified,Other-TBD,Not LDC,Not SSA,Not Fragile State,Not Africa
+10023,"CEEC/NIS, Total",Other-TBD,Not LDC,Not SSA,Not Fragile State,Not Africa
+105,MADCT Unspecified,Other-TBD,Not LDC,Not SSA,Not Fragile State,Not Africa
+901,IBRD,Multilateral,Not LDC,Not SSA,Not Fragile State,Not Africa
+10150,"All Multilateral Recipients, Total",Group,Not LDC,Not SSA,Not Fragile State,Not Africa
+902,MIGA,Multilateral,Not LDC,Not SSA,Not Fragile State,Not Africa
+903,IFC,Multilateral,Not LDC,Not SSA,Not Fragile State,Not Africa
+905,IDA,Multilateral,Not LDC,Not SSA,Not Fragile State,Not Africa
+906,Caribbean Dev. Bank,Multilateral,Not LDC,Not SSA,Not Fragile State,Not Africa
+907,IMF,Multilateral,Not LDC,Not SSA,Not Fragile State,Not Africa
+909,IDB,Multilateral,Not LDC,Not SSA,Not Fragile State,Not Africa
+910,CABEI,Multilateral,Not LDC,Not SSA,Not Fragile State,Not Africa
+912,IDB Special Oper. Fund,Multilateral,Not LDC,Not SSA,Not Fragile State,Not Africa
+913,Af. D B,Multilateral,Not LDC,Not SSA,Not Fragile State,Not Africa
+914,African Dev. Fund,Multilateral,Not LDC,Not SSA,Not Fragile State,Not Africa
+915,Asian Dev. Bank,Multilateral,Not LDC,Not SSA,Not Fragile State,Not Africa
+916,AsDB Special Funds,Multilateral,Not LDC,Not SSA,Not Fragile State,Not Africa
+917,EC,Multilateral,Not LDC,Not SSA,Not Fragile State,Not Africa
+918,EDF,Multilateral,Not LDC,Not SSA,Not Fragile State,Not Africa
+919,EIB,Multilateral,Not LDC,Not SSA,Not Fragile State,Not Africa
+988,IFAD,Multilateral,Not LDC,Not SSA,Not Fragile State,Not Africa
+816,Other Regional Banks,Multilateral,Not LDC,Not SSA,Not Fragile State,Not Africa
+959,UNDP,Multilateral,Not LDC,Not SSA,Not Fragile State,Not Africa
+963,UNICEF,Multilateral,Not LDC,Not SSA,Not Fragile State,Not Africa
+964,UNRWA,Multilateral,Not LDC,Not SSA,Not Fragile State,Not Africa
+966,WFP,Multilateral,Not LDC,Not SSA,Not Fragile State,Not Africa
+967,UNHCR,Multilateral,Not LDC,Not SSA,Not Fragile State,Not Africa
+974,UNFPA,Multilateral,Not LDC,Not SSA,Not Fragile State,Not Africa
+975,Other UN,Multilateral,Not LDC,Not SSA,Not Fragile State,Not Africa
+989,Other Multilateral,Multilateral,Not LDC,Not SSA,Not Fragile State,Not Africa
+990,EBRD,Multilateral,Not LDC,Not SSA,Not Fragile State,Not Africa
+10152,Multilateral part 2,Multilateral,Not LDC,Not SSA,Not Fragile State,Not Africa
+996,CEC FOR CEEC/NIS,Other-TBD,Not LDC,Not SSA,Not Fragile State,Not Africa
+878,GEF (Part II),Other-TBD,Not LDC,Not SSA,Not Fragile State,Not Africa
+98,Other Multilateral (Part II),Multilateral,Not LDC,Not SSA,Not Fragile State,Not Africa
+10200,"All recipients, Total",Group,Not LDC,Not SSA,Not Fragile State,Not Africa
+10201,"Land-Locked countries, Total",Group,Not LDC,Not SSA,Not Fragile State,Not Africa
+10202,"Small island states, Total",Group,Not LDC,Not SSA,Not Fragile State,Not Africa
+625,Afghanistan,Country,LDC,Not SSA,Fragile State,Not Africa
+376,Anguilla,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+377,Antigua and Barbuda,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+328,Bahamas,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+329,Barbados,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+352,Belize,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+630,Bhutan,Country,LDC,Not SSA,Not Fragile State,Not Africa
+428,Bolivia,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+227,Botswana,Country,Not LDC,SSA,Not Fragile State,Africa
+287,Burkina Faso,Country,LDC,SSA,Fragile State,Africa
+228,Burundi,Country,LDC,SSA,Fragile State,Africa
+230,Cabo Verde,Country,Not LDC,SSA,Not Fragile State,Africa
+231,Central African Republic,Country,LDC,SSA,Fragile State,Africa
+232,Chad,Country,LDC,SSA,Fragile State,Africa
+233,Comoros,Country,LDC,SSA,Fragile State,Africa
+831,Cook Islands,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+338,Cuba,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+378,Dominica,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+340,Dominican Republic,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+238,Ethiopia,Country,LDC,SSA,Fragile State,Africa
+832,Fiji,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+66,Former Yugoslav Republic of Macedonia,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+381,Grenada,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+244,Guinea-Bissau,Country,LDC,SSA,Fragile State,Africa
+446,Guyana,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+349,Haiti,Country,LDC,Not SSA,Fragile State,Not Africa
+354,Jamaica,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+836,Kiribati,Country,LDC,Not SSA,Not Fragile State,Not Africa
+745,Lao People's Democratic Republic,Country,LDC,Not SSA,Fragile State,Not Africa
+249,Lesotho,Country,LDC,SSA,Fragile State,Africa
+253,Malawi,Country,LDC,SSA,Fragile State,Africa
+655,Maldives,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+255,Mali,Country,LDC,SSA,Fragile State,Africa
+859,Marshall Islands,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+257,Mauritius,Country,Not LDC,SSA,Not Fragile State,Africa
+860,Micronesia,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+93,Moldova,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+753,Mongolia,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+385,Montserrat,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+845,Nauru,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+660,Nepal,Country,LDC,Not SSA,Not Fragile State,Not Africa
+260,Niger,Country,LDC,SSA,Fragile State,Africa
+856,Niue,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+861,Palau,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+862,Papua New Guinea,Country,Not LDC,Not SSA,Fragile State,Not Africa
+451,Paraguay,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+266,Rwanda,Country,LDC,SSA,Fragile State,Africa
+880,Samoa,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+268,Sao Tome and Principe,Country,LDC,SSA,Not Fragile State,Africa
+270,Seychelles,Country,Not LDC,SSA,Not Fragile State,Africa
+761,Singapore,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+866,Solomon Islands,Country,LDC,Not SSA,Fragile State,Not Africa
+382,Saint Kitts and Nevis,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+383,Saint Lucia,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+384,Saint Vincent and the Grenadines,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+457,Suriname,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+280,Swaziland,Country,Not LDC,SSA,Fragile State,Africa
+765,Timor-Leste,Country,LDC,Not SSA,Fragile State,Not Africa
+870,Tonga,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+375,Trinidad and Tobago,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+872,Tuvalu,Country,LDC,Not SSA,Not Fragile State,Not Africa
+285,Uganda,Country,LDC,SSA,Fragile State,Africa
+854,Vanuatu,Country,LDC,Not SSA,Not Fragile State,Not Africa
+288,Zambia,Country,LDC,SSA,Fragile State,Africa
+265,Zimbabwe,Country,Not LDC,SSA,Fragile State,Africa
+610,Armenia,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+611,Azerbaijan,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+613,Kazakhstan,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+614,Kyrgyzstan,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+615,Tajikistan,Country,Not LDC,Not SSA,Fragile State,Not Africa
+616,Turkmenistan,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+617,Uzbekistan,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+927,Other EU institutions,Multilateral,Not LDC,Not SSA,Not Fragile State,Not Africa
+900,Other World Bank (AMCs),Multilateral,Not LDC,Not SSA,Not Fragile State,Not Africa
+904,IDA-MDRI,Multilateral,Not LDC,Not SSA,Not Fragile State,Not Africa
+57,Kosovo,Country,Not LDC,Not SSA,Not Fragile State,Not Africa
+279,South Sudan,Country,LDC,SSA,Fragile State,Africa
+10203,"Fragile states, Total",Group,Not LDC,Not SSA,Not Fragile State,Not Africa

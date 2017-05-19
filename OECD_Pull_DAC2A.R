@@ -14,7 +14,7 @@ library(tidyverse)
 library(OECD)
 
 #Set working directory
-setwd("H:/OECD_data")
+#setwd("H:/OECD_data")
 
 
 #Get structure of DAC 2A and copy some dimensions tables to help denormalise that main table later
@@ -32,34 +32,35 @@ dac2a.data_type <- dac2a.struct$DATATYPE
 names(dac2a.data_type) <- c("DATATYPE", "Data_type")
 
 
+
 ##Pull the data and save it locally
 #Pull years separately and then combine them
-dac2a.2015 <- get_dataset("TABLE2A", start_time = 2015)
-dac2a.2014 <- get_dataset("TABLE2A", start_time = 2014, end_time = 2014)
-dac2a.2013 <- get_dataset("TABLE2A", start_time = 2013, end_time = 2013)
-dac2a.2012 <- get_dataset("TABLE2A", start_time = 2012, end_time = 2012)
-dac2a.2011 <- get_dataset("TABLE2A", start_time = 2011, end_time = 2011)
-dac2a.2010 <- get_dataset("TABLE2A", start_time = 2010, end_time = 2010)
+dac2a.1415 <- get_dataset("TABLE2A", filter = "..1+2.106+250.A+D", start_time = 2014, end_time = 2015, pre_formatted = TRUE)
+dac2a.1213 <- get_dataset("TABLE2A", filter = "..1+2.106+250.A+D", start_time = 2012, end_time = 2013, pre_formatted = TRUE)
+dac2a.1011 <- get_dataset("TABLE2A", filter = "..1+2.106+250.A+D", start_time = 2010, end_time = 2011, pre_formatted = TRUE)
+dac2a.0809 <- get_dataset("TABLE2A", filter = "..1+2.106+250.A+D", start_time = 2008, end_time = 2009, pre_formatted = TRUE)
+dac2a.07 <- get_dataset("TABLE2A", filter = "..1+2.106+250.A+D", start_time = 2007, end_time = 2007, pre_formatted = TRUE)
 
-dac2a <- dac2a.2015 %>% 
-  bind_rows(dac2a.2014) %>% 
-  bind_rows(dac2a.2013) %>% 
-  bind_rows(dac2a.2012) %>% 
-  bind_rows(dac2a.2011) %>% 
-  bind_rows(dac2a.2010) 
+#write.csv(dac2a.1415, 'dac2a_filtered_1415.csv', row.names = FALSE)
 
-rm(dac2a.2015, dac2a.2014, dac2a.2013, dac2a.2012, dac2a.2011, dac2a.2010)
+dac2a <- dac2a.1415 %>% 
+  bind_rows(dac2a.1213) %>% 
+  bind_rows(dac2a.1011) %>% 
+  bind_rows(dac2a.0809) %>% 
+  bind_rows(dac2a.07)
+
+#rm(dac2a.2015, dac2a.2014, dac2a.2013, dac2a.2012, dac2a.2011, dac2a.2010)
 
 #Add a column that shows when the data was pulled
 dac2a$as_of_date <- Sys.Date()
 
-write.csv(dac2a, "source/dac2a_20102015.csv", row.names = FALSE)
+write.csv(dac2a, "../source_data/dac2a_filtered_2007_2015_20170518.csv", row.names = FALSE)
 
 
 
 
 #If the data has already been pulled, start by reading the locally stored data
-dac2a <- read.csv("source/dac2a_20102015.csv", stringsAsFactors = FALSE)
+dac2a <- read.csv("../source_data/dac2a_filtered_2007_2015_20170518.csv", stringsAsFactors = FALSE)
 
 #Read in the table of donor dimensions (same table as for DAC1)
 dac2a.donors <- read.csv("dimensions/dac2a_donors_map.csv", stringsAsFactors = FALSE)
@@ -80,5 +81,5 @@ dac2a <- dac2a %>%
 
 rm(dac2a.aidtype, dac2a.data_type, dac2a.donors, dac2a.recipient)
 
-write.csv(dac2a, "source/dac2a_20102015_denorm.csv", row.names = FALSE)
+write.csv(dac2a, "../source_data/dac2a_filtered_2007_2015_20170518_denorm.csv", row.names = FALSE)
 

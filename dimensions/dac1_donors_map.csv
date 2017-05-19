@@ -32,7 +32,7 @@ DAC_DONOR,Donor,Donor_Group_Type,Donor_DAC_Country,Donor_EU_Country
 30,Cyprus,Donor,Non-DAC,EU
 68,Czech Republic,Donor,DAC,EU
 82,Estonia,Donor,Non-DAC,EU
-75,Hungary,Donor,Non-DAC,EU
+75,Hungary,Donor,DAC,EU
 20,Iceland,Donor,DAC,Non-EU
 546,Israel,Donor,Non-DAC,Non-EU
 552,Kuwait (KFAED),Donor,Non-DAC,Non-EU
