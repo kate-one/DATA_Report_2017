@@ -2,6 +2,11 @@ import pandas as pd
 import os.path
 import json
 
+#TODO: clean up metric names and remove ones not needed
+#TODO: add ratio-based metrics (e.g. ODA / GNI, ODA to LDCs / Total ODA)
+#TODO: add a section of the JSON for annotations & translations
+#TODO: add data 'as of' to JSON
+
 # Paths
 BASE = os.path.abspath(os.path.dirname(__file__))
 PATH = '../views/DAC_Combined_Interactive.csv'
