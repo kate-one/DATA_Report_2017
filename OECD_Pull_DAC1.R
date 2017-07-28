@@ -4,7 +4,6 @@
 
 #This script pulls multiple years of DAC1 data from the OECD and
 #structures it into a denormalised table for analysis.
-#It also outputs a version for use in a Tableau dashboard.
 
 #V1 13-Mar-2017  K Vang
 

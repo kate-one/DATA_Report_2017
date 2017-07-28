@@ -32,7 +32,7 @@ deflators <- deflators %>%
          Deflator = as.numeric(Deflator.char)/100) %>%
   select(-Year.real, -Deflator.char)
 
-#### Manual correction/assumption for Germany's missing LDC number
+#### Insert manual correction/assumption for Germany's missing LDC number
 germany.2015.actual <- dac2a %>%
   filter(Donor == 'Germany',
          Recipient == 'LDCs, Total',
@@ -214,3 +214,23 @@ tableau.combined.imputed <- tableau.combined %>%
 
 
 write.csv(tableau.combined.imputed, 'views/DAC_Combined_Tableau_Draft.csv', row.names = FALSE)
+
+
+# Create a long form of the data to use in the DATA report online interactive viz
+# Where data type is a dimension
+tableau.combined.imputed.long <- tableau.combined %>%
+  select(-Constant_price_date, -Population) %>% 
+  gather(Metric, Value, -Donor, -Donor_Group_Type, -Donor_DAC_Country, 
+         -Donor_EU_Country, -as_of_date, -Data_type, -Time_Period) %>% 
+  spread(Data_type, Value) %>% 
+  left_join(price.conversion.table, by=c('Donor','Time_Period')) %>% 
+  mutate(National_Currency_Imputed = ifelse(is.na(`National currency`) & Donor_Group_Type == 'Donor', 
+                                            `Current Prices` * National_Ccy_Ratio, `National currency`),
+         Constant_Prices_Imputed = ifelse(is.na(`Constant Prices`) & Donor_Group_Type == 'Donor', 
+                                          `Current Prices` * Constant_Price_Ratio, `Constant Prices`)) %>% 
+  select(-`National currency`, -`Constant Prices`, -Constant_Price_Ratio, -National_Ccy_Ratio) %>% 
+  mutate(`National currency` = National_Currency_Imputed,
+         `Constant Prices` = Constant_Prices_Imputed) %>% 
+  select(-National_Currency_Imputed, -Constant_Prices_Imputed)
+
+write.csv(tableau.combined.imputed.long, 'views/DAC_Combined_Interactive.csv', row.names = FALSE)
