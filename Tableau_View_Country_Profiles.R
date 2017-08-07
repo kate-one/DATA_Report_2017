@@ -231,6 +231,7 @@ tableau.combined.imputed.long <- tableau.combined %>%
   select(-`National currency`, -`Constant Prices`, -Constant_Price_Ratio, -National_Ccy_Ratio) %>% 
   mutate(`National currency` = National_Currency_Imputed,
          `Constant Prices` = Constant_Prices_Imputed) %>% 
-  select(-National_Currency_Imputed, -Constant_Prices_Imputed)
+  select(-National_Currency_Imputed, -Constant_Prices_Imputed) %>% 
+  gather(Data_type, Value, `Current Prices`:`Constant Prices`)
 
 write.csv(tableau.combined.imputed.long, 'views/DAC_Combined_Interactive.csv', row.names = FALSE)
