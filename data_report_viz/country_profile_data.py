@@ -89,7 +89,10 @@ def build_json(path = PATH, profiles = PROFILES, metrics = METRICS, new_names = 
     record_dict = record_dict.apply(lambda x: x.to_dict(orient='record'))
     record_dict = record_dict.to_dict()
 
-    return record_dict
+    dict = {}
+    dict['data'] = record_dict
+
+    return dict
 
 
 def run():
