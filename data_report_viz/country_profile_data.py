@@ -63,11 +63,14 @@ def build_json(path = PATH, profiles = PROFILES, metrics = METRICS, new_names = 
                                   columns='Metric', values='Value')
 
     # Calculate ratios
-    df_wide['ODA_Over_GNI'] = (df_wide['Total_ODA_ONE']/df_wide['GNI']).where(df_wide['GNI'] != 0)
+    df_wide['All_ODA_Over_GNI'] = (df_wide['Total_ODA_ONE']/df_wide['GNI']).where(df_wide['GNI'] != 0)
     df_wide['LDC_ODA_Over_GNI'] = (df_wide['LDC_ODA'] / df_wide['GNI']).where(df_wide['GNI'] != 0)
     df_wide['LDC_ODA_Over_All_ODA'] = df_wide['LDC_ODA'] / df_wide['Total_ODA_ONE']
     df_wide['Africa_ODA_Over_All_ODA'] = df_wide['Africa_ODA'] / df_wide['Total_ODA_ONE']
     df_wide['All_ODA_Excl_Refugee_Costs'] = df_wide['Total_ODA_ONE'] - df_wide['IA82_In_Donor_Refugee_Cost']
+    df_wide['All_ODA_Excl_Refugee_Costs_Over_GNI'] = (df_wide['All_ODA_Excl_Refugee_Costs']/df_wide['GNI']).where(df_wide['GNI'] != 0)
+    df_wide['All_ODA_In_Donor_Refugee_Over_GNI'] = (df_wide['IA82_In_Donor_Refugee_Cost'] / df_wide['GNI']).where(
+        df_wide['GNI'] != 0)
 
     # Reshape data to be long
     df_long = df_wide.stack(level = 'Metric').reset_index()
