@@ -38,7 +38,7 @@ for c in countries:
         for y in grouped_by_year:
             # Create and populate dict for every country/datatype/year
             adict = dict(zip(y[1]['Metric'].values, y[1]['Value'].values))
-            adict["Time_Period"] = y[0]
+            adict["Time_Period"] = int(y[0])
 
             # pprint(adict)
 
@@ -155,4 +155,4 @@ for l in languages:
 pprint(nested_data["annotations"] )
 #
 with open('country_profiles_nested_v2.json', 'w') as outfile:
-    json.dump(nested_data, outfile)
+    json.dump(nested_data, outfile, indent=4, separators=(',', ': '))
