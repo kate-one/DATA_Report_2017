@@ -47,10 +47,11 @@ for c in countries:
                 'All_ODA_Over_GNI',
                 'LDC_ODA_Over_All_ODA',
                 'Africa_ODA_Over_All_ODA',
-                'All_ODA_In_Donor_Refugee_Over_GNI',
+                'In_Donor_Refugee_Over_All_ODA',
                 'All_ODA',
                 'LDC_ODA',
                 'Africa_ODA',
+                'In_Donor_Refugee_Costs',
                 'Time_Period'
             ]
 
@@ -73,7 +74,7 @@ for c in countries:
             # Create percenatges of LDC, Africa and in-donor against ODA/GNI
             adict['LDC_ODA_Over_All_ODA_Over_GNI'] = adict['LDC_ODA_Over_All_ODA'] * adict['All_ODA_Over_GNI']
             adict['Africa_ODA_Over_All_ODA_Over_GNI'] = adict['Africa_ODA_Over_All_ODA'] * adict['All_ODA_Over_GNI']
-            adict['All_ODA_In_Donor_Refugee_Over_GNI_XXX'] = adict['All_ODA_In_Donor_Refugee_Over_GNI'] * adict['All_ODA_Over_GNI']
+            adict['In_Donor_Refugee_Over_GNI'] = adict['In_Donor_Refugee_Over_All_ODA'] * adict['All_ODA_Over_GNI']
 
 
             # Append dict to array
