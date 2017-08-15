@@ -52,6 +52,10 @@ for c in countries:
                 'LDC_ODA',
                 'Africa_ODA',
                 'In_Donor_Refugee_Costs',
+                'All_ODA_YoY_Percent',
+                'LDC_ODA_YoY_Percent',
+                'Africa_ODA_YoY_Percent',
+                'In_Donor_Refugee_YoY_Percent',
                 'Time_Period'
             ]
 
@@ -65,11 +69,6 @@ for c in countries:
             # Filter out the variables and create new dict
             adict = dict(zip(keys, [adict[k] for k in keys]))
             pprint(adict)
-
-            # Create random value for change 2015-16
-            adict['change_All_ODA'] = random.random()
-            adict['change_LDC_ODA'] = random.random()
-            adict['change_Africa_ODA'] = random.random()
 
             # Create percenatges of LDC, Africa and in-donor against ODA/GNI
             adict['LDC_ODA_Over_All_ODA_Over_GNI'] = adict['LDC_ODA_Over_All_ODA'] * adict['All_ODA_Over_GNI']
