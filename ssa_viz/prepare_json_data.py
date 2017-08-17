@@ -17,7 +17,7 @@ def create_json(infile=INFILE_CHART_1, outfile=OUTFILE_CHART_1):
     structure compatible for the d3 charts.
     """
 
-    df = pd.read_csv(INFILE_CHART_1)
+    df = pd.read_csv(infile)
 
     # Transpose
     df = df.T
