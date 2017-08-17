@@ -8,6 +8,10 @@ with open('country_profiles.json') as data_file:
 
 data = dataset['data']
 
+# Load recommendations
+recs = pd.read_csv('recommendations.csv')
+recs_dict = recs.groupby(['profile']).apply(lambda x: x.to_dict(orient='record')).to_dict()
+
 # Get country names
 countries = data.keys()
 
@@ -62,7 +66,7 @@ for c in countries:
             # Check if variable is in keys, otherwise generate random value
             for k in keys:
                 if k not in adict.keys():
-                    adict[k] = random.random()
+                    adict[k] = "None"
                     print(k + ' is not in ' + c)
                     print('***************************************************')
 
@@ -71,9 +75,9 @@ for c in countries:
             pprint(adict)
 
             # Create percenatges of LDC, Africa and in-donor against ODA/GNI
-            adict['LDC_ODA_Over_All_ODA_Over_GNI'] = adict['LDC_ODA_Over_All_ODA'] * adict['All_ODA_Over_GNI']
-            adict['Africa_ODA_Over_All_ODA_Over_GNI'] = adict['Africa_ODA_Over_All_ODA'] * adict['All_ODA_Over_GNI']
-            adict['In_Donor_Refugee_Over_GNI'] = adict['In_Donor_Refugee_Over_All_ODA'] * adict['All_ODA_Over_GNI']
+            # adict['LDC_ODA_Over_All_ODA_Over_GNI'] = adict['LDC_ODA_Over_All_ODA'] * adict['All_ODA_Over_GNI']
+            # adict['Africa_ODA_Over_All_ODA_Over_GNI'] = adict['Africa_ODA_Over_All_ODA'] * adict['All_ODA_Over_GNI']
+            # adict['In_Donor_Refugee_Over_GNI'] = adict['In_Donor_Refugee_Over_All_ODA'] * adict['All_ODA_Over_GNI']
 
 
             # Append dict to array
@@ -86,6 +90,9 @@ for c in countries:
 
     obj[c] = datatype_dict
     nested_data['data_one'][c] = obj[c]
+
+    # Add recommendations for each country
+    nested_data['data_one'][c]['recommendations'] = recs_dict[c]
 
 
 # Create dummy annotations
