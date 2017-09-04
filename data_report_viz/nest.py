@@ -147,8 +147,8 @@ for l in languages:
     nested_data["annotations"][l]['country_profile_page']['country_names'] = {
         "Australia": "Australia",
         "Canada": "Canada",
-        "EU member states": "EU member states",
-        "EU member institutions": "EU member institutions",
+        "EU Countries": "EU member states",
+        "EU Institutions": "EU member institutions",
         "France": "France",
         "Germany": "Germany",
         "Italy": "Italy",
@@ -161,5 +161,5 @@ for l in languages:
 
 pprint(nested_data["annotations"] )
 #
-with open('country_profiles_nested_v2.json', 'w') as outfile:
+with open('country_profiles_nested_v3.json', 'w') as outfile:
     json.dump(nested_data, outfile, indent=4, separators=(',', ': '))
