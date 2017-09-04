@@ -461,20 +461,23 @@
                 {
                     "profile": "Australia",
                     "language": "english",
-                    "recommendations_1": "First text for Australia in english",
-                    "recommendations_2": "Second text for Australia in english"
+                    "recommendations_1": "Australia must reverse the continuing decline of its development assistance budget, which has hit historically low levels, and set itself back on a path towards meeting its international aid commitments.",
+                    "recommendations_2": "Australia needs to take further steps to improve the transparency of its aid programme.",
+                    "recommendations_3": NaN
                 },
                 {
                     "profile": "Australia",
                     "language": "german",
                     "recommendations_1": "First text for Australia in german",
-                    "recommendations_2": "Second text for Australia in german"
+                    "recommendations_2": "Second text for Australia in german",
+                    "recommendations_3": NaN
                 },
                 {
                     "profile": "Australia",
                     "language": "french",
                     "recommendations_1": "First text for Australia in french",
-                    "recommendations_2": "Second text for Australia in french"
+                    "recommendations_2": "Second text for Australia in french",
+                    "recommendations_3": NaN
                 }
             ]
         },
@@ -939,20 +942,23 @@
                 {
                     "profile": "Canada",
                     "language": "english",
-                    "recommendations_1": "First text for Canada in english",
-                    "recommendations_2": "Second text for Canada in english"
+                    "recommendations_1": "Canada must set out a plan to get back on track with increases to its aid budget by 2020, in order to contribute to the SDGs and make a significant impact for women and girls through its new policies.\n",
+                    "recommendations_2": "Canada should ensure that funds channelled through its new development finance institution clearly promote economic development and poverty reduction, and should be targeted to the poorest countries and fragile states.",
+                    "recommendations_3": NaN
                 },
                 {
                     "profile": "Canada",
                     "language": "german",
                     "recommendations_1": "First text for Canada in german",
-                    "recommendations_2": "Second text for Canada in german"
+                    "recommendations_2": "Second text for Canada in german",
+                    "recommendations_3": NaN
                 },
                 {
                     "profile": "Canada",
                     "language": "french",
                     "recommendations_1": "First text for Canada in french",
-                    "recommendations_2": "Second text for Canada in french"
+                    "recommendations_2": "Second text for Canada in french",
+                    "recommendations_3": NaN
                 }
             ]
         },
@@ -1266,19 +1272,22 @@
                     "profile": "EU Countries",
                     "language": "english",
                     "recommendations_1": "First text for EU Countries in english",
-                    "recommendations_2": "Second text for EU Countries in english"
+                    "recommendations_2": "Second text for EU Countries in english",
+                    "recommendations_3": NaN
                 },
                 {
                     "profile": "EU Countries",
                     "language": "german",
                     "recommendations_1": "First text for EU Countries in german",
-                    "recommendations_2": "Second text for EU Countries in german"
+                    "recommendations_2": "Second text for EU Countries in german",
+                    "recommendations_3": NaN
                 },
                 {
                     "profile": "EU Countries",
                     "language": "french",
                     "recommendations_1": "First text for EU Countries in french",
-                    "recommendations_2": "Second text for EU Countries in french"
+                    "recommendations_2": "Second text for EU Countries in french",
+                    "recommendations_3": NaN
                 }
             ]
         },
@@ -1743,20 +1752,23 @@
                 {
                     "profile": "EU Institutions",
                     "language": "english",
-                    "recommendations_1": "First text for EU Institutions in english",
-                    "recommendations_2": "Second text for EU Institutions in english"
+                    "recommendations_1": "The EU must ensure that every new commitment to deal with short-term crises is additional to planned ODA, so that EU aid can continue to focus on long-term poverty eradication, particularly for life-saving health, nutrition and education programmes.",
+                    "recommendations_2": "The EU must scale up aid invested in longterm development, especially in the poorest and most fragile African countries.",
+                    "recommendations_3": "The EU must ensure that ODA used to leverage private investment supports only projects that would not otherwise have received financial investment, benefits local actors and stimulates sustainable growth in the most fragile and poorest regions.\n"
                 },
                 {
                     "profile": "EU Institutions",
                     "language": "german",
                     "recommendations_1": "First text for EU Institutions in german",
-                    "recommendations_2": "Second text for EU Institutions in german"
+                    "recommendations_2": "Second text for EU Institutions in german",
+                    "recommendations_3": NaN
                 },
                 {
                     "profile": "EU Institutions",
                     "language": "french",
                     "recommendations_1": "First text for EU Institutions in french",
-                    "recommendations_2": "Second text for EU Institutions in french"
+                    "recommendations_2": "Second text for EU Institutions in french",
+                    "recommendations_3": NaN
                 }
             ]
         },
@@ -2221,20 +2233,23 @@
                 {
                     "profile": "France",
                     "language": "english",
-                    "recommendations_1": "First text for France in english",
-                    "recommendations_2": "Second text for France in english"
+                    "recommendations_1": "From its 2018 budget onwards, France needs to set a path to reach the 0.7% ODA/GNI target by 2022. This trajectory should be translated into law and ODA should increase significantly from 2018 onwards.",
+                    "recommendations_2": "France should double the share of its ODA allocated to fragile states and LDCs in Africa by 2022, to reach a proportion of 58% of ODA targeted towards the continent\u2019s poorest and most fragile countries.",
+                    "recommendations_3": "France should improve its aid transparency by making sure that relevant data from all French agencies and ministries are made available in open data format and on a single, centralised online platform."
                 },
                 {
                     "profile": "France",
                     "language": "german",
                     "recommendations_1": "First text for France in german",
-                    "recommendations_2": "Second text for France in german"
+                    "recommendations_2": "Second text for France in german",
+                    "recommendations_3": NaN
                 },
                 {
                     "profile": "France",
                     "language": "french",
                     "recommendations_1": "First text for France in french",
-                    "recommendations_2": "Second text for France in french"
+                    "recommendations_2": "Second text for France in french",
+                    "recommendations_3": NaN
                 }
             ]
         },
@@ -2699,20 +2714,23 @@
                 {
                     "profile": "Germany",
                     "language": "english",
-                    "recommendations_1": "First text for Germany in english",
-                    "recommendations_2": "Second text for Germany in english"
+                    "recommendations_1": "Germany should uphold the target of spending 0.7% ODA/GNI, even as in-donor refugee costs decline over the coming years.",
+                    "recommendations_2": "To maximise the effects of development cooperation in reducing poverty, Germany should focus funds on LDCs and fragile states and should strengthen multilateral funding mechanisms.",
+                    "recommendations_3": NaN
                 },
                 {
                     "profile": "Germany",
                     "language": "german",
                     "recommendations_1": "First text for Germany in german",
-                    "recommendations_2": "Second text for Germany in german"
+                    "recommendations_2": "Second text for Germany in german",
+                    "recommendations_3": NaN
                 },
                 {
                     "profile": "Germany",
                     "language": "french",
                     "recommendations_1": "First text for Germany in french",
-                    "recommendations_2": "Second text for Germany in french"
+                    "recommendations_2": "Second text for Germany in french",
+                    "recommendations_3": NaN
                 }
             ]
         },
@@ -3177,20 +3195,23 @@
                 {
                     "profile": "Italy",
                     "language": "english",
-                    "recommendations_1": "First text for Italy in english",
-                    "recommendations_2": "Second text for Italy in english"
+                    "recommendations_1": "Ahead of the 2018 elections, political parties should commit to investing 0.5% ODA/GNI by the end of the next Parliament.",
+                    "recommendations_2": "Italy must improve the quality of its aid by ensuring that it focuses on poverty eradication, particularly in LDCs and fragile states, and that it takes ambitious steps to improve transparency.",
+                    "recommendations_3": "Italy should support public registers for EU companies and trusts as part of the revision of the EU\u2019s Anti-Money Laundering Directive."
                 },
                 {
                     "profile": "Italy",
                     "language": "german",
                     "recommendations_1": "First text for Italy in german",
-                    "recommendations_2": "Second text for Italy in german"
+                    "recommendations_2": "Second text for Italy in german",
+                    "recommendations_3": NaN
                 },
                 {
                     "profile": "Italy",
                     "language": "french",
                     "recommendations_1": "First text for Italy in french",
-                    "recommendations_2": "Second text for Italy in french"
+                    "recommendations_2": "Second text for Italy in french",
+                    "recommendations_3": NaN
                 }
             ]
         },
@@ -3655,20 +3676,23 @@
                 {
                     "profile": "Japan",
                     "language": "english",
-                    "recommendations_1": "First text for Japan in english",
-                    "recommendations_2": "Second text for Japan in english"
+                    "recommendations_1": "Japan should prioritise its aid towards the poorest countries, particularly in Africa.",
+                    "recommendations_2": "Japan should improve its performance on facilitating financial transparency, focusing specifically on improvements on a range of policies, including public company ownership and country-by-country reporting.",
+                    "recommendations_3": NaN
                 },
                 {
                     "profile": "Japan",
                     "language": "german",
                     "recommendations_1": "First text for Japan in german",
-                    "recommendations_2": "Second text for Japan in german"
+                    "recommendations_2": "Second text for Japan in german",
+                    "recommendations_3": NaN
                 },
                 {
                     "profile": "Japan",
                     "language": "french",
                     "recommendations_1": "First text for Japan in french",
-                    "recommendations_2": "Second text for Japan in french"
+                    "recommendations_2": "Second text for Japan in french",
+                    "recommendations_3": NaN
                 }
             ]
         },
@@ -4133,20 +4157,23 @@
                 {
                     "profile": "Netherlands",
                     "language": "english",
-                    "recommendations_1": "First text for Netherlands in english",
-                    "recommendations_2": "Second text for Netherlands in english"
+                    "recommendations_1": "The new Dutch government should restore the development budget to the internationally agreed goal of 0.7% ODA/GNI, aiming to spend 50% on LDCs and fragile states, and it should make in-donor refugee costs additional to ODA.",
+                    "recommendations_2": "The next Minister for Foreign Trade and Development Cooperation should add education to the development agenda to complement the current focus on employment and empowerment.",
+                    "recommendations_3": NaN
                 },
                 {
                     "profile": "Netherlands",
                     "language": "german",
                     "recommendations_1": "First text for Netherlands in german",
-                    "recommendations_2": "Second text for Netherlands in german"
+                    "recommendations_2": "Second text for Netherlands in german",
+                    "recommendations_3": NaN
                 },
                 {
                     "profile": "Netherlands",
                     "language": "french",
                     "recommendations_1": "First text for Netherlands in french",
-                    "recommendations_2": "Second text for Netherlands in french"
+                    "recommendations_2": "Second text for Netherlands in french",
+                    "recommendations_3": NaN
                 }
             ]
         },
@@ -4611,20 +4638,23 @@
                 {
                     "profile": "Sweden",
                     "language": "english",
-                    "recommendations_1": "First text for Sweden in english",
-                    "recommendations_2": "Second text for Sweden in english"
+                    "recommendations_1": "The Swedish government should immediately amend its 2017 financial budget and reallocate money back into the aid budget as a result of the lower number of asylum seekers.",
+                    "recommendations_2": "The Swedish government should honour its commitment to provide 1% of GNI in aid in 2017.",
+                    "recommendations_3": NaN
                 },
                 {
                     "profile": "Sweden",
                     "language": "german",
                     "recommendations_1": "First text for Sweden in german",
-                    "recommendations_2": "Second text for Sweden in german"
+                    "recommendations_2": "Second text for Sweden in german",
+                    "recommendations_3": NaN
                 },
                 {
                     "profile": "Sweden",
                     "language": "french",
                     "recommendations_1": "First text for Sweden in french",
-                    "recommendations_2": "Second text for Sweden in french"
+                    "recommendations_2": "Second text for Sweden in french",
+                    "recommendations_3": NaN
                 }
             ]
         },
@@ -5089,20 +5119,23 @@
                 {
                     "profile": "United Kingdom",
                     "language": "english",
-                    "recommendations_1": "First text for United Kingdom in english",
-                    "recommendations_2": "Second text for United Kingdom in english"
+                    "recommendations_1": "As DFID looks to modernise ODA, and to use aid as a soft power tool, an emphasis should be kept on poverty reduction and alleviation of suffering as the primary purposes of aid.",
+                    "recommendations_2": "Before further ODA is spent by other departments and in cross-departmental funds, there is a need to ensure that all departments and funds spending ODA reach the same levels of transparency and accountability as DFID, to ensure that UK aid continues to demonstrate effectiveness and efficiency.",
+                    "recommendations_3": NaN
                 },
                 {
                     "profile": "United Kingdom",
                     "language": "german",
                     "recommendations_1": "First text for United Kingdom in german",
-                    "recommendations_2": "Second text for United Kingdom in german"
+                    "recommendations_2": "Second text for United Kingdom in german",
+                    "recommendations_3": NaN
                 },
                 {
                     "profile": "United Kingdom",
                     "language": "french",
                     "recommendations_1": "First text for United Kingdom in french",
-                    "recommendations_2": "Second text for United Kingdom in french"
+                    "recommendations_2": "Second text for United Kingdom in french",
+                    "recommendations_3": NaN
                 }
             ]
         },
@@ -5567,20 +5600,23 @@
                 {
                     "profile": "United States",
                     "language": "english",
-                    "recommendations_1": "First text for United States in english",
-                    "recommendations_2": "Second text for United States in english"
+                    "recommendations_1": "The US Congress must reject President Trump\u2019s proposed budget cuts to life-saving assistance and maintain funding to these programmes at a time when the world is facing unprecedented needs.",
+                    "recommendations_2": "The United States should work to improve the transparency of its aid, by increasing what it publishes in regards to aid budgets and results.",
+                    "recommendations_3": "The United States must prioritise its aid to the world\u2019s most vulnerable people."
                 },
                 {
                     "profile": "United States",
                     "language": "german",
                     "recommendations_1": "First text for United States in german",
-                    "recommendations_2": "Second text for United States in german"
+                    "recommendations_2": "Second text for United States in german",
+                    "recommendations_3": NaN
                 },
                 {
                     "profile": "United States",
                     "language": "french",
                     "recommendations_1": "First text for United States in french",
-                    "recommendations_2": "Second text for United States in french"
+                    "recommendations_2": "Second text for United States in french",
+                    "recommendations_3": NaN
                 }
             ]
         }
