@@ -44,7 +44,7 @@
                     "All_ODA_YoY_Percent": 0.07911952119644927,
                     "LDC_ODA_YoY_Percent": 0.004198331296168423,
                     "Africa_ODA_YoY_Percent": 0.2977839335180055,
-                    "In_Donor_Refugee_YoY_Percent": Infinity,
+                    "In_Donor_Refugee_YoY_Percent": "Infinity",
                     "Time_Period": 2009
                 },
                 {
@@ -196,7 +196,7 @@
                     "All_ODA_YoY_Percent": 0.02248719412301048,
                     "LDC_ODA_YoY_Percent": -0.0484918419922713,
                     "Africa_ODA_YoY_Percent": 0.22954875490776105,
-                    "In_Donor_Refugee_YoY_Percent": Infinity,
+                    "In_Donor_Refugee_YoY_Percent": "Infinity",
                     "Time_Period": 2009
                 },
                 {
@@ -348,7 +348,7 @@
                     "All_ODA_YoY_Percent": 0.07905318532232952,
                     "LDC_ODA_YoY_Percent": 0.004147450119459828,
                     "Africa_ODA_YoY_Percent": 0.2975697965882873,
-                    "In_Donor_Refugee_YoY_Percent": Infinity,
+                    "In_Donor_Refugee_YoY_Percent": "Infinity",
                     "Time_Period": 2009
                 },
                 {
@@ -463,21 +463,21 @@
                     "language": "english",
                     "recommendations_1": "Australia must reverse the continuing decline of its development assistance budget, which has hit historically low levels, and set itself back on a path towards meeting its international aid commitments.",
                     "recommendations_2": "Australia needs to take further steps to improve the transparency of its aid programme.",
-                    "recommendations_3": NaN
+                    "recommendations_3": ""
                 },
                 {
                     "profile": "Australia",
                     "language": "german",
                     "recommendations_1": "First text for Australia in german",
                     "recommendations_2": "Second text for Australia in german",
-                    "recommendations_3": NaN
+                    "recommendations_3": ""
                 },
                 {
                     "profile": "Australia",
                     "language": "french",
                     "recommendations_1": "First text for Australia in french",
                     "recommendations_2": "Second text for Australia in french",
-                    "recommendations_3": NaN
+                    "recommendations_3": ""
                 }
             ]
         },
@@ -944,21 +944,21 @@
                     "language": "english",
                     "recommendations_1": "Canada must set out a plan to get back on track with increases to its aid budget by 2020, in order to contribute to the SDGs and make a significant impact for women and girls through its new policies.\n",
                     "recommendations_2": "Canada should ensure that funds channelled through its new development finance institution clearly promote economic development and poverty reduction, and should be targeted to the poorest countries and fragile states.",
-                    "recommendations_3": NaN
+                    "recommendations_3": ""
                 },
                 {
                     "profile": "Canada",
                     "language": "german",
                     "recommendations_1": "First text for Canada in german",
                     "recommendations_2": "Second text for Canada in german",
-                    "recommendations_3": NaN
+                    "recommendations_3": ""
                 },
                 {
                     "profile": "Canada",
                     "language": "french",
                     "recommendations_1": "First text for Canada in french",
                     "recommendations_2": "Second text for Canada in french",
-                    "recommendations_3": NaN
+                    "recommendations_3": ""
                 }
             ]
         },
@@ -1273,21 +1273,21 @@
                     "language": "english",
                     "recommendations_1": "First text for EU Countries in english",
                     "recommendations_2": "Second text for EU Countries in english",
-                    "recommendations_3": NaN
+                    "recommendations_3": ""
                 },
                 {
                     "profile": "EU Countries",
                     "language": "german",
                     "recommendations_1": "First text for EU Countries in german",
                     "recommendations_2": "Second text for EU Countries in german",
-                    "recommendations_3": NaN
+                    "recommendations_3": ""
                 },
                 {
                     "profile": "EU Countries",
                     "language": "french",
                     "recommendations_1": "First text for EU Countries in french",
                     "recommendations_2": "Second text for EU Countries in french",
-                    "recommendations_3": NaN
+                    "recommendations_3": ""
                 }
             ]
         },
@@ -1395,7 +1395,7 @@
                     "All_ODA_YoY_Percent": -0.12643376281849328,
                     "LDC_ODA_YoY_Percent": -0.04426517341677971,
                     "Africa_ODA_YoY_Percent": -0.20872018466273412,
-                    "In_Donor_Refugee_YoY_Percent": Infinity,
+                    "In_Donor_Refugee_YoY_Percent": "Infinity",
                     "Time_Period": 2013
                 },
                 {
@@ -1547,7 +1547,7 @@
                     "All_ODA_YoY_Percent": -0.08654138944727063,
                     "LDC_ODA_YoY_Percent": -0.0006052872231989692,
                     "Africa_ODA_YoY_Percent": -0.17257849859365193,
-                    "In_Donor_Refugee_YoY_Percent": Infinity,
+                    "In_Donor_Refugee_YoY_Percent": "Infinity",
                     "Time_Period": 2013
                 },
                 {
@@ -1699,7 +1699,7 @@
                     "All_ODA_YoY_Percent": -0.11565935029779473,
                     "LDC_ODA_YoY_Percent": -0.03246259940425911,
                     "Africa_ODA_YoY_Percent": -0.19895388835570527,
-                    "In_Donor_Refugee_YoY_Percent": Infinity,
+                    "In_Donor_Refugee_YoY_Percent": "Infinity",
                     "Time_Period": 2013
                 },
                 {
@@ -1761,14 +1761,14 @@
                     "language": "german",
                     "recommendations_1": "First text for EU Institutions in german",
                     "recommendations_2": "Second text for EU Institutions in german",
-                    "recommendations_3": NaN
+                    "recommendations_3": ""
                 },
                 {
                     "profile": "EU Institutions",
                     "language": "french",
                     "recommendations_1": "First text for EU Institutions in french",
                     "recommendations_2": "Second text for EU Institutions in french",
-                    "recommendations_3": NaN
+                    "recommendations_3": ""
                 }
             ]
         },
@@ -2242,14 +2242,14 @@
                     "language": "german",
                     "recommendations_1": "First text for France in german",
                     "recommendations_2": "Second text for France in german",
-                    "recommendations_3": NaN
+                    "recommendations_3": ""
                 },
                 {
                     "profile": "France",
                     "language": "french",
                     "recommendations_1": "First text for France in french",
                     "recommendations_2": "Second text for France in french",
-                    "recommendations_3": NaN
+                    "recommendations_3": ""
                 }
             ]
         },
@@ -2716,21 +2716,21 @@
                     "language": "english",
                     "recommendations_1": "Germany should uphold the target of spending 0.7% ODA/GNI, even as in-donor refugee costs decline over the coming years.",
                     "recommendations_2": "To maximise the effects of development cooperation in reducing poverty, Germany should focus funds on LDCs and fragile states and should strengthen multilateral funding mechanisms.",
-                    "recommendations_3": NaN
+                    "recommendations_3": ""
                 },
                 {
                     "profile": "Germany",
                     "language": "german",
                     "recommendations_1": "First text for Germany in german",
                     "recommendations_2": "Second text for Germany in german",
-                    "recommendations_3": NaN
+                    "recommendations_3": ""
                 },
                 {
                     "profile": "Germany",
                     "language": "french",
                     "recommendations_1": "First text for Germany in french",
                     "recommendations_2": "Second text for Germany in french",
-                    "recommendations_3": NaN
+                    "recommendations_3": ""
                 }
             ]
         },
@@ -2793,7 +2793,7 @@
                     "All_ODA_YoY_Percent": -0.07147852023427692,
                     "LDC_ODA_YoY_Percent": 0.043896545552174704,
                     "Africa_ODA_YoY_Percent": -0.013968547641073026,
-                    "In_Donor_Refugee_YoY_Percent": Infinity,
+                    "In_Donor_Refugee_YoY_Percent": "Infinity",
                     "Time_Period": 2010
                 },
                 {
@@ -2945,7 +2945,7 @@
                     "All_ODA_YoY_Percent": -0.1140151187697509,
                     "LDC_ODA_YoY_Percent": -0.003902485117641352,
                     "Africa_ODA_YoY_Percent": -0.05915032935090914,
-                    "In_Donor_Refugee_YoY_Percent": Infinity,
+                    "In_Donor_Refugee_YoY_Percent": "Infinity",
                     "Time_Period": 2010
                 },
                 {
@@ -3097,7 +3097,7 @@
                     "All_ODA_YoY_Percent": -0.06848825326718011,
                     "LDC_ODA_YoY_Percent": 0.04728258423086018,
                     "Africa_ODA_YoY_Percent": -0.010804203676279656,
-                    "In_Donor_Refugee_YoY_Percent": Infinity,
+                    "In_Donor_Refugee_YoY_Percent": "Infinity",
                     "Time_Period": 2010
                 },
                 {
@@ -3204,14 +3204,14 @@
                     "language": "german",
                     "recommendations_1": "First text for Italy in german",
                     "recommendations_2": "Second text for Italy in german",
-                    "recommendations_3": NaN
+                    "recommendations_3": ""
                 },
                 {
                     "profile": "Italy",
                     "language": "french",
                     "recommendations_1": "First text for Italy in french",
                     "recommendations_2": "Second text for Italy in french",
-                    "recommendations_3": NaN
+                    "recommendations_3": ""
                 }
             ]
         },
@@ -3678,21 +3678,21 @@
                     "language": "english",
                     "recommendations_1": "Japan should prioritise its aid towards the poorest countries, particularly in Africa.",
                     "recommendations_2": "Japan should improve its performance on facilitating financial transparency, focusing specifically on improvements on a range of policies, including public company ownership and country-by-country reporting.",
-                    "recommendations_3": NaN
+                    "recommendations_3": ""
                 },
                 {
                     "profile": "Japan",
                     "language": "german",
                     "recommendations_1": "First text for Japan in german",
                     "recommendations_2": "Second text for Japan in german",
-                    "recommendations_3": NaN
+                    "recommendations_3": ""
                 },
                 {
                     "profile": "Japan",
                     "language": "french",
                     "recommendations_1": "First text for Japan in french",
                     "recommendations_2": "Second text for Japan in french",
-                    "recommendations_3": NaN
+                    "recommendations_3": ""
                 }
             ]
         },
@@ -4159,21 +4159,21 @@
                     "language": "english",
                     "recommendations_1": "The new Dutch government should restore the development budget to the internationally agreed goal of 0.7% ODA/GNI, aiming to spend 50% on LDCs and fragile states, and it should make in-donor refugee costs additional to ODA.",
                     "recommendations_2": "The next Minister for Foreign Trade and Development Cooperation should add education to the development agenda to complement the current focus on employment and empowerment.",
-                    "recommendations_3": NaN
+                    "recommendations_3": ""
                 },
                 {
                     "profile": "Netherlands",
                     "language": "german",
                     "recommendations_1": "First text for Netherlands in german",
                     "recommendations_2": "Second text for Netherlands in german",
-                    "recommendations_3": NaN
+                    "recommendations_3": ""
                 },
                 {
                     "profile": "Netherlands",
                     "language": "french",
                     "recommendations_1": "First text for Netherlands in french",
                     "recommendations_2": "Second text for Netherlands in french",
-                    "recommendations_3": NaN
+                    "recommendations_3": ""
                 }
             ]
         },
@@ -4640,21 +4640,21 @@
                     "language": "english",
                     "recommendations_1": "The Swedish government should immediately amend its 2017 financial budget and reallocate money back into the aid budget as a result of the lower number of asylum seekers.",
                     "recommendations_2": "The Swedish government should honour its commitment to provide 1% of GNI in aid in 2017.",
-                    "recommendations_3": NaN
+                    "recommendations_3": ""
                 },
                 {
                     "profile": "Sweden",
                     "language": "german",
                     "recommendations_1": "First text for Sweden in german",
                     "recommendations_2": "Second text for Sweden in german",
-                    "recommendations_3": NaN
+                    "recommendations_3": ""
                 },
                 {
                     "profile": "Sweden",
                     "language": "french",
                     "recommendations_1": "First text for Sweden in french",
                     "recommendations_2": "Second text for Sweden in french",
-                    "recommendations_3": NaN
+                    "recommendations_3": ""
                 }
             ]
         },
@@ -4702,7 +4702,7 @@
                     "All_ODA_YoY_Percent": 0.17100928214664135,
                     "LDC_ODA_YoY_Percent": 0.0422985234832316,
                     "Africa_ODA_YoY_Percent": 0.11959501333475697,
-                    "In_Donor_Refugee_YoY_Percent": Infinity,
+                    "In_Donor_Refugee_YoY_Percent": "Infinity",
                     "Time_Period": 2009
                 },
                 {
@@ -4854,7 +4854,7 @@
                     "All_ODA_YoY_Percent": 0.026432414020457484,
                     "LDC_ODA_YoY_Percent": -0.08637708848430359,
                     "Africa_ODA_YoY_Percent": -0.01862511593073335,
-                    "In_Donor_Refugee_YoY_Percent": Infinity,
+                    "In_Donor_Refugee_YoY_Percent": "Infinity",
                     "Time_Period": 2009
                 },
                 {
@@ -5006,7 +5006,7 @@
                     "All_ODA_YoY_Percent": 0.18893076073077064,
                     "LDC_ODA_YoY_Percent": 0.05826196481336865,
                     "Africa_ODA_YoY_Percent": 0.1367400050319243,
-                    "In_Donor_Refugee_YoY_Percent": Infinity,
+                    "In_Donor_Refugee_YoY_Percent": "Infinity",
                     "Time_Period": 2009
                 },
                 {
@@ -5121,21 +5121,21 @@
                     "language": "english",
                     "recommendations_1": "As DFID looks to modernise ODA, and to use aid as a soft power tool, an emphasis should be kept on poverty reduction and alleviation of suffering as the primary purposes of aid.",
                     "recommendations_2": "Before further ODA is spent by other departments and in cross-departmental funds, there is a need to ensure that all departments and funds spending ODA reach the same levels of transparency and accountability as DFID, to ensure that UK aid continues to demonstrate effectiveness and efficiency.",
-                    "recommendations_3": NaN
+                    "recommendations_3": ""
                 },
                 {
                     "profile": "United Kingdom",
                     "language": "german",
                     "recommendations_1": "First text for United Kingdom in german",
                     "recommendations_2": "Second text for United Kingdom in german",
-                    "recommendations_3": NaN
+                    "recommendations_3": ""
                 },
                 {
                     "profile": "United Kingdom",
                     "language": "french",
                     "recommendations_1": "First text for United Kingdom in french",
                     "recommendations_2": "Second text for United Kingdom in french",
-                    "recommendations_3": NaN
+                    "recommendations_3": ""
                 }
             ]
         },
@@ -5609,14 +5609,14 @@
                     "language": "german",
                     "recommendations_1": "First text for United States in german",
                     "recommendations_2": "Second text for United States in german",
-                    "recommendations_3": NaN
+                    "recommendations_3": ""
                 },
                 {
                     "profile": "United States",
                     "language": "french",
                     "recommendations_1": "First text for United States in french",
                     "recommendations_2": "Second text for United States in french",
-                    "recommendations_3": NaN
+                    "recommendations_3": ""
                 }
             ]
         }

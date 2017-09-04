@@ -1,5 +1,5 @@
 import pandas as pd
-import os.path
+import numpy as np
 import json
 
 #TODO: add a section of the JSON for annotations & translations
@@ -104,6 +104,9 @@ def build_json(path = PATH, profiles = PROFILES, metrics = METRICS, new_names = 
 
     # Drop nulls
     df_long = df_long.dropna()
+
+    # Replace infinities
+    df_long = df_long.replace([np.inf, -np.inf], "Infinity")
 
     # Drop rows with GNI for EU Institutions since this doesn't exist
     df_long = df_long[~(df_long['Donor'] == 'EU Institutions') | ~(df_long['Metric'] == 'GNI')]

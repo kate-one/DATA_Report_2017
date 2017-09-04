@@ -10,6 +10,7 @@ data = dataset['data']
 
 # Load recommendations
 recs = pd.read_csv('recommendations.csv')
+recs = recs.fillna('')
 recs_dict = recs.groupby(['profile']).apply(lambda x: x.to_dict(orient='record')).to_dict()
 
 # Get country names

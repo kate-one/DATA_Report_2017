@@ -5613,7 +5613,7 @@
                 "Donor": "Australia",
                 "Metric": "In_Donor_Refugee_YoY_Percent",
                 "Time_Period": 2009,
-                "Value": Infinity
+                "Value": "Infinity"
             },
             {
                 "Data_type": "Constant Prices",
@@ -5655,7 +5655,7 @@
                 "Donor": "Australia",
                 "Metric": "In_Donor_Refugee_YoY_Percent",
                 "Time_Period": 2009,
-                "Value": Infinity
+                "Value": "Infinity"
             },
             {
                 "Data_type": "Current Prices",
@@ -5697,7 +5697,7 @@
                 "Donor": "Australia",
                 "Metric": "In_Donor_Refugee_YoY_Percent",
                 "Time_Period": 2009,
-                "Value": Infinity
+                "Value": "Infinity"
             },
             {
                 "Data_type": "National currency",
@@ -19962,7 +19962,7 @@
                 "Donor": "EU Institutions",
                 "Metric": "In_Donor_Refugee_YoY_Percent",
                 "Time_Period": 2013,
-                "Value": Infinity
+                "Value": "Infinity"
             },
             {
                 "Data_type": "Constant Prices",
@@ -19983,7 +19983,7 @@
                 "Donor": "EU Institutions",
                 "Metric": "In_Donor_Refugee_YoY_Percent",
                 "Time_Period": 2013,
-                "Value": Infinity
+                "Value": "Infinity"
             },
             {
                 "Data_type": "Current Prices",
@@ -20004,7 +20004,7 @@
                 "Donor": "EU Institutions",
                 "Metric": "In_Donor_Refugee_YoY_Percent",
                 "Time_Period": 2013,
-                "Value": Infinity
+                "Value": "Infinity"
             },
             {
                 "Data_type": "National currency",
@@ -37244,7 +37244,7 @@
                 "Donor": "Italy",
                 "Metric": "In_Donor_Refugee_YoY_Percent",
                 "Time_Period": 2010,
-                "Value": Infinity
+                "Value": "Infinity"
             },
             {
                 "Data_type": "Constant Prices",
@@ -37307,7 +37307,7 @@
                 "Donor": "Italy",
                 "Metric": "In_Donor_Refugee_YoY_Percent",
                 "Time_Period": 2010,
-                "Value": Infinity
+                "Value": "Infinity"
             },
             {
                 "Data_type": "Current Prices",
@@ -37370,7 +37370,7 @@
                 "Donor": "Italy",
                 "Metric": "In_Donor_Refugee_YoY_Percent",
                 "Time_Period": 2010,
-                "Value": Infinity
+                "Value": "Infinity"
             },
             {
                 "Data_type": "National currency",
@@ -60422,7 +60422,7 @@
                 "Donor": "United Kingdom",
                 "Metric": "In_Donor_Refugee_YoY_Percent",
                 "Time_Period": 2009,
-                "Value": Infinity
+                "Value": "Infinity"
             },
             {
                 "Data_type": "Constant Prices",
@@ -60478,7 +60478,7 @@
                 "Donor": "United Kingdom",
                 "Metric": "In_Donor_Refugee_YoY_Percent",
                 "Time_Period": 2009,
-                "Value": Infinity
+                "Value": "Infinity"
             },
             {
                 "Data_type": "Current Prices",
@@ -60534,7 +60534,7 @@
                 "Donor": "United Kingdom",
                 "Metric": "In_Donor_Refugee_YoY_Percent",
                 "Time_Period": 2009,
-                "Value": Infinity
+                "Value": "Infinity"
             },
             {
                 "Data_type": "National currency",
