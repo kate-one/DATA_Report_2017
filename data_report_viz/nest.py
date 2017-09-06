@@ -101,7 +101,7 @@ for c in countries:
 
 
 # Create dummy annotations
-nested_data["annotations"] = annotations
+nested_data["annotations"] = annotations['annotations']
 # languages = ['english', 'german', 'french']
 #
 # for l in languages:
