@@ -13,6 +13,10 @@ recs = pd.read_csv('recommendations.csv')
 recs = recs.fillna('')
 recs_dict = recs.groupby(['profile']).apply(lambda x: x.to_dict(orient='record')).to_dict()
 
+# Load annotations
+js = open('annotations.json', encoding='utf-8').read()
+annotations = json.loads(js)
+
 # Get country names
 countries = data.keys()
 
@@ -97,70 +101,70 @@ for c in countries:
 
 
 # Create dummy annotations
-nested_data["annotations"] = {}
-languages = ['english', 'german', 'french']
-
-for l in languages:
-    nested_data["annotations"][l] = {}
-    nested_data["annotations"][l]['selector_page'] = {
-        "title": "Country profiles",
-        "intro_line": "This is an intro line",
-        "instructions": "Click on a country to find out more",
-        "legend_target_met": "ODA / GNI target met",
-        "legend_target_not_met": "ODA / GNI target not met"
-    }
-    nested_data["annotations"][l]['country_profile_page'] = {
-        "country_name": "Country Name",
-        "context_chart_title": "Aid over time",
-        "context_chart_selector": "Show proportion of aid going to:",
-        "context_chart_button_1": "LDC",
-        "context_chart_button_2": "AFRICA",
-        "context_chart_button_3": "IN-DONOR",
-        "target_chart_title": "Targets",
-        "target_chart_met": "Target met",
-        "target_chart_not_met": "Target not met",
-        "key_stats_table_title": "Key statistics",
-        "key_stats_table_local_currency": "GBP",
-        "key_stats_table_row_1_title": "Global",
-        "key_stats_table_row_2_title": "ODA to LDCs",
-        "key_stats_table_row_3_title": "ODA to Africa",
-        "recommendations_title": "Recommendations",
-        "recommendations_1": "This is a sample recommendation 1",
-        "recommendations_2": "This is a sample recommendation 2"
-    }
-
-    # Country specific variables
-    nested_data["annotations"][l]['country_profile_page']['currencies'] = {
-        "Australia": "AUD",
-        "Canada": "CAD",
-        "EU member states": "EUR",
-        "EU member institutions": "EUR",
-        "France": "EUR",
-        "Germany": "EUR",
-        "Italy": "EUR",
-        "Japan": "JPY",
-        "Netherlands": "EUR",
-        "Sweden": "SEK",
-        "United Kingdom": "GBP",
-        "United States": "USD",
-    }
-
-    nested_data["annotations"][l]['country_profile_page']['country_names'] = {
-        "Australia": "Australia",
-        "Canada": "Canada",
-        "EU Countries": "EU member states",
-        "EU Institutions": "EU member institutions",
-        "France": "France",
-        "Germany": "Germany",
-        "Italy": "Italy",
-        "Japan": "Japan",
-        "Netherlands": "Netherlands",
-        "Sweden": "Sweden",
-        "United Kingdom": "United Kingdom",
-        "United States": "United States",
-    }
-
-pprint(nested_data["annotations"] )
+nested_data["annotations"] = annotations
+# languages = ['english', 'german', 'french']
 #
-with open('country_profiles_nested_v3.json', 'w') as outfile:
-    json.dump(nested_data, outfile, indent=4, separators=(',', ': '))
+# for l in languages:
+#     nested_data["annotations"][l] = {}
+#     nested_data["annotations"][l]['selector_page'] = {
+#         "title": "Country profiles",
+#         "intro_line": "This is an intro line",
+#         "instructions": "Click on a country to find out more",
+#         "legend_target_met": "ODA / GNI target met",
+#         "legend_target_not_met": "ODA / GNI target not met"
+#     }
+#     nested_data["annotations"][l]['country_profile_page'] = {
+#         "country_name": "Country Name",
+#         "context_chart_title": "Aid over time",
+#         "context_chart_selector": "Show proportion of aid going to:",
+#         "context_chart_button_1": "LDC",
+#         "context_chart_button_2": "AFRICA",
+#         "context_chart_button_3": "IN-DONOR",
+#         "target_chart_title": "Targets",
+#         "target_chart_met": "Target met",
+#         "target_chart_not_met": "Target not met",
+#         "key_stats_table_title": "Key statistics",
+#         "key_stats_table_local_currency": "GBP",
+#         "key_stats_table_row_1_title": "Global",
+#         "key_stats_table_row_2_title": "ODA to LDCs",
+#         "key_stats_table_row_3_title": "ODA to Africa",
+#         "recommendations_title": "Recommendations",
+#         "recommendations_1": "This is a sample recommendation 1",
+#         "recommendations_2": "This is a sample recommendation 2"
+#     }
+#
+#     # Country specific variables
+#     nested_data["annotations"][l]['country_profile_page']['currencies'] = {
+#         "Australia": "AUD",
+#         "Canada": "CAD",
+#         "EU member states": "EUR",
+#         "EU member institutions": "EUR",
+#         "France": "EUR",
+#         "Germany": "EUR",
+#         "Italy": "EUR",
+#         "Japan": "JPY",
+#         "Netherlands": "EUR",
+#         "Sweden": "SEK",
+#         "United Kingdom": "GBP",
+#         "United States": "USD",
+#     }
+#
+#     nested_data["annotations"][l]['country_profile_page']['country_names'] = {
+#         "Australia": "Australia",
+#         "Canada": "Canada",
+#         "EU Countries": "EU member states",
+#         "EU Institutions": "EU member institutions",
+#         "France": "France",
+#         "Germany": "Germany",
+#         "Italy": "Italy",
+#         "Japan": "Japan",
+#         "Netherlands": "Netherlands",
+#         "Sweden": "Sweden",
+#         "United Kingdom": "United Kingdom",
+#         "United States": "United States",
+#     }
+#
+# pprint(nested_data["annotations"] )
+#
+with open('country_profiles_nested_v4.json', 'w') as outfile:
+    json.dump(nested_data, outfile, indent=4, separators=(',', ': '), ensure_ascii=True)

@@ -1,0 +1,175 @@
+{
+    "annotations": {
+        "english": {
+            "selector_page": {
+                "title": "Country profiles",
+                "intro_line": "This is an intro line",
+                "instructions": "Click on a country to find out more",
+                "legend_target_met": "ODA / GNI target met",
+                "legend_target_not_met": "ODA / GNI target not met"
+            },
+            "country_profile_page": {
+                "country_name": "Country Name",
+                "context_chart_title": "Aid over time",
+                "context_chart_selector": "Show proportion of aid going to:",
+                "context_chart_button_1": "LDC",
+                "context_chart_button_2": "AFRICA",
+                "context_chart_button_3": "IN-DONOR",
+                "target_chart_title": "Targets",
+                "target_chart_met": "Target met",
+                "target_chart_not_met": "Target not met",
+                "key_stats_table_title": "Key statistics",
+                "key_stats_table_local_currency": "GBP",
+                "key_stats_table_row_1_title": "Global",
+                "key_stats_table_row_2_title": "ODA to LDCs",
+                "key_stats_table_row_3_title": "ODA to Africa",
+                "recommendations_title": "Recommendations",
+                "explanation_LDC": "Least developed countries",
+                "explanation_ODA": "Official development assistance",
+                "explanation_GNI": "Gross national income",
+                "currencies": {
+                    "Australia": "AUD",
+                    "Canada": "CAD",
+                    "EU member states": "EUR",
+                    "EU member institutions": "EUR",
+                    "France": "EUR",
+                    "Germany": "EUR",
+                    "Italy": "EUR",
+                    "Japan": "JPY",
+                    "Netherlands": "EUR",
+                    "Sweden": "SEK",
+                    "United Kingdom": "GBP",
+                    "United States": "USD"
+                },
+                "country_names": {
+                    "Australia": "Australia",
+                    "Canada": "Canada",
+                    "EU Countries": "EU member states",
+                    "EU Institutions": "EU member institutions",
+                    "France": "France",
+                    "Germany": "Germany",
+                    "Italy": "Italy",
+                    "Japan": "Japan",
+                    "Netherlands": "Netherlands",
+                    "Sweden": "Sweden",
+                    "United Kingdom": "United Kingdom",
+                    "United States": "United States"
+                }
+            }
+        },
+        "german": {
+            "selector_page": {
+                "title": "Länderprofile",
+                "intro_line": "This is an intro line",
+                "instructions": "Klicke auf ein Land, um mehr zu erfahren",
+                "legend_target_met": "ODA/BNE Ziel erreicht",
+                "legend_target_not_met": "ODA/BNE Ziel nicht erreicht"
+            },
+            "country_profile_page": {
+                "country_name": "Ländername",
+                "context_chart_title": "ODA im Zeitverlauf",
+                "context_chart_selector": "Zeige ODA-Anteil an:",
+                "context_chart_button_1": "LDC",
+                "context_chart_button_2": "AFRIKA",
+                "context_chart_button_3": "Inlandsflüchtlingskosten",
+                "target_chart_title": "Ziel",
+                "target_chart_met": "Ziel erreicht",
+                "target_chart_not_met": "Ziel nicht erreicht",
+                "key_stats_table_title": "Die wichtigsten Zahlen und Fakten",
+                "key_stats_table_local_currency": "GBP",
+                "key_stats_table_row_1_title": "Global",
+                "key_stats_table_row_2_title": "ODA an LDCs",
+                "key_stats_table_row_3_title": "ODA an Afrika",
+                "recommendations_title": "Empfehlungen",
+                "explanation_LDC": "Am wenigsten entwickelte Länder (LDCs)",
+                "explanation_ODA": "Entwicklungszusammenarbeit (ODA)",
+                "explanation_GNI": "Bruttonationaleinkommen (BNE)",
+                "currencies": {
+                    "Australia": "AUD",
+                    "Canada": "CAD",
+                    "EU member states": "EUR",
+                    "EU member institutions": "EUR",
+                    "France": "EUR",
+                    "Germany": "EUR",
+                    "Italy": "EUR",
+                    "Japan": "JPY",
+                    "Netherlands": "EUR",
+                    "Sweden": "SEK",
+                    "United Kingdom": "GBP",
+                    "United States": "USD"
+                },
+                "country_names": {
+                    "Australia": "Australien",
+                    "Canada": "Kanada",
+                    "EU Countries": "EU-Mitgliedsstaaten",
+                    "EU Institutions": "EU-Institutionen",
+                    "France": "Frankreich",
+                    "Germany": "Deutschland",
+                    "Italy": "Italien",
+                    "Japan": "Japan",
+                    "Netherlands": "Niederlande",
+                    "Sweden": "Schweden",
+                    "United Kingdom": "Vereinigtes Königreich (UK)",
+                    "United States": "USA"
+                }
+            }
+        },
+        "french": {
+            "selector_page": {
+                "title": "Country profiles",
+                "intro_line": "This is an intro line",
+                "instructions": "Click on a country to find out more",
+                "legend_target_met": "ODA / GNI target met",
+                "legend_target_not_met": "ODA / GNI target not met"
+            },
+            "country_profile_page": {
+                "country_name": "Nom du pays",
+                "context_chart_title": "APD au cours du temps",
+                "context_chart_selector": "Voir la part de l'APD allouée à :",
+                "context_chart_button_1": "PMA",
+                "context_chart_button_2": "AFRIQUE",
+                "context_chart_button_3": "Coût d'accueil des réfugiés",
+                "target_chart_title": "Objectifs",
+                "target_chart_met": "Objectif atteint",
+                "target_chart_not_met": "Objectif non atteint",
+                "key_stats_table_title": "Chiffres clés",
+                "key_stats_table_local_currency": "GBP",
+                "key_stats_table_row_1_title": "Total",
+                "key_stats_table_row_2_title": "APD allouée aux PMA",
+                "key_stats_table_row_3_title": "ODA to Africa",
+                "recommendations_title": "Recommendations",
+                "explanation_LDC": "Pays les moins avancés",
+                "explanation_ODA": "Aide publique au développement (APD)",
+                "explanation_GNI": "Revenu National Brut (RNB)",
+                "currencies": {
+                    "Australia": "AUD",
+                    "Canada": "CAD",
+                    "EU member states": "EUR",
+                    "EU member institutions": "EUR",
+                    "France": "EUR",
+                    "Germany": "EUR",
+                    "Italy": "EUR",
+                    "Japan": "JPY",
+                    "Netherlands": "EUR",
+                    "Sweden": "SEK",
+                    "United Kingdom": "GBP",
+                    "United States": "USD"
+                },
+                "country_names": {
+                    "Australia": "Australie",
+                    "Canada": "Canada",
+                    "EU Countries": "Etats membres de l'UE",
+                    "EU Institutions": "Institutions de l'UE",
+                    "France": "France",
+                    "Germany": "Allemagne",
+                    "Italy": "Italie",
+                    "Japan": "Japon",
+                    "Netherlands": "Pays-Bas",
+                    "Sweden": "Suède",
+                    "United Kingdom": "Royaume-Uni",
+                    "United States": "Etats-Unis"
+                }
+            }
+        }
+    }
+}
