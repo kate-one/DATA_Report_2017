@@ -27,6 +27,7 @@
                 "explanation_LDC": "Least developed countries",
                 "explanation_ODA": "Official development assistance",
                 "explanation_GNI": "Gross national income",
+                "explanation_IDRC": "In-Donor Refugee Costs",
                 "currencies": {
                     "Australia": "AUD",
                     "Canada": "CAD",
@@ -71,7 +72,7 @@
                 "context_chart_selector": "Zeige ODA-Anteil an:",
                 "context_chart_button_1": "LDC",
                 "context_chart_button_2": "AFRIKA",
-                "context_chart_button_3": "Inlandsflüchtlingskosten",
+                "context_chart_button_3": "IDRC",
                 "target_chart_title": "Ziel",
                 "target_chart_met": "Ziel erreicht",
                 "target_chart_not_met": "Ziel nicht erreicht",
@@ -84,6 +85,7 @@
                 "explanation_LDC": "Am wenigsten entwickelte Länder (LDCs)",
                 "explanation_ODA": "Entwicklungszusammenarbeit (ODA)",
                 "explanation_GNI": "Bruttonationaleinkommen (BNE)",
+                "explanation_IDRC": "Inlandsflüchtlingskosten (In-Donor Refugee Costs, IDRC)",
                 "currencies": {
                     "Australia": "AUD",
                     "Canada": "CAD",
@@ -141,6 +143,7 @@
                 "explanation_LDC": "Pays les moins avancés",
                 "explanation_ODA": "Aide publique au développement (APD)",
                 "explanation_GNI": "Revenu National Brut (RNB)",
+                "explanation_IDRC": "In-Donor Refugee Costs",
                 "currencies": {
                     "Australia": "AUD",
                     "Canada": "CAD",
