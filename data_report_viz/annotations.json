@@ -3,7 +3,7 @@
         "english": {
             "selector_page": {
                 "title": "Country profiles",
-                "intro_line": "This is an intro line",
+                "intro_line": "Click on a country to find out more",
                 "instructions": "Click on a country to find out more",
                 "legend_target_met": "ODA / GNI target met",
                 "legend_target_not_met": "ODA / GNI target not met"
@@ -69,7 +69,7 @@
         "german": {
             "selector_page": {
                 "title": "Länderprofile",
-                "intro_line": "This is an intro line",
+                "intro_line": "Klicke auf ein Land, um mehr zu erfahren",
                 "instructions": "Klicke auf ein Land, um mehr zu erfahren",
                 "legend_target_met": "ODA/BNE Ziel erreicht",
                 "legend_target_not_met": "ODA/BNE Ziel nicht erreicht"
@@ -101,7 +101,7 @@
                 "explanation_ODA": "Entwicklungszusammenarbeit (ODA)",
                 "explanation_GNI": "Bruttonationaleinkommen (BNE)",
                 "explanation_IDRC": "Inlandsflüchtlingskosten (In-Donor Refugee Costs, IDRC)",
-                "explanation_Africa": "DE African countries",
+                "explanation_Africa": "Afrikanische Länder",
                 "currencies": {
                     "Australia": "AUD",
                     "Canada": "CAD",
@@ -134,11 +134,11 @@
         },
         "french": {
             "selector_page": {
-                "title": "Country profiles",
-                "intro_line": "This is an intro line",
-                "instructions": "Click on a country to find out more",
-                "legend_target_met": "ODA / GNI target met",
-                "legend_target_not_met": "ODA / GNI target not met"
+                "title": "Profils pays",
+                "intro_line": "Cliquez sur un pays pour en savoir plus",
+                "instructions": "Cliquez sur un pays pour en savoir plus",
+                "legend_target_met": "APD / RNB objectif atteint",
+                "legend_target_not_met": "APD / RNB objectif non atteint"
             },
             "country_profile_page": {
                 "country_name": "Nom du pays",
