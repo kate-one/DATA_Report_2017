@@ -6,7 +6,7 @@ import json
 #TODO: add data 'as of' to JSON
 
 # Paths
-PATH = '../views/DAC_Combined_Interactive.csv'
+PATH = '../views/DAC_Combined_Interactive_jan2draft.csv'
 
 # List of donor countries for profiles
 PROFILES = ['Australia', 'Canada', 'EU Institutions', 'EU Countries', 'France','Germany',
