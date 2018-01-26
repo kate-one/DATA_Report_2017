@@ -5,9 +5,9 @@ new <- read_csv('views/DAC_Combined_Interactive_jan2draft.csv')
 
 combined <- old %>%
   bind_rows(new) %>% 
-  #filter(Time_Period >= 2015) %>% 
+  filter(Time_Period >= 2015) %>% 
   spread(as_of_date,Value) %>% 
-  mutate(Difference = `2017-12-22`-`2017-05-16`,
+  mutate(Difference = `2018-01-02`-`2017-05-16`,
          Percent_Diff = Difference/`2017-05-16`) %>% 
   arrange(desc(abs(Percent_Diff)))
 
