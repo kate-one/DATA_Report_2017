@@ -1,0 +1,35 @@
+NameE,Official_Database_Link,TRANSACTYPE,Fund_flows,Transaction_Aid_Type,Transaction_Aid_type_short,Data_type
+"Official Development Assistance, net",DAC1,1010,Net Disbursements,I. OFFICIAL DEVELOPMENT ASSISTANCE (I.A + I.B),,Current Prices
+"I. Bilateral ODA, net",DAC1,1015,Net Disbursements,I.A. Bilateral Official Development Assistance by types of aid (1+2+3+4+5+6+7+8+9+10),IA_Bilateral_ODA,Current Prices
+   a. Budget support,DAC1,1100,Net Disbursements,I.A.1. Budget support,,Current Prices
+   b. Core support to national NGOs,DAC1,1200,Net Disbursements,I.A.2. Bilateral core contributions & pooled programmes & funds,,Current Prices
+   c. Project-type interventions,DAC1,1300,Net Disbursements,I.A.3. Project-type interventions,,Current Prices
+   d. Experts and other tech. assistance,DAC1,1400,Net Disbursements,I.A.4. Experts and other technical assistance,,Current Prices
+   e. Debt relief,DAC1,1600,Net Disbursements,I.A.6. Debt relief,IA6_Debt_Relief,Current Prices
+   f. Administrative costs,DAC1,1700,Net Disbursements,I.A.7. Administrative costs not included elsewhere,,Current Prices
+   g. Other,DAC1,1800,Net Disbursements,I.A.8. Other in-donor expenditures,,Current Prices
+      of which :  In-donor refugee costs,DAC1,1820,Net Disbursements,I.A.8.2. Refugees in donor countries,IA82_In_Donor_Refugee_Cost,Current Prices
+   a. Bilateral grants,DAC1,,Net Disbursements,,,Current Prices
+"   b. Bilateral non grants,gross",DAC1,,Net Disbursements,,,Current Prices
+      of which: Offsetting entry for debt forg.,DAC1,,Net Disbursements,,,Current Prices
+"   c. Bilateral non grants,net",DAC1,,Net Disbursements,,,Current Prices
+"II. Multilateral ODA, net",DAC1,2000,Net Disbursements,I.B. Multilateral Official Development Assistance (capital subscriptions are included with grants),IB_Multilateral_ODA,Current Prices
+   a. United Nations,DAC1,2101,Net Disbursements,I.B.1.1. UN agencies,,Current Prices
+   b. EU,DAC1,2102,Net Disbursements,I.B.1.2. EU institutions,,Current Prices
+"   c. World Bank (AMCs, IDA, IBRD..)",DAC1,547,Net Disbursements,"      Memo: World Bank, Total (I.B.1.3. + I.B.1.4.)",,Current Prices
+   d. Regional development banks and funds,DAC1,2105,Net Disbursements,I.B.1.5. Regional development banks,,Current Prices
+   e. Other,DAC1,,Net Disbursements,,,Current Prices
+   a. Bil. ODA to LDCs,DAC2A,,Net Disbursements,,LDC_ODA_Bilateral_inc_Debt_Relief,Current Prices
+   b. Bil. ODA to Africa,DAC2A,,Net Disbursements,,Africa_ODA_Bilateral_inc_Debt_Relief,Current Prices
+"   c. Bil. ODA to Sub-Saharan Africa, total",DAC2A,,Net Disbursements,,SSA_ODA_Bilateral_inc_Debt_Relief,Current Prices
+     of which: debt relief grants,DAC2A,,Net Disbursements,,SSA_ODA_Bilateral_Debt_Relief,Current Prices
+"   d. Bilateral ODA to Afghanistan, total",DAC2A,,,,,Current Prices
+     of which: reconstruction for Afghanistan,DAC2A,,,,,Current Prices
+   a. Humanitarian aid,DAC2A,,,,,Current Prices
+     of which: Short-term reconstruction,DAC2A,,,,,Current Prices
+   b. Development food aid,DAC2A,,,,,Current Prices
+3. Debt relief grants gross,,,,,,Current Prices
+4. Total gross ODA,,1010,Gross Disbursements,I. OFFICIAL DEVELOPMENT ASSISTANCE (I.A + I.B),,Current Prices
+GNI,,1,Net Disbursements,GNI,GNI,Current Prices
+ODA as per cent of GNI,,2,,ODA % GNI,,Current Prices
+Population,,4,Net Disbursements,Population,Population,Current Prices

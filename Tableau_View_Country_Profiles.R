@@ -13,16 +13,16 @@ library(tidyverse)
 library(readxl)
 
 #Set working directory
-setwd("H:/OECD_data/DATA_Report_2017")
+#setwd("H:/OECD_data/DATA_Report_2017")
 
 #Read Datasets
-dac1 <- read.csv("../source_data/dac1_2007_2016_20170515_denorm.csv", stringsAsFactors = FALSE)
-dac2a <- read.csv("../source_data/dac2a_filtered_2007_2015_20170519_denorm.csv", stringsAsFactors = FALSE)
+dac1 <- read.csv("../source_data/dac1_2007_2016_20180102_denorm.csv", stringsAsFactors = FALSE)
+dac2a <- read.csv("../source_data/dac2a_filtered_2007_2016_20180102_denorm.csv", stringsAsFactors = FALSE)
 
-prelim.2016 <- read.csv("../source_data/prelim_2016_denorm.csv", stringsAsFactors = FALSE)
+prelim.2017 <- read.csv("../source_data/prelim_2017_denorm.csv", stringsAsFactors = FALSE)
 
 #Load Deflators
-deflators <- read_excel('../source_data/Deflators-base-2015.xls', skip = 2)
+deflators <- read_excel('../source_data/Deflators-base-2016.xls', skip = 2)
 
 #Reshape and clean up deflators
 names(deflators)[1] <- 'Donor'
@@ -34,22 +34,22 @@ deflators <- deflators %>%
   select(-Year.real, -Deflator.char)
 
 #### Insert manual correction/assumption for Germany's missing LDC number
-germany.2015.actual <- dac2a %>%
+germany.2016.actual <- dac2a %>%
   filter(Donor == 'Germany',
          Recipient == 'LDCs, Total',
          Aid_type %in% c('ODA: Total Net'),
          Data_type == 'Current Prices',
-         obsTime == 2015) %>%
+         obsTime == 2016) %>%
   select(obsValue)
 
-germany.2016.deflator <- deflators %>%
+germany.2017.deflator <- deflators %>%
   filter(Donor == 'Germany',
-         Time_Period == 2016) %>%
+         Time_Period == 2017) %>%
   select(Deflator)
 
 
-prelim.2016[prelim.2016$NameE == "   a. Bil. ODA to LDCs" &
-              prelim.2016$Donor == 'Germany','obsValue'] <- germany.2015.actual * germany.2016.deflator
+prelim.2017[prelim.2017$NameE == "   a. Bil. ODA to LDCs" &
+              prelim.2017$Donor == 'Germany','obsValue'] <- germany.2016.actual * germany.2017.deflator
 
 
 
@@ -62,6 +62,7 @@ prelim.2016[prelim.2016$NameE == "   a. Bil. ODA to LDCs" &
 #first, summarise the base data by donor country on what they gave
 tableau.base.dac1 <- dac1 %>%
   filter(Fund_flows == 'Net Disbursements',
+         !is.na(Transaction_Aid_type_short),
          !Transaction_Aid_type_short %in% c("",'II_Other_Official_Flows','III_Private_Flows',
                                             'IV_Net_Private_Grants','V_Total_Peacekeeping')) %>% 
   mutate(Time_Period = obsTime) %>% 
@@ -94,7 +95,7 @@ tableau.dac2a <- dac2a %>%
 
 # pull in the preliminary data and reshape it to match the previous tables
 # NOTE -- explicitely flag any known missing data with NAs here
-tableau.prelim.2016 <- prelim.2016 %>%
+tableau.prelim.2017 <- prelim.2017 %>%
   filter(Fund_flows == 'Net Disbursements',
          Transaction_Aid_type_short != "") %>%
   select(Donor, Donor_Group_Type, Donor_DAC_Country, Donor_EU_Country,
@@ -105,9 +106,10 @@ tableau.prelim.2016 <- prelim.2016 %>%
          LDC_ODA_Bilateral = LDC_ODA_Bilateral_inc_Debt_Relief - SSA_ODA_Bilateral_Debt_Relief,
          Africa_ODA_Bilateral = Africa_ODA_Bilateral_inc_Debt_Relief - SSA_ODA_Bilateral_Debt_Relief,
          #assume that ssa debt relief equals total LDC debt relief, since we don't have the detail
-         ONE_ODA = IA_Bilateral_ODA +
+         Total_ODA_ONE = IA_Bilateral_ODA +
            IB_Multilateral_ODA -
-           IA6_Debt_Relief) %>%
+           IA6_Debt_Relief,
+         Bilat_ODA_Ex_Debt_Relief = IA_Bilateral_ODA - IA6_Debt_Relief) %>%
   select(-LDC_ODA_Bilateral_inc_Debt_Relief,
          -SSA_ODA_Bilateral_inc_Debt_Relief,
          -SSA_ODA_Bilateral_Debt_Relief,
@@ -118,12 +120,33 @@ tableau.prelim.2016 <- prelim.2016 %>%
 
 multilat.map <- read.csv('dimensions/multilat_mapping.csv', stringsAsFactors = FALSE)
 
+multilat.2016 <- read.csv('../source_data/TABLE2A_09042018_multilat_imputation.csv', stringsAsFactors = FALSE)
+
 
 #First calculate how much each of these multilaterals gave to LDCs and SSas the previous year
 multilat.dac2a <- dac2a %>%
   filter(Aid_type == "Memo: ODA Total, Gross disbursements",
          Donor %in% multilat.map$Multilateral,
-         obsTime == 2015,
+         obsTime == 2016,
+         Data_type == 'Current Prices') %>%
+  select(Donor, Aid_type, obsValue, Recipient) %>%
+  left_join(multilat.map, by=c('Donor' = 'Multilateral')) %>%
+  group_by(Multilat, NameE) %>%
+  summarise(Total_Disbursed = sum(obsValue[Recipient == 'Developing Countries, Total']),
+            LDC_ODA = sum(obsValue[Recipient == 'LDCs, Total']),
+            SSA_ODA = sum(obsValue[Recipient == 'South of Sahara, Total']),
+            Africa_ODA = sum(obsValue[Recipient == 'Africa, Total'])) %>%
+  mutate(Est_Individual_Multilat_Percent_to_LDC = LDC_ODA/Total_Disbursed,
+         Est_Individual_Multilat_Percent_to_SSA = SSA_ODA/Total_Disbursed,
+         Est_Individual_Multilat_Percent_to_Africa = Africa_ODA/Total_Disbursed)
+
+#Redo this calculation using an OECD extract rather than the full DAC2A dataset
+multilat.dac2a <- multilat.2016 %>%
+  mutate(Aid_type = Aid.type, obsTime = Year, 
+         Data_type = Amount.type, obsValue = Value) %>% 
+  filter(Aid_type == "Memo: ODA Total, Gross disbursements",
+         Donor %in% multilat.map$Multilateral,
+         obsTime == 2016,
          Data_type == 'Current Prices') %>%
   select(Donor, Aid_type, obsValue, Recipient) %>%
   left_join(multilat.map, by=c('Donor' = 'Multilateral')) %>%
@@ -138,7 +161,7 @@ multilat.dac2a <- dac2a %>%
 
 #Next look at how much newest-year DAC ODA each country sent to these multilats, and multiple by the previous year's
 #ratio of what each multilat group sent to certain recipient country groups
-multilat.est <- prelim.2016 %>%
+multilat.est <- prelim.2017 %>%
   filter(NameE %in% multilat.map$NameE) %>%
   left_join(multilat.dac2a, by='NameE') %>%
   mutate(cleanValue = ifelse(is.na(obsValue), 0, obsValue),
@@ -153,28 +176,30 @@ multilat.est <- prelim.2016 %>%
 
 
 #Join these onto the preliminary data and make new total ODA to LDCs/SSA estimates
-tableau.prelim.2016.plus <- tableau.prelim.2016 %>%
+tableau.prelim.2017.plus <- tableau.prelim.2017 %>%
   left_join(multilat.est, by=c('Donor', 'Data_type', 'Time_Period')) %>%
   mutate(LDC_ODA = LDC_ODA_Bilateral + Est_Multilat_to_LDC,
          SSA_ODA = SSA_ODA_Bilateral + Est_Multilat_to_SSA,
          Africa_ODA = Africa_ODA_Bilateral + Est_Multilat_to_Africa,
-         LDC_ODA_Imputed_Multilateral = Est_Multilat_to_LDC) %>%
-  select(Donor, Data_type, Time_Period, LDC_ODA, SSA_ODA, Africa_ODA,
-         LDC_ODA_Bilateral, SSA_ODA_Bilateral, Africa_ODA_Bilateral,
-         LDC_ODA_Imputed_Multilateral)
+         LDC_ODA_Imputed_Multilateral = Est_Multilat_to_LDC) #%>%
+  #select(Donor, Data_type, Time_Period, LDC_ODA, SSA_ODA, Africa_ODA,
+  #       LDC_ODA_Bilateral, SSA_ODA_Bilateral, Africa_ODA_Bilateral,
+  #       LDC_ODA_Imputed_Multilateral)
 
 
 
-#Bind the 2016 DAC2A estimates onto the DAC2A view
+#Bind the new preliminary DAC2A estimates onto the historical DAC2A view
 tableau.dac2a.plus <- tableau.dac2a %>%
-  bind_rows(tableau.prelim.2016.plus) %>%
+  bind_rows(tableau.prelim.2017.plus) %>%
   arrange(Donor, Time_Period, Data_type)
  
 
 #combine everything together
 tableau.combined <- tableau.base.dac1 %>%
-  left_join(tableau.dac2a.plus, by=c('Donor','Data_type','Constant_price_date','Time_Period')) %>%
-  arrange(Donor, Time_Period, Data_type)
+  left_join(tableau.dac2a, by=c('Donor','Data_type','Constant_price_date','Time_Period')) %>% 
+  bind_rows(tableau.prelim.2017.plus) %>%
+  arrange(Donor, Time_Period, Data_type) %>% 
+  select(-Est_Multilat_to_LDC, -Est_Multilat_to_SSA, -Est_Multilat_to_Africa)
 
 #Create a table of conversion factors across data types, using Total ODA from DAC1 as a source of truth
 price.conversion.table <- tableau.combined %>%
@@ -214,7 +239,7 @@ tableau.combined.imputed <- tableau.combined %>%
   spread(new_names, Value)
 
 
-write.csv(tableau.combined.imputed, 'views/DAC_Combined_Tableau_Draft.csv', row.names = FALSE)
+write.csv(tableau.combined.imputed, 'views/DAC_Combined_Tableau_Prelim2017.csv', row.names = FALSE)
 
 
 # Create a long form of the data to use in the DATA report online interactive viz
@@ -235,4 +260,4 @@ tableau.combined.imputed.long <- tableau.combined %>%
   select(-National_Currency_Imputed, -Constant_Prices_Imputed) %>% 
   gather(Data_type, Value, `Current Prices`:`Constant Prices`)
 
-write.csv(tableau.combined.imputed.long, 'views/DAC_Combined_Interactive.csv', row.names = FALSE)
+write.csv(tableau.combined.imputed.long, 'views/DAC_Combined_Interactive_Prelim2017.csv', row.names = FALSE)

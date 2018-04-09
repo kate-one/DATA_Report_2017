@@ -36,6 +36,7 @@ names(dac2a.data_type) <- c("DATATYPE", "Data_type")
 ##Pull the data and save it locally
 #Pull years separately and then combine them
 #Filter to only where aid type = gross net of debt relief or imputed multilateral, since that's what we'll use
+dac2a.16.full <- get_dataset("TABLE2A", filter = "..1+2.106+250.A+D", start_time = 2016, end_time = 2016, pre_formatted = TRUE)
 dac2a.16 <- get_dataset("TABLE2A", filter = "..1+2.106+250.A+D", start_time = 2016, end_time = 2016, pre_formatted = TRUE)
 dac2a.15 <- get_dataset("TABLE2A", filter = "..1+2.106+250.A+D", start_time = 2015, end_time = 2015, pre_formatted = TRUE)
 dac2a.14 <- get_dataset("TABLE2A", filter = "..1+2.106+250.A+D", start_time = 2014, end_time = 2014, pre_formatted = TRUE)
