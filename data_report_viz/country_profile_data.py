@@ -6,7 +6,7 @@ import json
 #TODO: add data 'as of' to JSON
 
 # Paths
-PATH = '../views/DAC_Combined_Interactive_jan2draft.csv'
+PATH = '../views/DAC_Combined_Interactive_Prelim2018.csv'
 
 # List of donor countries for profiles
 PROFILES = ['Australia', 'Canada', 'EU Institutions', 'EU Countries', 'France','Germany',
@@ -41,6 +41,9 @@ def build_json(path = PATH, profiles = PROFILES, metrics = METRICS, new_names = 
 
     # Filter to only use the metrics we need
     df_filt = df[df['Metric'].isin(metrics)]
+
+    # Filter to only certain years
+    df_filt = df[df['Time_Period'] >= 2008]
 
     # Filter for EU countries, group them all together, and create EU subtotal
     EU = df_filt[(df_filt['Donor_EU_Country'] == 'EU') & (df_filt['Donor'] != 'EU Institutions') & (df_filt['Data_type'] != 'National currency')]

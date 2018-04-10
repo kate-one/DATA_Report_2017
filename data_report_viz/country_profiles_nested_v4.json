@@ -3,21 +3,6 @@
         "Australia": {
             "Constant Prices": [
                 {
-                    "All_ODA_Over_GNI": 0.00287330216489374,
-                    "LDC_ODA_Over_All_ODA": 0.28401860655578337,
-                    "Africa_ODA_Over_All_ODA": 0.08615233710831777,
-                    "In_Donor_Refugee_Over_All_ODA": 0.0,
-                    "All_ODA": 2520.187,
-                    "LDC_ODA": 715.78,
-                    "Africa_ODA": 217.12,
-                    "In_Donor_Refugee_Costs": 0.0,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
-                {
                     "All_ODA_Over_GNI": 0.002886131116223457,
                     "LDC_ODA_Over_All_ODA": 0.27622054780243405,
                     "Africa_ODA_Over_All_ODA": 0.06888999473012825,
@@ -26,9 +11,9 @@
                     "LDC_ODA": 752.68,
                     "Africa_ODA": 187.72,
                     "In_Donor_Refugee_Costs": 0.0,
-                    "All_ODA_YoY_Percent": 0.08123881283412726,
-                    "LDC_ODA_YoY_Percent": 0.051552152896141346,
-                    "Africa_ODA_YoY_Percent": -0.13540899042004428,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
                     "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
@@ -151,24 +136,24 @@
                     "Africa_ODA_YoY_Percent": -0.00292979546710892,
                     "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": 0.0022574431188227815,
+                    "LDC_ODA_Over_All_ODA": 0.2987264880565417,
+                    "Africa_ODA_Over_All_ODA": 0.12609596200625217,
+                    "In_Donor_Refugee_Over_All_ODA": 0.0,
+                    "All_ODA": 2757.792612,
+                    "LDC_ODA": 823.825701771037,
+                    "Africa_ODA": 347.74651242387495,
+                    "In_Donor_Refugee_Costs": 0.0,
+                    "All_ODA_YoY_Percent": -0.16353191632627617,
+                    "LDC_ODA_YoY_Percent": -0.025704028370503562,
+                    "Africa_ODA_YoY_Percent": -0.03601898202618248,
+                    "In_Donor_Refugee_YoY_Percent": "None",
+                    "Time_Period": 2017
                 }
             ],
             "Current Prices": [
-                {
-                    "All_ODA_Over_GNI": 0.002873301502886478,
-                    "LDC_ODA_Over_All_ODA": 0.28401694694193524,
-                    "Africa_ODA_Over_All_ODA": 0.08614835726576996,
-                    "In_Donor_Refugee_Over_All_ODA": 0.0,
-                    "All_ODA": 2376.83,
-                    "LDC_ODA": 675.06,
-                    "Africa_ODA": 204.76,
-                    "In_Donor_Refugee_Costs": 0.0,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
                 {
                     "All_ODA_Over_GNI": 0.0028861318102745576,
                     "LDC_ODA_Over_All_ODA": 0.2762362953024114,
@@ -178,9 +163,9 @@
                     "LDC_ODA": 745.28,
                     "Africa_ODA": 185.93,
                     "In_Donor_Refugee_Costs": 0.0,
-                    "All_ODA_YoY_Percent": 0.13511694147246556,
-                    "LDC_ODA_YoY_Percent": 0.10402038337332975,
-                    "Africa_ODA_YoY_Percent": -0.09196132057042383,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
                     "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
@@ -303,24 +288,24 @@
                     "Africa_ODA_YoY_Percent": -0.011138750690989574,
                     "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": 0.002257443118873766,
+                    "LDC_ODA_Over_All_ODA": 0.2987264880565417,
+                    "Africa_ODA_Over_All_ODA": 0.12609596200625223,
+                    "In_Donor_Refugee_Over_All_ODA": 0.0,
+                    "All_ODA": 2954.14,
+                    "LDC_ODA": 882.479867427352,
+                    "Africa_ODA": 372.50512520114995,
+                    "In_Donor_Refugee_Costs": 0.0,
+                    "All_ODA_YoY_Percent": -0.09657945840150461,
+                    "LDC_ODA_YoY_Percent": 0.05228750155295181,
+                    "Africa_ODA_YoY_Percent": 0.04118602789823056,
+                    "In_Donor_Refugee_YoY_Percent": "None",
+                    "Time_Period": 2017
                 }
             ],
             "National currency": [
-                {
-                    "All_ODA_Over_GNI": 0.0028733012830657752,
-                    "LDC_ODA_Over_All_ODA": 0.2840169469419351,
-                    "Africa_ODA_Over_All_ODA": 0.08614835726577001,
-                    "In_Donor_Refugee_Over_All_ODA": 0.0,
-                    "All_ODA": 2840.7870000000003,
-                    "LDC_ODA": 806.831650652339,
-                    "Africa_ODA": 244.729133391955,
-                    "In_Donor_Refugee_Costs": 0.0,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
                 {
                     "All_ODA_Over_GNI": 0.0028861309799679945,
                     "LDC_ODA_Over_All_ODA": 0.27623629530241145,
@@ -330,9 +315,9 @@
                     "LDC_ODA": 903.94985178541,
                     "Africa_ODA": 225.514432082521,
                     "In_Donor_Refugee_Costs": 0.0,
-                    "All_ODA_YoY_Percent": 0.15192691321102214,
-                    "LDC_ODA_YoY_Percent": 0.12036984549942864,
-                    "Africa_ODA_YoY_Percent": -0.07851415580612531,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
                     "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
@@ -455,6 +440,21 @@
                     "Africa_ODA_YoY_Percent": -0.0004398581723105144,
                     "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": 0.0022574431188737663,
+                    "LDC_ODA_Over_All_ODA": 0.2987264880565413,
+                    "Africa_ODA_Over_All_ODA": 0.12609596200625234,
+                    "In_Donor_Refugee_Over_All_ODA": 0.0,
+                    "All_ODA": 3854.857286,
+                    "LDC_ODA": 1151.54797900595,
+                    "Africa_ODA": 486.081937874981,
+                    "In_Donor_Refugee_Costs": 0.0,
+                    "All_ODA_YoY_Percent": -0.1237094613102836,
+                    "LDC_ODA_YoY_Percent": 0.020686977031461495,
+                    "Africa_ODA_YoY_Percent": 0.009918884121005389,
+                    "In_Donor_Refugee_YoY_Percent": "None",
+                    "Time_Period": 2017
                 }
             ],
             "recommendations": [
@@ -484,21 +484,6 @@
         "Canada": {
             "Constant Prices": [
                 {
-                    "All_ODA_Over_GNI": 0.0028833655860736242,
-                    "LDC_ODA_Over_All_ODA": 0.3820212004257399,
-                    "Africa_ODA_Over_All_ODA": 0.3885710441629472,
-                    "In_Donor_Refugee_Over_All_ODA": 0.04231949991734473,
-                    "All_ODA": 3835.2059999999997,
-                    "LDC_ODA": 1465.13,
-                    "Africa_ODA": 1490.25,
-                    "In_Donor_Refugee_Costs": 162.304,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
-                {
                     "All_ODA_Over_GNI": 0.003157226077742417,
                     "LDC_ODA_Over_All_ODA": 0.39978154091775536,
                     "Africa_ODA_Over_All_ODA": 0.430559461683489,
@@ -507,10 +492,10 @@
                     "LDC_ODA": 1688.73,
                     "Africa_ODA": 1818.74,
                     "In_Donor_Refugee_Costs": 164.608,
-                    "All_ODA_YoY_Percent": 0.10140941581756002,
-                    "LDC_ODA_YoY_Percent": 0.15261444376949473,
-                    "Africa_ODA_YoY_Percent": 0.22042610300285181,
-                    "In_Donor_Refugee_YoY_Percent": 0.014195583596214423,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
+                    "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
                 {
@@ -632,24 +617,24 @@
                     "Africa_ODA_YoY_Percent": -0.07321076447858843,
                     "In_Donor_Refugee_YoY_Percent": 0.8917460913657917,
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": 0.0026286022625244916,
+                    "LDC_ODA_Over_All_ODA": 0.3542158275231664,
+                    "Africa_ODA_Over_All_ODA": 0.4021234453056214,
+                    "In_Donor_Refugee_Over_All_ODA": 0.109330330112982,
+                    "All_ODA": 4083.770053,
+                    "LDC_ODA": 1446.5359887377201,
+                    "Africa_ODA": 1642.17968354828,
+                    "In_Donor_Refugee_Costs": 446.47992800000003,
+                    "All_ODA_YoY_Percent": 0.006795029495528793,
+                    "LDC_ODA_YoY_Percent": 0.0434207977391694,
+                    "Africa_ODA_YoY_Percent": 0.009826394999557175,
+                    "In_Donor_Refugee_YoY_Percent": 0.10810236198975987,
+                    "Time_Period": 2017
                 }
             ],
             "Current Prices": [
-                {
-                    "All_ODA_Over_GNI": 0.0028833651971298916,
-                    "LDC_ODA_Over_All_ODA": 0.38201575485020095,
-                    "Africa_ODA_Over_All_ODA": 0.3885720752414645,
-                    "In_Donor_Refugee_Over_All_ODA": 0.04231963353490226,
-                    "All_ODA": 4064.78,
-                    "LDC_ODA": 1552.81,
-                    "Africa_ODA": 1579.46,
-                    "In_Donor_Refugee_Costs": 172.02,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
                 {
                     "All_ODA_Over_GNI": 0.003157226344120419,
                     "LDC_ODA_Over_All_ODA": 0.3997734288342978,
@@ -659,10 +644,10 @@
                     "LDC_ODA": 1859.73,
                     "Africa_ODA": 2002.9,
                     "In_Donor_Refugee_Costs": 181.28,
-                    "All_ODA_YoY_Percent": 0.1444555424893843,
-                    "LDC_ODA_YoY_Percent": 0.19765457460990077,
-                    "Africa_ODA_YoY_Percent": 0.2680916262520101,
-                    "In_Donor_Refugee_YoY_Percent": 0.05383094988954773,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
+                    "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
                 {
@@ -784,24 +769,24 @@
                     "Africa_ODA_YoY_Percent": -0.1019513751951946,
                     "In_Donor_Refugee_YoY_Percent": 0.8330907554345275,
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": 0.0026286022625425886,
+                    "LDC_ODA_Over_All_ODA": 0.35421582752316483,
+                    "Africa_ODA_Over_All_ODA": 0.4021234453056211,
+                    "In_Donor_Refugee_Over_All_ODA": 0.1093303300701724,
+                    "All_ODA": 4270.91,
+                    "LDC_ODA": 1512.82391992696,
+                    "Africa_ODA": 1717.4330437902302,
+                    "In_Donor_Refugee_Costs": 466.94,
+                    "All_ODA_YoY_Percent": 0.0866238894373148,
+                    "LDC_ODA_YoY_Percent": 0.12614091421347795,
+                    "Africa_ODA_YoY_Percent": 0.08990083818719108,
+                    "In_Donor_Refugee_YoY_Percent": 0.1959634249417308,
+                    "Time_Period": 2017
                 }
             ],
             "National currency": [
-                {
-                    "All_ODA_Over_GNI": 0.002883365095355208,
-                    "LDC_ODA_Over_All_ODA": 0.3820157548502002,
-                    "Africa_ODA_Over_All_ODA": 0.3885720752414644,
-                    "In_Donor_Refugee_Over_All_ODA": 0.042319615333266315,
-                    "All_ODA": 4366.793,
-                    "LDC_ODA": 1668.18372416957,
-                    "Africa_ODA": 1696.8138181599,
-                    "In_Donor_Refugee_Costs": 184.801,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
                 {
                     "All_ODA_Over_GNI": 0.0031572266031802934,
                     "LDC_ODA_Over_All_ODA": 0.3997734288342973,
@@ -811,10 +796,10 @@
                     "LDC_ODA": 1999.76783370665,
                     "Africa_ODA": 2153.71854738648,
                     "In_Donor_Refugee_Costs": 194.93,
-                    "All_ODA_YoY_Percent": 0.1455209807288782,
-                    "LDC_ODA_YoY_Percent": 0.1987695388301094,
-                    "Africa_ODA_YoY_Percent": 0.2692721642979474,
-                    "In_Donor_Refugee_YoY_Percent": 0.05481030946802257,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
+                    "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
                 {
@@ -936,6 +921,21 @@
                     "Africa_ODA_YoY_Percent": -0.06886187959220991,
                     "In_Donor_Refugee_YoY_Percent": 0.9006335739077738,
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": 0.0026286022625420687,
+                    "LDC_ODA_Over_All_ODA": 0.35421582752316544,
+                    "Africa_ODA_Over_All_ODA": 0.4021234453056215,
+                    "In_Donor_Refugee_Over_All_ODA": 0.1093303300701724,
+                    "All_ODA": 5544.068271,
+                    "LDC_ODA": 1963.79673045719,
+                    "Africa_ODA": 2229.3998341441,
+                    "In_Donor_Refugee_Costs": 606.134814,
+                    "All_ODA_YoY_Percent": 0.06424192527900496,
+                    "LDC_ODA_YoY_Percent": 0.10294498982405154,
+                    "Africa_ODA_YoY_Percent": 0.06745137638762588,
+                    "In_Donor_Refugee_YoY_Percent": 0.1713293254179904,
+                    "Time_Period": 2017
                 }
             ],
             "recommendations": [
@@ -965,21 +965,6 @@
         "EU Countries": {
             "Constant Prices": [
                 {
-                    "All_ODA_Over_GNI": 0.003364444377982868,
-                    "LDC_ODA_Over_All_ODA": 0.3412603855709079,
-                    "Africa_ODA_Over_All_ODA": 0.4284309357882869,
-                    "In_Donor_Refugee_Over_All_ODA": 0.019048275586712307,
-                    "All_ODA": 49190.122,
-                    "LDC_ODA": 16786.64,
-                    "Africa_ODA": 21074.57,
-                    "In_Donor_Refugee_Costs": 936.9870000000001,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
-                {
                     "All_ODA_Over_GNI": 0.003702131081799297,
                     "LDC_ODA_Over_All_ODA": 0.3317284310506186,
                     "Africa_ODA_Over_All_ODA": 0.40577301656547493,
@@ -988,10 +973,10 @@
                     "LDC_ODA": 18449.84,
                     "Africa_ODA": 22568.000000000004,
                     "In_Donor_Refugee_Costs": 1140.9769999999999,
-                    "All_ODA_YoY_Percent": 0.13065995241890205,
-                    "LDC_ODA_YoY_Percent": 0.0990787912292157,
-                    "Africa_ODA_YoY_Percent": 0.07086407931454852,
-                    "In_Donor_Refugee_YoY_Percent": 0.2177084634045081,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
+                    "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
                 {
@@ -1113,24 +1098,24 @@
                     "Africa_ODA_YoY_Percent": 0.09498730861537119,
                     "In_Donor_Refugee_YoY_Percent": 0.268938021134,
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": 0.004892046954382069,
+                    "LDC_ODA_Over_All_ODA": 0.2398864851293259,
+                    "Africa_ODA_Over_All_ODA": 0.2702287824999586,
+                    "In_Donor_Refugee_Over_All_ODA": 0.13901054901064444,
+                    "All_ODA": 81036.493735,
+                    "LDC_ODA": 19439.559649293788,
+                    "Africa_ODA": 21898.39304007457,
+                    "In_Donor_Refugee_Costs": 11264.927483999998,
+                    "All_ODA_YoY_Percent": -0.011885677018006358,
+                    "LDC_ODA_YoY_Percent": 0.03244794221632863,
+                    "Africa_ODA_YoY_Percent": -0.1462764575251283,
+                    "In_Donor_Refugee_YoY_Percent": -0.08649370965980141,
+                    "Time_Period": 2017
                 }
             ],
             "Current Prices": [
-                {
-                    "All_ODA_Over_GNI": 0.00336385659802011,
-                    "LDC_ODA_Over_All_ODA": 0.34089096814157466,
-                    "Africa_ODA_Over_All_ODA": 0.4283472276734258,
-                    "In_Donor_Refugee_Over_All_ODA": 0.018886011533956398,
-                    "All_ODA": 55517.81000000001,
-                    "LDC_ODA": 18925.52,
-                    "Africa_ODA": 23780.9,
-                    "In_Donor_Refugee_Costs": 1048.51,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
                 {
                     "All_ODA_Over_GNI": 0.0036820836696739136,
                     "LDC_ODA_Over_All_ODA": 0.32974771683630405,
@@ -1140,10 +1125,10 @@
                     "LDC_ODA": 21684.809999999998,
                     "Africa_ODA": 26650.659999999996,
                     "In_Donor_Refugee_Costs": 1366.99,
-                    "All_ODA_YoY_Percent": 0.18451754491036287,
-                    "LDC_ODA_YoY_Percent": 0.1457973149482814,
-                    "Africa_ODA_YoY_Percent": 0.1206749954795654,
-                    "In_Donor_Refugee_YoY_Percent": 0.3037453147800211,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
+                    "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
                 {
@@ -1265,6 +1250,21 @@
                     "Africa_ODA_YoY_Percent": 0.06452243596037466,
                     "In_Donor_Refugee_YoY_Percent": 0.27220443733735067,
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": 0.0048724291647603305,
+                    "LDC_ODA_Over_All_ODA": 0.23853572670400977,
+                    "Africa_ODA_Over_All_ODA": 0.2684071456833951,
+                    "In_Donor_Refugee_Over_All_ODA": 0.14042875609308064,
+                    "All_ODA": 82528.04000000001,
+                    "LDC_ODA": 19685.88599485759,
+                    "Africa_ODA": 22151.11565524506,
+                    "In_Donor_Refugee_Costs": 11589.310000000003,
+                    "All_ODA_YoY_Percent": 0.02768233264649389,
+                    "LDC_ODA_YoY_Percent": 0.07936297120188462,
+                    "Africa_ODA_YoY_Percent": -0.11170977610418908,
+                    "In_Donor_Refugee_YoY_Percent": -0.06260156091390034,
+                    "Time_Period": 2017
                 }
             ],
             "recommendations": [
@@ -1295,21 +1295,6 @@
             "Constant Prices": [
                 {
                     "All_ODA_Over_GNI": "None",
-                    "LDC_ODA_Over_All_ODA": 0.3353597846270297,
-                    "Africa_ODA_Over_All_ODA": 0.45386354616609553,
-                    "In_Donor_Refugee_Over_All_ODA": 0.0,
-                    "All_ODA": 10323.301,
-                    "LDC_ODA": 3462.02,
-                    "Africa_ODA": 4685.37,
-                    "In_Donor_Refugee_Costs": 0.0,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
-                {
-                    "All_ODA_Over_GNI": "None",
                     "LDC_ODA_Over_All_ODA": 0.3491117278304286,
                     "Africa_ODA_Over_All_ODA": 0.44586620846174957,
                     "In_Donor_Refugee_Over_All_ODA": 0.0,
@@ -1317,9 +1302,9 @@
                     "LDC_ODA": 3769.33,
                     "Africa_ODA": 4813.98,
                     "In_Donor_Refugee_Costs": 0.0,
-                    "All_ODA_YoY_Percent": 0.045878251539890336,
-                    "LDC_ODA_YoY_Percent": 0.08876609609418784,
-                    "Africa_ODA_YoY_Percent": 0.02744927294962829,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
                     "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
@@ -1442,24 +1427,24 @@
                     "Africa_ODA_YoY_Percent": 0.23281088597914645,
                     "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": "None",
+                    "LDC_ODA_Over_All_ODA": 0.2731166236136787,
+                    "Africa_ODA_Over_All_ODA": 0.3983311232054638,
+                    "In_Donor_Refugee_Over_All_ODA": 0.0,
+                    "All_ODA": 15966.902937,
+                    "LDC_ODA": 4360.82661972077,
+                    "Africa_ODA": 6360.114381007829,
+                    "In_Donor_Refugee_Costs": 0.0,
+                    "All_ODA_YoY_Percent": -0.05995578421253045,
+                    "LDC_ODA_YoY_Percent": 0.02990324516752141,
+                    "Africa_ODA_YoY_Percent": -0.018573565382837387,
+                    "In_Donor_Refugee_YoY_Percent": "None",
+                    "Time_Period": 2017
                 }
             ],
             "Current Prices": [
-                {
-                    "All_ODA_Over_GNI": "None",
-                    "LDC_ODA_Over_All_ODA": 0.33535781912511614,
-                    "Africa_ODA_Over_All_ODA": 0.45386071961788615,
-                    "In_Donor_Refugee_Over_All_ODA": 0.0,
-                    "All_ODA": 11634.23,
-                    "LDC_ODA": 3901.63,
-                    "Africa_ODA": 5280.32,
-                    "In_Donor_Refugee_Costs": 0.0,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
                 {
                     "All_ODA_Over_GNI": "None",
                     "LDC_ODA_Over_All_ODA": 0.34911248489690105,
@@ -1469,9 +1454,9 @@
                     "LDC_ODA": 4562.38,
                     "Africa_ODA": 5826.85,
                     "In_Donor_Refugee_Costs": 0.0,
-                    "All_ODA_YoY_Percent": 0.12328104223485359,
-                    "LDC_ODA_YoY_Percent": 0.16935229634793658,
-                    "Africa_ODA_YoY_Percent": 0.10350319677595321,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
                     "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
@@ -1594,24 +1579,24 @@
                     "Africa_ODA_YoY_Percent": 0.24159781762979216,
                     "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": "None",
+                    "LDC_ODA_Over_All_ODA": 0.27311662361367883,
+                    "Africa_ODA_Over_All_ODA": 0.398331123205464,
+                    "In_Donor_Refugee_Over_All_ODA": 0.0,
+                    "All_ODA": 16449.55,
+                    "LDC_ODA": 4492.64555596439,
+                    "Africa_ODA": 6552.36772772444,
+                    "In_Donor_Refugee_Costs": 0.0,
+                    "All_ODA_YoY_Percent": -0.038396785292972635,
+                    "LDC_ODA_YoY_Percent": 0.053528427570805226,
+                    "Africa_ODA_YoY_Percent": 0.003937341358524193,
+                    "In_Donor_Refugee_YoY_Percent": "None",
+                    "Time_Period": 2017
                 }
             ],
             "National currency": [
-                {
-                    "All_ODA_Over_GNI": "None",
-                    "LDC_ODA_Over_All_ODA": 0.33535781912511586,
-                    "Africa_ODA_Over_All_ODA": 0.4538607196178862,
-                    "In_Donor_Refugee_Over_All_ODA": 0.0,
-                    "All_ODA": 8498.805,
-                    "LDC_ODA": 2850.1407099696303,
-                    "Africa_ODA": 3857.2737531920898,
-                    "In_Donor_Refugee_Costs": 0.0,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
                 {
                     "All_ODA_Over_GNI": "None",
                     "LDC_ODA_Over_All_ODA": 0.3491124848969008,
@@ -1621,9 +1606,9 @@
                     "LDC_ODA": 3163.0980599349105,
                     "Africa_ODA": 4039.7551125797795,
                     "In_Donor_Refugee_Costs": 0.0,
-                    "All_ODA_YoY_Percent": 0.06607905464356478,
-                    "LDC_ODA_YoY_Percent": 0.10980417523618158,
-                    "Africa_ODA_YoY_Percent": 0.04730837660580267,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
                     "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
@@ -1746,6 +1731,21 @@
                     "Africa_ODA_YoY_Percent": 0.24545414467772564,
                     "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": "None",
+                    "LDC_ODA_Over_All_ODA": 0.2731166236136787,
+                    "Africa_ODA_Over_All_ODA": 0.39833112320546393,
+                    "In_Donor_Refugee_Over_All_ODA": 0.0,
+                    "All_ODA": 14592.395805000002,
+                    "LDC_ODA": 3985.42587269601,
+                    "Africa_ODA": 5812.605411264351,
+                    "In_Donor_Refugee_Costs": 0.0,
+                    "All_ODA_YoY_Percent": -0.05668667953214923,
+                    "LDC_ODA_YoY_Percent": 0.03349009655908275,
+                    "Africa_ODA_YoY_Percent": -0.015157756822695712,
+                    "In_Donor_Refugee_YoY_Percent": "None",
+                    "Time_Period": 2017
                 }
             ],
             "recommendations": [
@@ -1775,21 +1775,6 @@
         "France": {
             "Constant Prices": [
                 {
-                    "All_ODA_Over_GNI": 0.0032206443458857683,
-                    "LDC_ODA_Over_All_ODA": 0.32630209427884743,
-                    "Africa_ODA_Over_All_ODA": 0.5607983336162679,
-                    "In_Donor_Refugee_Over_All_ODA": 0.044999948143850055,
-                    "All_ODA": 7327.964,
-                    "LDC_ODA": 2391.13,
-                    "Africa_ODA": 4109.51,
-                    "In_Donor_Refugee_Costs": 329.75800000000004,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
-                {
                     "All_ODA_Over_GNI": 0.0035083703239820077,
                     "LDC_ODA_Over_All_ODA": 0.2950337014673457,
                     "Africa_ODA_Over_All_ODA": 0.48816456461486973,
@@ -1798,10 +1783,10 @@
                     "LDC_ODA": 2374.13,
                     "Africa_ODA": 3928.25,
                     "In_Donor_Refugee_Costs": 301.08299999999997,
-                    "All_ODA_YoY_Percent": 0.09811934119763688,
-                    "LDC_ODA_YoY_Percent": -0.007109609264239092,
-                    "Africa_ODA_YoY_Percent": -0.044107448333256305,
-                    "In_Donor_Refugee_YoY_Percent": -0.08695770838008499,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
+                    "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
                 {
@@ -1923,24 +1908,24 @@
                     "Africa_ODA_YoY_Percent": 0.04315781842785693,
                     "In_Donor_Refugee_YoY_Percent": 0.2781532957203796,
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": 0.004319204419258089,
+                    "LDC_ODA_Over_All_ODA": 0.21582154414662127,
+                    "Africa_ODA_Over_All_ODA": 0.3674266347166256,
+                    "In_Donor_Refugee_Over_All_ODA": 0.05004445289031377,
+                    "All_ODA": 11010.35268,
+                    "LDC_ODA": 2376.27131699649,
+                    "Africa_ODA": 4045.4968322555796,
+                    "In_Donor_Refugee_Costs": 551.007076,
+                    "All_ODA_YoY_Percent": 0.16015490574912628,
+                    "LDC_ODA_YoY_Percent": 0.1363194897649629,
+                    "Africa_ODA_YoY_Percent": 0.04125564184576369,
+                    "In_Donor_Refugee_YoY_Percent": 0.18644898011916022,
+                    "Time_Period": 2017
                 }
             ],
             "Current Prices": [
-                {
-                    "All_ODA_Over_GNI": 0.0032206443470861774,
-                    "LDC_ODA_Over_All_ODA": 0.3263049694610793,
-                    "Africa_ODA_Over_All_ODA": 0.5607988056312768,
-                    "In_Donor_Refugee_Over_All_ODA": 0.04499989267852927,
-                    "All_ODA": 8386.02,
-                    "LDC_ODA": 2736.4,
-                    "Africa_ODA": 4702.87,
-                    "In_Donor_Refugee_Costs": 377.37,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
                 {
                     "All_ODA_Over_GNI": 0.0035083702272931437,
                     "LDC_ODA_Over_All_ODA": 0.29503513257766417,
@@ -1950,10 +1935,10 @@
                     "LDC_ODA": 2930.82,
                     "Africa_ODA": 4849.38,
                     "In_Donor_Refugee_Costs": 371.68,
-                    "All_ODA_YoY_Percent": 0.18456669552421756,
-                    "LDC_ODA_YoY_Percent": 0.0710495541587488,
-                    "Africa_ODA_YoY_Percent": 0.031153317017055482,
-                    "In_Donor_Refugee_YoY_Percent": -0.015078040119776315,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
+                    "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
                 {
@@ -2075,24 +2060,24 @@
                     "Africa_ODA_YoY_Percent": 0.048009515447835716,
                     "In_Donor_Refugee_YoY_Percent": 0.2840787119856887,
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": 0.004319204419351985,
+                    "LDC_ODA_Over_All_ODA": 0.21582154414662133,
+                    "Africa_ODA_Over_All_ODA": 0.3674266347166254,
+                    "In_Donor_Refugee_Over_All_ODA": 0.05004445292850237,
+                    "All_ODA": 11315.34,
+                    "LDC_ODA": 2442.0941513440303,
+                    "Africa_ODA": 4157.55729687442,
+                    "In_Donor_Refugee_Costs": 566.27,
+                    "All_ODA_YoY_Percent": 0.1867897436758017,
+                    "LDC_ODA_YoY_Percent": 0.1623927381071293,
+                    "Africa_ODA_YoY_Percent": 0.06514451868029436,
+                    "In_Donor_Refugee_YoY_Percent": 0.21368712090361575,
+                    "Time_Period": 2017
                 }
             ],
             "National currency": [
-                {
-                    "All_ODA_Over_GNI": 0.0032206445524528915,
-                    "LDC_ODA_Over_All_ODA": 0.3263049694610795,
-                    "Africa_ODA_Over_All_ODA": 0.5607988056312762,
-                    "In_Donor_Refugee_Over_All_ODA": 0.044999924910071654,
-                    "All_ODA": 6125.988,
-                    "LDC_ODA": 1998.9403272589398,
-                    "Africa_ODA": 3435.44675371153,
-                    "In_Donor_Refugee_Costs": 275.66900000000004,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
                 {
                     "All_ODA_Over_GNI": 0.0035083704616725078,
                     "LDC_ODA_Over_All_ODA": 0.295035132577664,
@@ -2102,10 +2087,10 @@
                     "LDC_ODA": 2031.9376417161602,
                     "Africa_ODA": 3362.07537855805,
                     "In_Donor_Refugee_Costs": 257.686,
-                    "All_ODA_YoY_Percent": 0.12424379544981146,
-                    "LDC_ODA_YoY_Percent": 0.016507403451341718,
-                    "Africa_ODA_YoY_Percent": -0.021357156845528857,
-                    "In_Donor_Refugee_YoY_Percent": -0.06523403066721345,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
+                    "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
                 {
@@ -2227,6 +2212,21 @@
                     "Africa_ODA_YoY_Percent": 0.05126459840591502,
                     "In_Donor_Refugee_YoY_Percent": 0.28806630846257186,
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": 0.004319204419351985,
+                    "LDC_ODA_Over_All_ODA": 0.21582154414662139,
+                    "Africa_ODA_Over_All_ODA": 0.36742663471662557,
+                    "In_Donor_Refugee_Over_All_ODA": 0.05004445292850237,
+                    "All_ODA": 10037.838114,
+                    "LDC_ODA": 2166.3817216572897,
+                    "Africa_ODA": 3688.1690780573,
+                    "In_Donor_Refugee_Costs": 502.338117,
+                    "All_ODA_YoY_Percent": 0.16421671690462292,
+                    "LDC_ODA_YoY_Percent": 0.14028374825805323,
+                    "Africa_ODA_YoY_Percent": 0.04488521338762008,
+                    "In_Donor_Refugee_YoY_Percent": 0.1906032129389763,
+                    "Time_Period": 2017
                 }
             ],
             "recommendations": [
@@ -2256,21 +2256,6 @@
         "Germany": {
             "Constant Prices": [
                 {
-                    "All_ODA_Over_GNI": 0.0028243905483731602,
-                    "LDC_ODA_Over_All_ODA": 0.31183852574658644,
-                    "Africa_ODA_Over_All_ODA": 0.39640274105178297,
-                    "In_Donor_Refugee_Over_All_ODA": 0.0014922209002412074,
-                    "All_ODA": 8613.336,
-                    "LDC_ODA": 2685.97,
-                    "Africa_ODA": 3414.35,
-                    "In_Donor_Refugee_Costs": 12.853,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
-                {
                     "All_ODA_Over_GNI": 0.003126112691133586,
                     "LDC_ODA_Over_All_ODA": 0.30293327182819124,
                     "Africa_ODA_Over_All_ODA": 0.3777873606933069,
@@ -2279,10 +2264,10 @@
                     "LDC_ODA": 2963.08,
                     "Africa_ODA": 3695.25,
                     "In_Donor_Refugee_Costs": 62.869,
-                    "All_ODA_YoY_Percent": 0.13559902922630696,
-                    "LDC_ODA_YoY_Percent": 0.10316943227214015,
-                    "Africa_ODA_YoY_Percent": 0.08227041750259945,
-                    "In_Donor_Refugee_YoY_Percent": 3.8913872247724264,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
+                    "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
                 {
@@ -2404,24 +2389,24 @@
                     "Africa_ODA_YoY_Percent": 0.22335338164574758,
                     "In_Donor_Refugee_YoY_Percent": 1.1583794922082054,
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": 0.006585909208789327,
+                    "LDC_ODA_Over_All_ODA": 0.1582921095465364,
+                    "Africa_ODA_Over_All_ODA": 0.09026915340983696,
+                    "In_Donor_Refugee_Over_All_ODA": 0.24657488719907614,
+                    "All_ODA": 23836.849542,
+                    "LDC_ODA": 3773.1851989465704,
+                    "Africa_ODA": 2151.732228114,
+                    "In_Donor_Refugee_Costs": 5877.568487,
+                    "All_ODA_YoY_Percent": -0.025754559960920465,
+                    "LDC_ODA_YoY_Percent": 0.06552237090291624,
+                    "Africa_ODA_YoY_Percent": -0.6073209039834879,
+                    "In_Donor_Refugee_YoY_Percent": -0.09786801767191122,
+                    "Time_Period": 2017
                 }
             ],
             "Current Prices": [
-                {
-                    "All_ODA_Over_GNI": 0.0028243906642805047,
-                    "LDC_ODA_Over_All_ODA": 0.311840161309754,
-                    "Africa_ODA_Over_All_ODA": 0.3964009663367341,
-                    "In_Donor_Refugee_Over_All_ODA": 0.0014921997687724435,
-                    "All_ODA": 9462.54,
-                    "LDC_ODA": 2950.8,
-                    "Africa_ODA": 3750.96,
-                    "In_Donor_Refugee_Costs": 14.12,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
                 {
                     "All_ODA_Over_GNI": 0.003126112297787226,
                     "LDC_ODA_Over_All_ODA": 0.30292819228141477,
@@ -2431,10 +2416,10 @@
                     "LDC_ODA": 3458.41,
                     "Africa_ODA": 4313.07,
                     "In_Donor_Refugee_Costs": 73.38,
-                    "All_ODA_YoY_Percent": 0.20650480737730037,
-                    "LDC_ODA_YoY_Percent": 0.1720245357191268,
-                    "Africa_ODA_YoY_Percent": 0.14985763644506989,
-                    "In_Donor_Refugee_YoY_Percent": 4.196883852691218,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
+                    "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
                 {
@@ -2556,24 +2541,24 @@
                     "Africa_ODA_YoY_Percent": 0.23647631932630508,
                     "In_Donor_Refugee_YoY_Percent": 1.1815302660871407,
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": 0.00658590920882866,
+                    "LDC_ODA_Over_All_ODA": 0.1582921095465363,
+                    "Africa_ODA_Over_All_ODA": 0.09026915340983697,
+                    "In_Donor_Refugee_Over_All_ODA": 0.2465748872075624,
+                    "All_ODA": 24673.64,
+                    "LDC_ODA": 3905.6425257918,
+                    "Africa_ODA": 2227.2685943390898,
+                    "In_Donor_Refugee_Costs": 6083.9,
+                    "All_ODA_YoY_Percent": -0.002255612950081254,
+                    "LDC_ODA_YoY_Percent": 0.0912267857808462,
+                    "Africa_ODA_YoY_Percent": -0.5978498132422558,
+                    "In_Donor_Refugee_YoY_Percent": -0.07610841478007868,
+                    "Time_Period": 2017
                 }
             ],
             "National currency": [
-                {
-                    "All_ODA_Over_GNI": 0.0028243904719622167,
-                    "LDC_ODA_Over_All_ODA": 0.3118401613097534,
-                    "Africa_ODA_Over_All_ODA": 0.39640096633673466,
-                    "In_Donor_Refugee_Over_All_ODA": 0.0014922490573080057,
-                    "All_ODA": 6912.385,
-                    "LDC_ODA": 2155.55925343512,
-                    "Africa_ODA": 2740.07609369155,
-                    "In_Donor_Refugee_Costs": 10.315,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
                 {
                     "All_ODA_Over_GNI": 0.003126112384425248,
                     "LDC_ODA_Over_All_ODA": 0.3029281922814145,
@@ -2583,10 +2568,10 @@
                     "LDC_ODA": 2397.7157196442,
                     "Africa_ODA": 2990.2515141136605,
                     "In_Donor_Refugee_Costs": 50.873999999999995,
-                    "All_ODA_YoY_Percent": 0.14506483652169244,
-                    "LDC_ODA_YoY_Percent": 0.11234043593242782,
-                    "Africa_ODA_YoY_Percent": 0.09130236236799671,
-                    "In_Donor_Refugee_YoY_Percent": 3.9320407174018417,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
+                    "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
                 {
@@ -2708,6 +2693,21 @@
                     "Africa_ODA_YoY_Percent": 0.24031669694579638,
                     "In_Donor_Refugee_YoY_Percent": 1.1883058849815087,
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": 0.006585909208828662,
+                    "LDC_ODA_Over_All_ODA": 0.1582921095465365,
+                    "Africa_ODA_Over_All_ODA": 0.09026915340983713,
+                    "In_Donor_Refugee_Over_All_ODA": 0.24657488720756238,
+                    "All_ODA": 21887.986044,
+                    "LDC_ODA": 3464.6954846299104,
+                    "Africa_ODA": 1975.8099700382102,
+                    "In_Donor_Refugee_Costs": 5397.02769,
+                    "All_ODA_YoY_Percent": -0.02123292515870312,
+                    "LDC_ODA_YoY_Percent": 0.07047141830100245,
+                    "Africa_ODA_YoY_Percent": -0.6054987960357566,
+                    "In_Donor_Refugee_YoY_Percent": -0.09368107511006096,
+                    "Time_Period": 2017
                 }
             ],
             "recommendations": [
@@ -2737,21 +2737,6 @@
         "Italy": {
             "Constant Prices": [
                 {
-                    "All_ODA_Over_GNI": 0.001626540924030315,
-                    "LDC_ODA_Over_All_ODA": 0.36758639685352645,
-                    "Africa_ODA_Over_All_ODA": 0.45742949566750724,
-                    "In_Donor_Refugee_Over_All_ODA": 0.010035623483005237,
-                    "All_ODA": 3053.323,
-                    "LDC_ODA": 1122.36,
-                    "Africa_ODA": 1396.68,
-                    "In_Donor_Refugee_Costs": 30.642,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
-                {
                     "All_ODA_Over_GNI": 0.0017782280339560077,
                     "LDC_ODA_Over_All_ODA": 0.40305264621331505,
                     "Africa_ODA_Over_All_ODA": 0.4262328151592792,
@@ -2760,10 +2745,10 @@
                     "LDC_ODA": 1330.69,
                     "Africa_ODA": 1407.22,
                     "In_Donor_Refugee_Costs": 2.528,
-                    "All_ODA_YoY_Percent": 0.0812904497820901,
-                    "LDC_ODA_YoY_Percent": 0.18561780533875072,
-                    "Africa_ODA_YoY_Percent": 0.007546467336827289,
-                    "In_Donor_Refugee_YoY_Percent": -0.9174988577769075,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
+                    "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
                 {
@@ -2885,24 +2870,24 @@
                     "Africa_ODA_YoY_Percent": 0.0849500513490804,
                     "In_Donor_Refugee_YoY_Percent": 0.6788907764768117,
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": 0.0028417207407149176,
+                    "LDC_ODA_Over_All_ODA": 0.21286771358188447,
+                    "Africa_ODA_Over_All_ODA": 0.2823850134360391,
+                    "In_Donor_Refugee_Over_All_ODA": 0.32597488310250966,
+                    "All_ODA": 5405.961865,
+                    "LDC_ODA": 1150.75474191341,
+                    "Africa_ODA": 1526.5626138827402,
+                    "In_Donor_Refugee_Costs": 1762.207787,
+                    "All_ODA_YoY_Percent": 0.09987126674894409,
+                    "LDC_ODA_YoY_Percent": 0.35227002034526067,
+                    "Africa_ODA_YoY_Percent": 0.31363544465810755,
+                    "In_Donor_Refugee_YoY_Percent": 0.06774587190984005,
+                    "Time_Period": 2017
                 }
             ],
             "Current Prices": [
-                {
-                    "All_ODA_Over_GNI": 0.0016265409346812778,
-                    "LDC_ODA_Over_All_ODA": 0.3675783914751476,
-                    "Africa_ODA_Over_All_ODA": 0.45742278469102116,
-                    "In_Donor_Refugee_Over_All_ODA": 0.010035637834913317,
-                    "All_ODA": 3400.88,
-                    "LDC_ODA": 1250.09,
-                    "Africa_ODA": 1555.64,
-                    "In_Donor_Refugee_Costs": 34.13,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
                 {
                     "All_ODA_Over_GNI": 0.001778227636227464,
                     "LDC_ODA_Over_All_ODA": 0.40304171976286773,
@@ -2912,10 +2897,10 @@
                     "LDC_ODA": 1600.39,
                     "Africa_ODA": 1692.44,
                     "In_Donor_Refugee_Costs": 3.04,
-                    "All_ODA_YoY_Percent": 0.16757427489355692,
-                    "LDC_ODA_YoY_Percent": 0.28021982417265967,
-                    "Africa_ODA_YoY_Percent": 0.08793808336118891,
-                    "In_Donor_Refugee_YoY_Percent": -0.9109288016407853,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
+                    "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
                 {
@@ -3037,24 +3022,24 @@
                     "Africa_ODA_YoY_Percent": 0.09471571281859781,
                     "In_Donor_Refugee_YoY_Percent": 0.6939869586889515,
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": 0.0028417207409273935,
+                    "LDC_ODA_Over_All_ODA": 0.21286771358188475,
+                    "Africa_ODA_Over_All_ODA": 0.28238501343603883,
+                    "In_Donor_Refugee_Over_All_ODA": 0.325974883140602,
+                    "All_ODA": 5530.15,
+                    "LDC_ODA": 1177.1903862648599,
+                    "Africa_ODA": 1561.63148205331,
+                    "In_Donor_Refugee_Costs": 1802.69,
+                    "All_ODA_YoY_Percent": 0.11511146779371195,
+                    "LDC_ODA_YoY_Percent": 0.37097814739982526,
+                    "Africa_ODA_YoY_Percent": 0.33182506678035906,
+                    "In_Donor_Refugee_YoY_Percent": 0.0825406548005092,
+                    "Time_Period": 2017
                 }
             ],
             "National currency": [
-                {
-                    "All_ODA_Over_GNI": 0.0016265403848948984,
-                    "LDC_ODA_Over_All_ODA": 0.36757839147514754,
-                    "Africa_ODA_Over_All_ODA": 0.45742278469102077,
-                    "In_Donor_Refugee_Over_All_ODA": 0.010035655316377535,
-                    "All_ODA": 2484.342,
-                    "LDC_ODA": 913.190436234151,
-                    "Africa_ODA": 1136.39463576486,
-                    "In_Donor_Refugee_Costs": 24.932,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
                 {
                     "All_ODA_Over_GNI": 0.0017782277818761813,
                     "LDC_ODA_Over_All_ODA": 0.40304171976286823,
@@ -3064,10 +3049,10 @@
                     "LDC_ODA": 1109.55047808743,
                     "Africa_ODA": 1173.36874832653,
                     "In_Donor_Refugee_Costs": 2.108,
-                    "All_ODA_YoY_Percent": 0.10811715939270838,
-                    "LDC_ODA_YoY_Percent": 0.21502638886915637,
-                    "Africa_ODA_YoY_Percent": 0.032536331480291114,
-                    "In_Donor_Refugee_YoY_Percent": -0.9154500240654581,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
+                    "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
                 {
@@ -3189,6 +3174,21 @@
                     "Africa_ODA_YoY_Percent": 0.09811578802334542,
                     "In_Donor_Refugee_YoY_Percent": 0.6992480269735344,
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": 0.0028417207409273935,
+                    "LDC_ODA_Over_All_ODA": 0.21286771358188533,
+                    "Africa_ODA_Over_All_ODA": 0.28238501343603856,
+                    "In_Donor_Refugee_Over_All_ODA": 0.325974883140602,
+                    "All_ODA": 4905.7960649999995,
+                    "LDC_ODA": 1044.28559165556,
+                    "Africa_ODA": 1385.32328772949,
+                    "In_Donor_Refugee_Costs": 1599.166299,
+                    "All_ODA_YoY_Percent": 0.09390176037204023,
+                    "LDC_ODA_YoY_Percent": 0.34490178980897035,
+                    "Africa_ODA_YoY_Percent": 0.3064934108705253,
+                    "In_Donor_Refugee_YoY_Percent": 0.06195014533059462,
+                    "Time_Period": 2017
                 }
             ],
             "recommendations": [
@@ -3218,21 +3218,6 @@
         "Japan": {
             "Constant Prices": [
                 {
-                    "All_ODA_Over_GNI": 0.0013524087866005488,
-                    "LDC_ODA_Over_All_ODA": 0.27342823426029544,
-                    "Africa_ODA_Over_All_ODA": 0.25362762764123553,
-                    "In_Donor_Refugee_Over_All_ODA": 0.00027781152143985146,
-                    "All_ODA": 5737.703,
-                    "LDC_ODA": 1568.85,
-                    "Africa_ODA": 1455.24,
-                    "In_Donor_Refugee_Costs": 1.594,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
-                {
                     "All_ODA_Over_GNI": 0.0015656099500956473,
                     "LDC_ODA_Over_All_ODA": 0.32758001728954833,
                     "Africa_ODA_Over_All_ODA": 0.3477020763396554,
@@ -3241,10 +3226,10 @@
                     "LDC_ODA": 2158.03,
                     "Africa_ODA": 2290.59,
                     "In_Donor_Refugee_Costs": 0.275,
-                    "All_ODA_YoY_Percent": 0.1481589409559887,
-                    "LDC_ODA_YoY_Percent": 0.37554896899002466,
-                    "Africa_ODA_YoY_Percent": 0.5740290261400183,
-                    "In_Donor_Refugee_YoY_Percent": -0.8274780426599749,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
+                    "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
                 {
@@ -3366,24 +3351,24 @@
                     "Africa_ODA_YoY_Percent": -0.11504057269796908,
                     "In_Donor_Refugee_YoY_Percent": -0.022727272727272707,
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": 0.0022737594105371444,
+                    "LDC_ODA_Over_All_ODA": 0.4243059197921799,
+                    "Africa_ODA_Over_All_ODA": 0.2973505371401054,
+                    "In_Donor_Refugee_Over_All_ODA": 2.5313771669253717e-05,
+                    "All_ODA": 11844.303722,
+                    "LDC_ODA": 5025.60818506115,
+                    "Africa_ODA": 3521.9100737872495,
+                    "In_Donor_Refugee_Costs": 0.299824,
+                    "All_ODA_YoY_Percent": 0.27128357622949606,
+                    "LDC_ODA_YoY_Percent": 0.41053865813274304,
+                    "Africa_ODA_YoY_Percent": 0.3116885810114076,
+                    "In_Donor_Refugee_YoY_Percent": 0.39453023255813946,
+                    "Time_Period": 2017
                 }
             ],
             "Current Prices": [
-                {
-                    "All_ODA_Over_GNI": 0.0013524088058094103,
-                    "LDC_ODA_Over_All_ODA": 0.27342653113594423,
-                    "Africa_ODA_Over_All_ODA": 0.2536313963162187,
-                    "In_Donor_Refugee_Over_All_ODA": 0.00027786086362425365,
-                    "All_ODA": 6118.17,
-                    "LDC_ODA": 1672.87,
-                    "Africa_ODA": 1551.76,
-                    "In_Donor_Refugee_Costs": 1.7,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
                 {
                     "All_ODA_Over_GNI": 0.0015656100987219124,
                     "LDC_ODA_Over_All_ODA": 0.32757539558375126,
@@ -3393,10 +3378,10 @@
                     "LDC_ODA": 2585.89,
                     "Africa_ODA": 2744.72,
                     "In_Donor_Refugee_Costs": 0.33,
-                    "All_ODA_YoY_Percent": 0.29025999604456887,
-                    "LDC_ODA_YoY_Percent": 0.5457806045897171,
-                    "Africa_ODA_YoY_Percent": 0.7687786771150176,
-                    "In_Donor_Refugee_YoY_Percent": -0.8058823529411765,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
+                    "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
                 {
@@ -3518,24 +3503,24 @@
                     "Africa_ODA_YoY_Percent": -0.012007013704409264,
                     "In_Donor_Refugee_YoY_Percent": 0.09090909090909083,
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": 0.0022737594104130458,
+                    "LDC_ODA_Over_All_ODA": 0.42430591979218063,
+                    "Africa_ODA_Over_All_ODA": 0.2973505371401049,
+                    "In_Donor_Refugee_Over_All_ODA": 2.5313803879122218e-05,
+                    "All_ODA": 11456.2,
+                    "LDC_ODA": 4860.93347832318,
+                    "Africa_ODA": 3406.50722358447,
+                    "In_Donor_Refugee_Costs": 0.29,
+                    "All_ODA_YoY_Percent": 0.10139989559188156,
+                    "LDC_ODA_YoY_Percent": 0.2220493498294689,
+                    "Africa_ODA_YoY_Percent": 0.13640016399104282,
+                    "In_Donor_Refugee_YoY_Percent": 0.20833333333333326,
+                    "Time_Period": 2017
                 }
             ],
             "National currency": [
-                {
-                    "All_ODA_Over_GNI": 0.0013524088058094101,
-                    "LDC_ODA_Over_All_ODA": 0.2734265311359443,
-                    "Africa_ODA_Over_All_ODA": 0.2536313963162188,
-                    "In_Donor_Refugee_Over_All_ODA": 0.00027786086362425365,
-                    "All_ODA": 720720.426,
-                    "LDC_ODA": 197064.086,
-                    "Africa_ODA": 182797.328,
-                    "In_Donor_Refugee_Costs": 200.26,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
                 {
                     "All_ODA_Over_GNI": 0.0015656100987219124,
                     "LDC_ODA_Over_All_ODA": 0.32757539558375126,
@@ -3545,10 +3530,10 @@
                     "LDC_ODA": 267639.615,
                     "Africa_ODA": 284078.52,
                     "In_Donor_Refugee_Costs": 34.155,
-                    "All_ODA_YoY_Percent": 0.13363250925817383,
-                    "LDC_ODA_YoY_Percent": 0.3581349115028498,
-                    "Africa_ODA_YoY_Percent": 0.5540627596044512,
-                    "In_Donor_Refugee_YoY_Percent": -0.8294467192649555,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
+                    "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
                 {
@@ -3670,6 +3655,21 @@
                     "Africa_ODA_YoY_Percent": -0.11161767513467324,
                     "In_Donor_Refugee_YoY_Percent": -0.019082679087937926,
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": 0.0022737594104130458,
+                    "LDC_ODA_Over_All_ODA": 0.4243059197921805,
+                    "Africa_ODA_Over_All_ODA": 0.29735053714010573,
+                    "In_Donor_Refugee_Over_All_ODA": 2.531380387912222e-05,
+                    "All_ODA": 1285192.03022,
+                    "LDC_ODA": 545314.586492077,
+                    "Africa_ODA": 382152.5405141,
+                    "In_Donor_Refugee_Costs": 32.533099,
+                    "All_ODA_YoY_Percent": 0.1356193782002304,
+                    "LDC_ODA_YoY_Percent": 0.26001730010838164,
+                    "Africa_ODA_YoY_Percent": 0.17170707277454333,
+                    "In_Donor_Refugee_YoY_Percent": 0.24585834641749305,
+                    "Time_Period": 2017
                 }
             ],
             "recommendations": [
@@ -3699,21 +3699,6 @@
         "Netherlands": {
             "Constant Prices": [
                 {
-                    "All_ODA_Over_GNI": 0.007569540045869017,
-                    "LDC_ODA_Over_All_ODA": 0.30252648537039994,
-                    "Africa_ODA_Over_All_ODA": 0.3438948079030037,
-                    "In_Donor_Refugee_Over_All_ODA": 0.021576426953182435,
-                    "All_ODA": 5060.152,
-                    "LDC_ODA": 1530.83,
-                    "Africa_ODA": 1740.16,
-                    "In_Donor_Refugee_Costs": 109.18,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
-                {
                     "All_ODA_Over_GNI": 0.007904539005177881,
                     "LDC_ODA_Over_All_ODA": 0.29315636926785094,
                     "Africa_ODA_Over_All_ODA": 0.3308818334035677,
@@ -3722,10 +3707,10 @@
                     "LDC_ODA": 1618.11,
                     "Africa_ODA": 1826.34,
                     "In_Donor_Refugee_Costs": 201.15599999999998,
-                    "All_ODA_YoY_Percent": 0.09080003920830837,
-                    "LDC_ODA_YoY_Percent": 0.057014822024653355,
-                    "Africa_ODA_YoY_Percent": 0.049524181684442725,
-                    "In_Donor_Refugee_YoY_Percent": 0.8424253526286862,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
+                    "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
                 {
@@ -3847,24 +3832,24 @@
                     "Africa_ODA_YoY_Percent": 0.08965254417401369,
                     "In_Donor_Refugee_YoY_Percent": -0.6735577648372206,
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": 0.00589118828064655,
+                    "LDC_ODA_Over_All_ODA": 0.20455262694414214,
+                    "Africa_ODA_Over_All_ODA": 0.262687675594669,
+                    "In_Donor_Refugee_Over_All_ODA": 0.17265473388662647,
+                    "All_ODA": 4709.349021,
+                    "LDC_ODA": 963.309713442374,
+                    "Africa_ODA": 1237.08794789052,
+                    "In_Donor_Refugee_Costs": 813.0914019999999,
+                    "All_ODA_YoY_Percent": -0.0388328427845861,
+                    "LDC_ODA_YoY_Percent": -0.18485854824341963,
+                    "Africa_ODA_YoY_Percent": -0.16796387734189755,
+                    "In_Donor_Refugee_YoY_Percent": 0.8788028818936573,
+                    "Time_Period": 2017
                 }
             ],
             "Current Prices": [
-                {
-                    "All_ODA_Over_GNI": 0.00756954017997272,
-                    "LDC_ODA_Over_All_ODA": 0.30252700276586514,
-                    "Africa_ODA_Over_All_ODA": 0.3438932338330638,
-                    "In_Donor_Refugee_Over_All_ODA": 0.021576491689544067,
-                    "All_ODA": 5831.81,
-                    "LDC_ODA": 1764.28,
-                    "Africa_ODA": 2005.52,
-                    "In_Donor_Refugee_Costs": 125.83,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
                 {
                     "All_ODA_Over_GNI": 0.007904537892519707,
                     "LDC_ODA_Over_All_ODA": 0.29315277096366094,
@@ -3874,10 +3859,10 @@
                     "LDC_ODA": 2013.64,
                     "Africa_ODA": 2272.77,
                     "In_Donor_Refugee_Costs": 250.33,
-                    "All_ODA_YoY_Percent": 0.1778350117716454,
-                    "LDC_ODA_YoY_Percent": 0.14133810959711623,
-                    "Africa_ODA_YoY_Percent": 0.1332572101001237,
-                    "In_Donor_Refugee_YoY_Percent": 0.9894301835810222,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
+                    "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
                 {
@@ -3999,24 +3984,24 @@
                     "Africa_ODA_YoY_Percent": 0.09237883751438258,
                     "In_Donor_Refugee_YoY_Percent": -0.6727438674833298,
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": 0.005891188280869714,
+                    "LDC_ODA_Over_All_ODA": 0.20455262694414225,
+                    "Africa_ODA_Over_All_ODA": 0.2626876755946672,
+                    "In_Donor_Refugee_Over_All_ODA": 0.17265473393141675,
+                    "All_ODA": 4838.79,
+                    "LDC_ODA": 989.787205731046,
+                    "Africa_ODA": 1271.0904977907198,
+                    "In_Donor_Refugee_Costs": 835.44,
+                    "All_ODA_YoY_Percent": -0.014870221485678403,
+                    "LDC_ODA_YoY_Percent": -0.16453207474314724,
+                    "Africa_ODA_YoY_Percent": -0.14722818724038278,
+                    "In_Donor_Refugee_YoY_Percent": 0.9256425031692981,
+                    "Time_Period": 2017
                 }
             ],
             "National currency": [
-                {
-                    "All_ODA_Over_GNI": 0.00756954159127495,
-                    "LDC_ODA_Over_All_ODA": 0.3025270027658658,
-                    "Africa_ODA_Over_All_ODA": 0.34389323383306364,
-                    "In_Donor_Refugee_Over_All_ODA": 0.021576531088899,
-                    "All_ODA": 4260.138,
-                    "LDC_ODA": 1288.80678050897,
-                    "Africa_ODA": 1465.03263339512,
-                    "In_Donor_Refugee_Costs": 91.919,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
                 {
                     "All_ODA_Over_GNI": 0.007904539050691021,
                     "LDC_ODA_Over_All_ODA": 0.2931527709636607,
@@ -4026,10 +4011,10 @@
                     "LDC_ODA": 1396.0568163274802,
                     "Africa_ODA": 1575.71167162184,
                     "In_Donor_Refugee_Costs": 173.554,
-                    "All_ODA_YoY_Percent": 0.11785486761226971,
-                    "LDC_ODA_YoY_Percent": 0.08321653597768597,
-                    "Africa_ODA_YoY_Percent": 0.07554714871451584,
-                    "In_Donor_Refugee_YoY_Percent": 0.8881188872811934,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
+                    "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
                 {
@@ -4151,6 +4136,21 @@
                     "Africa_ODA_YoY_Percent": 0.09577171737880996,
                     "In_Donor_Refugee_YoY_Percent": -0.6717271743741513,
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": 0.005891188280869715,
+                    "LDC_ODA_Over_All_ODA": 0.20455262694414222,
+                    "Africa_ODA_Over_All_ODA": 0.26268767559466777,
+                    "In_Donor_Refugee_Over_All_ODA": 0.17265473393141673,
+                    "All_ODA": 4292.490609,
+                    "LDC_ODA": 878.040230204011,
+                    "Africa_ODA": 1127.58438059015,
+                    "In_Donor_Refugee_Costs": 741.118824,
+                    "All_ODA_YoY_Percent": -0.033607651502734814,
+                    "LDC_ODA_YoY_Percent": -0.18042289656421473,
+                    "Africa_ODA_YoY_Percent": -0.16344813359729882,
+                    "In_Donor_Refugee_YoY_Percent": 0.8890141844513946,
+                    "Time_Period": 2017
                 }
             ],
             "recommendations": [
@@ -4180,21 +4180,6 @@
         "Sweden": {
             "Constant Prices": [
                 {
-                    "All_ODA_Over_GNI": 0.009187591758165593,
-                    "LDC_ODA_Over_All_ODA": 0.32131020915430153,
-                    "Africa_ODA_Over_All_ODA": 0.37555278243177337,
-                    "In_Donor_Refugee_Over_All_ODA": 0.06054817038453455,
-                    "All_ODA": 3920.1679999999997,
-                    "LDC_ODA": 1259.59,
-                    "Africa_ODA": 1472.23,
-                    "In_Donor_Refugee_Costs": 237.359,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
-                {
                     "All_ODA_Over_GNI": 0.009795779062324038,
                     "LDC_ODA_Over_All_ODA": 0.3283786551830585,
                     "Africa_ODA_Over_All_ODA": 0.37523116114780947,
@@ -4203,10 +4188,10 @@
                     "LDC_ODA": 1365.87,
                     "Africa_ODA": 1560.75,
                     "In_Donor_Refugee_Costs": 330.056,
-                    "All_ODA_YoY_Percent": 0.06103513931035609,
-                    "LDC_ODA_YoY_Percent": 0.08437666224723928,
-                    "Africa_ODA_YoY_Percent": 0.060126474803529284,
-                    "In_Donor_Refugee_YoY_Percent": 0.3905350123652356,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
+                    "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
                 {
@@ -4328,24 +4313,24 @@
                     "Africa_ODA_YoY_Percent": -0.08115568198254675,
                     "In_Donor_Refugee_YoY_Percent": -0.6562597534820452,
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": 0.010085567296098422,
+                    "LDC_ODA_Over_All_ODA": 0.30136972888369246,
+                    "Africa_ODA_Over_All_ODA": 0.3142576806403426,
+                    "In_Donor_Refugee_Over_All_ODA": 0.15026217906406625,
+                    "All_ODA": 5379.707968,
+                    "LDC_ODA": 1621.2811317895998,
+                    "Africa_ODA": 1690.6145485460502,
+                    "In_Donor_Refugee_Costs": 808.366642,
+                    "All_ODA_YoY_Percent": 0.0962208014501873,
+                    "LDC_ODA_YoY_Percent": 0.15021186321137936,
+                    "Africa_ODA_YoY_Percent": 0.10887601405337088,
+                    "In_Donor_Refugee_YoY_Percent": -0.018735541714564707,
+                    "Time_Period": 2017
                 }
             ],
             "Current Prices": [
-                {
-                    "All_ODA_Over_GNI": 0.009187591023956703,
-                    "LDC_ODA_Over_All_ODA": 0.3213094919880137,
-                    "Africa_ODA_Over_All_ODA": 0.3755527731273712,
-                    "In_Donor_Refugee_Over_All_ODA": 0.06054829466852371,
-                    "All_ODA": 4264.86,
-                    "LDC_ODA": 1370.34,
-                    "Africa_ODA": 1601.68,
-                    "In_Donor_Refugee_Costs": 258.23,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
                 {
                     "All_ODA_Over_GNI": 0.009795779704626731,
                     "LDC_ODA_Over_All_ODA": 0.3283837903524066,
@@ -4355,10 +4340,10 @@
                     "LDC_ODA": 1553.83,
                     "Africa_ODA": 1775.48,
                     "In_Donor_Refugee_Costs": 375.47,
-                    "All_ODA_YoY_Percent": 0.10947369901942872,
-                    "LDC_ODA_YoY_Percent": 0.13390107564546017,
-                    "Africa_ODA_YoY_Percent": 0.1085110633834474,
-                    "In_Donor_Refugee_YoY_Percent": 0.4540138636099602,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
+                    "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
                 {
@@ -4480,24 +4465,24 @@
                     "Africa_ODA_YoY_Percent": -0.08370498047345831,
                     "In_Donor_Refugee_YoY_Percent": -0.6572240442630748,
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": 0.010085567296096463,
+                    "LDC_ODA_Over_All_ODA": 0.30136972888369223,
+                    "Africa_ODA_Over_All_ODA": 0.3142576806403429,
+                    "In_Donor_Refugee_Over_All_ODA": 0.15026217908010522,
+                    "All_ODA": 5511.5,
+                    "LDC_ODA": 1660.9992607424697,
+                    "Africa_ODA": 1732.0312068492499,
+                    "In_Donor_Refugee_Costs": 828.17,
+                    "All_ODA_YoY_Percent": 0.12623474070955965,
+                    "LDC_ODA_YoY_Percent": 0.18168442448348054,
+                    "Africa_ODA_YoY_Percent": 0.13920191980297814,
+                    "In_Donor_Refugee_YoY_Percent": 0.008131565813339181,
+                    "Time_Period": 2017
                 }
             ],
             "National currency": [
-                {
-                    "All_ODA_Over_GNI": 0.009187590881597535,
-                    "LDC_ODA_Over_All_ODA": 0.32130949198801373,
-                    "Africa_ODA_Over_All_ODA": 0.3755527731273728,
-                    "In_Donor_Refugee_Over_All_ODA": 0.06054828780680609,
-                    "All_ODA": 28819.791,
-                    "LDC_ODA": 9260.07240541073,
-                    "Africa_ODA": 10823.3524310013,
-                    "In_Donor_Refugee_Costs": 1744.989,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
                 {
                     "All_ODA_Over_GNI": 0.009795779557729896,
                     "LDC_ODA_Over_All_ODA": 0.32838379035240667,
@@ -4507,10 +4492,10 @@
                     "LDC_ODA": 10379.1180950177,
                     "Africa_ODA": 11859.6735777672,
                     "In_Donor_Refugee_Costs": 2508.027,
-                    "All_ODA_YoY_Percent": 0.09670018078895848,
-                    "LDC_ODA_YoY_Percent": 0.12084632177963361,
-                    "Africa_ODA_YoY_Percent": 0.09574862810505635,
-                    "In_Donor_Refugee_YoY_Percent": 0.43727381662577813,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
+                    "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
                 {
@@ -4632,6 +4617,21 @@
                     "Africa_ODA_YoY_Percent": -0.06987790093808732,
                     "In_Donor_Refugee_YoY_Percent": -0.6520514920383107,
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": 0.010085567296096463,
+                    "LDC_ODA_Over_All_ODA": 0.30136972888369246,
+                    "Africa_ODA_Over_All_ODA": 0.3142576806403421,
+                    "In_Donor_Refugee_Over_All_ODA": 0.15026217908010525,
+                    "All_ODA": 47106.7905,
+                    "LDC_ODA": 14196.560681565901,
+                    "Africa_ODA": 14803.6707249405,
+                    "In_Donor_Refugee_Costs": 7078.368990000001,
+                    "All_ODA_YoY_Percent": 0.12498432771672152,
+                    "LDC_ODA_YoY_Percent": 0.18037244794395346,
+                    "Africa_ODA_YoY_Percent": 0.13793710987437335,
+                    "In_Donor_Refugee_YoY_Percent": 0.007012297059116879,
+                    "Time_Period": 2017
                 }
             ],
             "recommendations": [
@@ -4661,21 +4661,6 @@
         "United Kingdom": {
             "Constant Prices": [
                 {
-                    "All_ODA_Over_GNI": 0.0035277688359460478,
-                    "LDC_ODA_Over_All_ODA": 0.4141269408810127,
-                    "Africa_ODA_Over_All_ODA": 0.4521009994080701,
-                    "In_Donor_Refugee_Over_All_ODA": 0.0,
-                    "All_ODA": 8526.347,
-                    "LDC_ODA": 3530.99,
-                    "Africa_ODA": 3854.77,
-                    "In_Donor_Refugee_Costs": 0.0,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
-                {
                     "All_ODA_Over_GNI": 0.004098118388623631,
                     "LDC_ODA_Over_All_ODA": 0.39002901230523257,
                     "Africa_ODA_Over_All_ODA": 0.41945509752112686,
@@ -4684,9 +4669,9 @@
                     "LDC_ODA": 4006.05,
                     "Africa_ODA": 4308.29,
                     "In_Donor_Refugee_Costs": 0.0,
-                    "All_ODA_YoY_Percent": 0.20463769536942378,
-                    "LDC_ODA_YoY_Percent": 0.13454017145333186,
-                    "Africa_ODA_YoY_Percent": 0.11765163680323343,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
                     "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
@@ -4809,24 +4794,24 @@
                     "Africa_ODA_YoY_Percent": 0.06543927586767806,
                     "In_Donor_Refugee_YoY_Percent": 0.6638813105724011,
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": 0.006949681150839329,
+                    "LDC_ODA_Over_All_ODA": 0.3403069027791029,
+                    "Africa_ODA_Over_All_ODA": 0.39471644827640373,
+                    "In_Donor_Refugee_Over_All_ODA": 0.02737793050532089,
+                    "All_ODA": 18420.760616,
+                    "LDC_ODA": 6268.71199206624,
+                    "Africa_ODA": 7270.977204897379,
+                    "In_Donor_Refugee_Costs": 504.32230400000003,
+                    "All_ODA_YoY_Percent": -0.0851854979978458,
+                    "LDC_ODA_YoY_Percent": -0.0010991772805766242,
+                    "Africa_ODA_YoY_Percent": -0.06716925781318706,
+                    "In_Donor_Refugee_YoY_Percent": -0.21246153990299477,
+                    "Time_Period": 2017
                 }
             ],
             "Current Prices": [
-                {
-                    "All_ODA_Over_GNI": 0.0035277686438877067,
-                    "LDC_ODA_Over_All_ODA": 0.4141275513021638,
-                    "Africa_ODA_Over_All_ODA": 0.4521043449092586,
-                    "In_Donor_Refugee_Over_All_ODA": 0.0,
-                    "All_ODA": 9778.34,
-                    "LDC_ODA": 4049.48,
-                    "Africa_ODA": 4420.83,
-                    "In_Donor_Refugee_Costs": 0.0,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
                 {
                     "All_ODA_Over_GNI": 0.004098118474726916,
                     "LDC_ODA_Over_All_ODA": 0.39002901218840663,
@@ -4836,9 +4821,9 @@
                     "LDC_ODA": 4271.04,
                     "Africa_ODA": 4593.26,
                     "In_Donor_Refugee_Costs": 0.0,
-                    "All_ODA_YoY_Percent": 0.11988026597561552,
-                    "LDC_ODA_YoY_Percent": 0.054713197743907926,
-                    "Africa_ODA_YoY_Percent": 0.03900398793891657,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
                     "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
@@ -4961,24 +4946,24 @@
                     "Africa_ODA_YoY_Percent": -0.04495618381610189,
                     "In_Donor_Refugee_YoY_Percent": 0.49149063320082087,
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": 0.006949681150858528,
+                    "LDC_ODA_Over_All_ODA": 0.3403069027791033,
+                    "Africa_ODA_Over_All_ODA": 0.39471644827640356,
+                    "In_Donor_Refugee_Over_All_ODA": 0.027377930512340335,
+                    "All_ODA": 17936.71,
+                    "LDC_ODA": 6103.98622614697,
+                    "Africa_ODA": 7079.91446496385,
+                    "In_Donor_Refugee_Costs": 491.07,
+                    "All_ODA_YoY_Percent": -0.00626544338441426,
+                    "LDC_ODA_YoY_Percent": 0.08507980370161117,
+                    "Africa_ODA_YoY_Percent": 0.01331269446590766,
+                    "In_Donor_Refugee_YoY_Percent": -0.14452206330679573,
+                    "Time_Period": 2017
                 }
             ],
             "National currency": [
-                {
-                    "All_ODA_Over_GNI": 0.003527769006253269,
-                    "LDC_ODA_Over_All_ODA": 0.4141275513021636,
-                    "Africa_ODA_Over_All_ODA": 0.4521043449092584,
-                    "In_Donor_Refugee_Over_All_ODA": 0.0,
-                    "All_ODA": 4886.237,
-                    "LDC_ODA": 2023.52536389203,
-                    "Africa_ODA": 2209.08897795638,
-                    "In_Donor_Refugee_Costs": 0.0,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
                 {
                     "All_ODA_Over_GNI": 0.004098118447892352,
                     "LDC_ODA_Over_All_ODA": 0.3900290121884069,
@@ -4988,9 +4973,9 @@
                     "LDC_ODA": 2360.60379278887,
                     "Africa_ODA": 2538.6947856413,
                     "In_Donor_Refugee_Costs": 0.0,
-                    "All_ODA_YoY_Percent": 0.2386587060758616,
-                    "LDC_ODA_YoY_Percent": 0.16657978936745654,
-                    "Africa_ODA_YoY_Percent": 0.14920440551463754,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
                     "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
@@ -5113,6 +5098,21 @@
                     "Africa_ODA_YoY_Percent": 0.08126427928937274,
                     "In_Donor_Refugee_YoY_Percent": 0.6886108210895723,
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": 0.00694968115085853,
+                    "LDC_ODA_Over_All_ODA": 0.3403069027791028,
+                    "Africa_ODA_Over_All_ODA": 0.3947164482764038,
+                    "In_Donor_Refugee_Over_All_ODA": 0.02737793051234033,
+                    "All_ODA": 13929.648986000002,
+                    "LDC_ODA": 4740.35570322573,
+                    "Africa_ODA": 5498.2615734909305,
+                    "In_Donor_Refugee_Costs": 381.364962,
+                    "All_ODA_YoY_Percent": 0.04147671407237241,
+                    "LDC_ODA_YoY_Percent": 0.13721047632099959,
+                    "Africa_ODA_YoY_Percent": 0.06199544771232368,
+                    "In_Donor_Refugee_YoY_Percent": -0.10342169382822863,
+                    "Time_Period": 2017
                 }
             ],
             "recommendations": [
@@ -5142,21 +5142,6 @@
         "United States": {
             "Constant Prices": [
                 {
-                    "All_ODA_Over_GNI": 0.0015570966542189381,
-                    "LDC_ODA_Over_All_ODA": 0.2815344543944138,
-                    "Africa_ODA_Over_All_ODA": 0.2952930648506639,
-                    "In_Donor_Refugee_Over_All_ODA": 0.02080119562871716,
-                    "All_ODA": 24503.928,
-                    "LDC_ODA": 6898.7,
-                    "Africa_ODA": 7235.84,
-                    "In_Donor_Refugee_Costs": 509.711,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
-                {
                     "All_ODA_Over_GNI": 0.0018194575886506324,
                     "LDC_ODA_Over_All_ODA": 0.30762445741417477,
                     "Africa_ODA_Over_All_ODA": 0.31964945801810896,
@@ -5165,10 +5150,10 @@
                     "LDC_ODA": 8939.4,
                     "Africa_ODA": 9288.84,
                     "In_Donor_Refugee_Costs": 614.873,
-                    "All_ODA_YoY_Percent": 0.18591019366364447,
-                    "LDC_ODA_YoY_Percent": 0.2958093553857972,
-                    "Africa_ODA_YoY_Percent": 0.28372656111799044,
-                    "In_Donor_Refugee_YoY_Percent": 0.2063169129173199,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
+                    "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
                 {
@@ -5290,25 +5275,25 @@
                     "Africa_ODA_YoY_Percent": 0.12717969020983189,
                     "In_Donor_Refugee_YoY_Percent": 0.3976158786144479,
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": 0.001818550308995842,
+                    "LDC_ODA_Over_All_ODA": 0.3348041529485363,
+                    "Africa_ODA_Over_All_ODA": 0.37799839371900373,
+                    "In_Donor_Refugee_Over_All_ODA": 0.04711928424946735,
+                    "All_ODA": 34631.830937,
+                    "LDC_ODA": 11594.8808219192,
+                    "Africa_ODA": 13090.7764657341,
+                    "In_Donor_Refugee_Costs": 1631.827086,
+                    "All_ODA_YoY_Percent": 0.019678847793787035,
+                    "LDC_ODA_YoY_Percent": -0.010516975255484784,
+                    "Africa_ODA_YoY_Percent": 0.01725393983669732,
+                    "In_Donor_Refugee_YoY_Percent": -0.02873332333394052,
+                    "Time_Period": 2017
                 }
             ],
             "Current Prices": [
                 {
-                    "All_ODA_Over_GNI": 0.0015570966931169436,
-                    "LDC_ODA_Over_All_ODA": 0.2815349104266638,
-                    "Africa_ODA_Over_All_ODA": 0.29529339331791443,
-                    "In_Donor_Refugee_Over_All_ODA": 0.020801213834578145,
-                    "All_ODA": 21683.35,
-                    "LDC_ODA": 6104.62,
-                    "Africa_ODA": 6402.95,
-                    "In_Donor_Refugee_Costs": 451.04,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
-                {
                     "All_ODA_Over_GNI": 0.0018194576101816062,
                     "LDC_ODA_Over_All_ODA": 0.3076246818615405,
                     "Africa_ODA_Over_All_ODA": 0.3196503442360157,
@@ -5317,10 +5302,10 @@
                     "LDC_ODA": 8065.59,
                     "Africa_ODA": 8380.89,
                     "In_Donor_Refugee_Costs": 554.77,
-                    "All_ODA_YoY_Percent": 0.20917339802198476,
-                    "LDC_ODA_YoY_Percent": 0.3212272016931439,
-                    "Africa_ODA_YoY_Percent": 0.3089107364574142,
-                    "In_Donor_Refugee_YoY_Percent": 0.2299796026959915,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
+                    "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
                 {
@@ -5442,25 +5427,25 @@
                     "Africa_ODA_YoY_Percent": 0.14174862220104467,
                     "In_Donor_Refugee_YoY_Percent": 0.41567397597577616,
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": 0.0018185503089826784,
+                    "LDC_ODA_Over_All_ODA": 0.3348041529485363,
+                    "Africa_ODA_Over_All_ODA": 0.37799839371900207,
+                    "In_Donor_Refugee_Over_All_ODA": 0.04711928425024919,
+                    "All_ODA": 35254.78,
+                    "LDC_ODA": 11803.446755287,
+                    "Africa_ODA": 13326.2502109168,
+                    "In_Donor_Refugee_Costs": 1661.18,
+                    "All_ODA_YoY_Percent": 0.024779738563991183,
+                    "LDC_ODA_YoY_Percent": -0.005569144972892848,
+                    "Africa_ODA_YoY_Percent": 0.02233821612901199,
+                    "In_Donor_Refugee_YoY_Percent": -0.023874580593603256,
+                    "Time_Period": 2017
                 }
             ],
             "National currency": [
                 {
-                    "All_ODA_Over_GNI": 0.0015570966931169436,
-                    "LDC_ODA_Over_All_ODA": 0.2815349104266638,
-                    "Africa_ODA_Over_All_ODA": 0.29529339331791443,
-                    "In_Donor_Refugee_Over_All_ODA": 0.020801213834578145,
-                    "All_ODA": 21683.35,
-                    "LDC_ODA": 6104.62,
-                    "Africa_ODA": 6402.95,
-                    "In_Donor_Refugee_Costs": 451.04,
-                    "All_ODA_YoY_Percent": "None",
-                    "LDC_ODA_YoY_Percent": "None",
-                    "Africa_ODA_YoY_Percent": "None",
-                    "In_Donor_Refugee_YoY_Percent": "None",
-                    "Time_Period": 2007
-                },
-                {
                     "All_ODA_Over_GNI": 0.0018194576101816062,
                     "LDC_ODA_Over_All_ODA": 0.3076246818615405,
                     "Africa_ODA_Over_All_ODA": 0.3196503442360157,
@@ -5469,10 +5454,10 @@
                     "LDC_ODA": 8065.59,
                     "Africa_ODA": 8380.89,
                     "In_Donor_Refugee_Costs": 554.77,
-                    "All_ODA_YoY_Percent": 0.20917339802198476,
-                    "LDC_ODA_YoY_Percent": 0.3212272016931439,
-                    "Africa_ODA_YoY_Percent": 0.3089107364574142,
-                    "In_Donor_Refugee_YoY_Percent": 0.2299796026959915,
+                    "All_ODA_YoY_Percent": "None",
+                    "LDC_ODA_YoY_Percent": "None",
+                    "Africa_ODA_YoY_Percent": "None",
+                    "In_Donor_Refugee_YoY_Percent": "None",
                     "Time_Period": 2008
                 },
                 {
@@ -5594,6 +5579,21 @@
                     "Africa_ODA_YoY_Percent": 0.14174862220104467,
                     "In_Donor_Refugee_YoY_Percent": 0.41567397597577616,
                     "Time_Period": 2016
+                },
+                {
+                    "All_ODA_Over_GNI": 0.0018185503089826784,
+                    "LDC_ODA_Over_All_ODA": 0.3348041529485363,
+                    "Africa_ODA_Over_All_ODA": 0.37799839371900207,
+                    "In_Donor_Refugee_Over_All_ODA": 0.04711928425024919,
+                    "All_ODA": 35254.78,
+                    "LDC_ODA": 11803.446755287,
+                    "Africa_ODA": 13326.2502109168,
+                    "In_Donor_Refugee_Costs": 1661.18,
+                    "All_ODA_YoY_Percent": 0.024779738563991183,
+                    "LDC_ODA_YoY_Percent": -0.005569144972892848,
+                    "Africa_ODA_YoY_Percent": 0.02233821612901199,
+                    "In_Donor_Refugee_YoY_Percent": -0.023874580593603256,
+                    "Time_Period": 2017
                 }
             ],
             "recommendations": [
@@ -5643,7 +5643,7 @@
                 "context_chart_button_3": "IN-DONOR",
                 "context_chart_legend_1": "Total ODA",
                 "context_chart_legend_2": "ODA / GNI",
-                "context_chart_source": "Sources: OECD DAC Table 1, Table 2a as of 2 January 2018. Notes: ODA in 2015 constant prices. Net ODA excludes bilateral debt relief, and includes both bilateral and multilateral flows.",
+                "context_chart_source": "Sources: OECD DAC Tables 1 and 2a and Preliminary Release (April 2018). Notes: ODA in 2015 constant prices. Net ODA excludes bilateral debt relief, and includes both bilateral and multilateral flows (Africa and LDC imputed multilateral flows in 2017 are estimated by ONE).",
                 "target_chart_title": "Targets",
                 "target_chart_met": "Target met",
                 "target_chart_not_met": "Target not met",
@@ -5656,7 +5656,7 @@
                 "key_stats_table_header_1_title": "Aid type",
                 "key_stats_table_header_2_title": "2016",
                 "key_stats_table_header_3_title": "Change 15-16",
-                "key_stats_table_source": "Sources: OECD DAC Table 1, Table 2a as of 2 January 2018. Note: Figures are in current prices and percentage changes in real terms.",
+                "key_stats_table_source": "Sources: OECD DAC Table 1, Table 2a and Preliminary Release (April 2018). Note: Figures are in current prices and percentage changes in real terms.",
                 "recommendations_title": "Recommendations",
                 "explanation_LDC": "Least developed countries",
                 "explanation_ODA": "Official development assistance",
@@ -5715,7 +5715,7 @@
                 "context_chart_button_3": "IDRC",
                 "context_chart_legend_1": "Gesamt-ODA",
                 "context_chart_legend_2": "ODA / BNE",
-                "context_chart_source": "Quellen: OECD DAC Tabelle 1, Tabelle 2a, am 2. Januar 2018 abgereufen. Anmerkungen: ODA in 2015 zu konstanten Preisen. Die Netto-ODA schließt den bilateralen Schuldenerlass aus und umfasst bilaterale wie multilaterale Zahlungen.",
+                "context_chart_source": "Quellen: OECD DAC Tabellen 1 und 2a und Preliminary Release (April 2018). Anmerkungen: Daten in Preisen von 2015. Nicht erfasst in der Netto-ODA sind bilaterale Schuldenerlasse. Bilaterale und multilaterale Beiträge sind hingegen inbegriffen (ODA an Afrika und die kalkulatorische multilaterale ODA an LDCs in 2017 wurde von ONE geschätzt).",
                 "target_chart_title": "Ziel",
                 "target_chart_met": "Ziel erreicht",
                 "target_chart_not_met": "Ziel nicht erreicht",
@@ -5728,7 +5728,7 @@
                 "key_stats_table_header_1_title": "Art des Finanzflusses",
                 "key_stats_table_header_2_title": "2016",
                 "key_stats_table_header_3_title": "Änderungen 2015-2016",
-                "key_stats_table_source": "Quellen: OECD DAC Tabelle 1, Tabelle 2a, am 2. Januar 2018 abgereufen. Anmerkung: Die Daten gelten in aktuellen Preisen und geben effektive prozentuale Änderungen an.",
+                "key_stats_table_source": "Quellen: OECD DAC Tabellen 1 und 2a und Preliminary Release (April 2018). Anmerkung: Die Daten gelten in aktuellen Preisen und geben effektive prozentuale Änderungen an.",
                 "recommendations_title": "Empfehlungen",
                 "explanation_LDC": "Am wenigsten entwickelte Länder (LDCs)",
                 "explanation_ODA": "Entwicklungszusammenarbeit (ODA)",
@@ -5787,7 +5787,7 @@
                 "context_chart_button_3": "CAR",
                 "context_chart_legend_1": "APD totale",
                 "context_chart_legend_2": "APD / RNB",
-                "context_chart_source": "Sources : CAD de l’OCDE Tableaux 1 et 2a (données au 2 janvier 2018). Remarque : APD en prix constants de 2015. Le montant net de l’APD exclut l’allègement de la dette bilatérale, mais tient compte de l’aide bilatérale et multilatérale.",
+                "context_chart_source": "Sources : CAD de l’OCDE Tableaux 1 et 2a et publication préliminaire (avril 2018). Remarque : APD en prix constants de 2015. Le montant net de l’APD exclut l’allègement de la dette bilatérale, mais tient compte de l’aide bilatérale et multilatérale (l’aide multilatérale imputée à l’ASS et aux PMA en 2017 est une estimation de ONE).",
                 "target_chart_title": "Objectifs",
                 "target_chart_met": "Objectif atteint",
                 "target_chart_not_met": "Objectif non atteint",
@@ -5800,7 +5800,7 @@
                 "key_stats_table_header_1_title": "Type d'aide",
                 "key_stats_table_header_2_title": "2016",
                 "key_stats_table_header_3_title": "Evolution 2015-2016",
-                "key_stats_table_source": "Sources : CAD de l’OCDE Tableaux 1 et 2a (données au 2 janvier 2018). Remarque : les chiffres sont exprimés en prix courants et les changements de pourcentages en termes réels.",
+                "key_stats_table_source": "Sources : CAD de l’OCDE Tableau 1, Tableau 2a et publication préliminaire (avril 2018). Remarque : les chiffres sont exprimés en prix courants et les changements de pourcentages en termes réels.",
                 "recommendations_title": "Recommandations",
                 "explanation_LDC": "Pays les moins avancés",
                 "explanation_ODA": "Aide publique au développement (APD)",
