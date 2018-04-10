@@ -35,16 +35,20 @@ deflators <- deflators %>%
   select(-Year.real, -Deflator.char)
 
 #### Insert manual correction/assumption for Germany's missing LDC number
-germany.2016.actual <- dac2a %>%
-  filter(Donor == 'Germany',
-         Recipient == 'LDCs, Total',
-         Aid_type %in% c('ODA: Total Net'),
-         Data_type == 'Current Prices',
-         obsTime == 2016) %>%
-  select(obsValue)
+#germany.2016.actual <- dac2a %>%
+#  filter(Donor == 'Germany',
+#         Recipient == 'LDCs, Total',
+#         Aid_type %in% c('ODA: Total Net'),
+#         Data_type == 'Current Prices',
+#         obsTime == 2016) %>%
+#  select(obsValue)
 
 # Since I don't have the full DAC2A data, for now hard code in Germany's actual 2016 net ODA to LDCs in current prices (from OECD.stats)
-germany.2016.actual <- 2093.4
+germany.2016.ldc.actual <- 2093.4
+
+germany.2016.africa.actual <- 3498.65
+
+germany.2016.ssa.actual <- 2279.75
 
 germany.2017.deflator <- deflators %>%
   filter(Donor == 'Germany',
@@ -53,10 +57,13 @@ germany.2017.deflator <- deflators %>%
 
 
 prelim.2017[prelim.2017$NameE == "   a. Bil. ODA to LDCs" &
-              prelim.2017$Donor == 'Germany','obsValue'] <- germany.2016.actual * germany.2017.deflator
+              prelim.2017$Donor == 'Germany','obsValue'] <- germany.2016.ldc.actual * germany.2017.deflator
 
+prelim.2017[prelim.2017$NameE == "   b. Bil. ODA to Africa" &
+              prelim.2017$Donor == 'Germany','obsValue'] <- germany.2016.africa.actual * germany.2017.deflator
 
-
+prelim.2017[prelim.2017$NameE == "   c. Bil. ODA to Sub-Saharan Africa, total" &
+              prelim.2017$Donor == 'Germany','obsValue'] <- germany.2016.ssa.actual * germany.2017.deflator
 
 
 

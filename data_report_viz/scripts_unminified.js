@@ -226,7 +226,7 @@ function closeCountryProfile() {
     }), d3.selectAll(".aidSelectorRect").classed("active_aid_type_button", !1), legendBox.classed("hidden", !0), legendText.classed("hidden", !0), d3.selectAll("#gridText").classed("big_text", !1)
 }
 console.log("script.js loaded");
-var currentYear = 2016,
+var currentYear = 2017,
     updateGrid, drawRowChart, formatData, drawTargetChart, updateSidebar, legendGroup, page_section_padding = 20,
     selector_group_height = 50,
     tablesourceheight = 50,
@@ -258,7 +258,7 @@ var currentYear = 2016,
         bottom: 20,
         left: 20
     },
-    years_array = [2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007],
+    years_array = [2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008],
     price_type = "Constant Prices",
     contextChartValue_All_ODA = "All_ODA",
     contextChartValue_ODA_over_GNI = "All_ODA_Over_GNI",
