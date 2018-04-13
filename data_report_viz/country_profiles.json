@@ -1266,7 +1266,7 @@
                 "Donor": "Australia",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 347.74651242387495
+                "Value": 347.54053356856105
             },
             {
                 "Data_type": "Constant Prices",
@@ -1308,7 +1308,7 @@
                 "Donor": "Australia",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 823.825701771037
+                "Value": 819.533306212307
             },
             {
                 "Data_type": "Constant Prices",
@@ -1322,14 +1322,14 @@
                 "Donor": "Australia",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 241.748058384387
+                "Value": 237.45566282565602
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "Australia",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 316.239661178123
+                "Value": 313.603024912749
             },
             {
                 "Data_type": "Constant Prices",
@@ -1357,21 +1357,21 @@
                 "Donor": "Australia",
                 "Metric": "LDC_ODA_Over_GNI",
                 "Time_Period": 2017,
-                "Value": 0.0006743580548733359
+                "Value": 0.0006708444335897205
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "Australia",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.2987264880565417
+                "Value": 0.297170027451037
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "Australia",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.12609596200625217
+                "Value": 0.12602127225096832
             },
             {
                 "Data_type": "Constant Prices",
@@ -2666,7 +2666,7 @@
                 "Donor": "Australia",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 372.50512520114995
+                "Value": 372.284481207475
             },
             {
                 "Data_type": "Current Prices",
@@ -2708,7 +2708,7 @@
                 "Donor": "Australia",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 882.479867427352
+                "Value": 877.8818648942059
             },
             {
                 "Data_type": "Current Prices",
@@ -2722,14 +2722,14 @@
                 "Donor": "Australia",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 258.959867427352
+                "Value": 254.361864894206
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "Australia",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 338.755071214449
+                "Value": 335.930713565835
             },
             {
                 "Data_type": "Current Prices",
@@ -2757,21 +2757,21 @@
                 "Donor": "Australia",
                 "Metric": "LDC_ODA_Over_GNI",
                 "Time_Period": 2017,
-                "Value": 0.0006743580548885663
+                "Value": 0.0006708444336048713
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "Australia",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.2987264880565417
+                "Value": 0.2971700274510368
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "Australia",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.12609596200625223
+                "Value": 0.12602127225096812
             },
             {
                 "Data_type": "Current Prices",
@@ -4066,7 +4066,7 @@
                 "Donor": "Australia",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 486.081937874981
+                "Value": 485.79401952763396
             },
             {
                 "Data_type": "National currency",
@@ -4108,7 +4108,7 @@
                 "Donor": "Australia",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 1151.54797900595
+                "Value": 1145.54804550045
             },
             {
                 "Data_type": "National currency",
@@ -4122,14 +4122,14 @@
                 "Donor": "Australia",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 337.916731005952
+                "Value": 331.916797500449
             },
             {
                 "Data_type": "National currency",
                 "Donor": "Australia",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 442.041492427734
+                "Value": 438.35598813205803
             },
             {
                 "Data_type": "National currency",
@@ -4157,21 +4157,21 @@
                 "Donor": "Australia",
                 "Metric": "LDC_ODA_Over_GNI",
                 "Time_Period": 2017,
-                "Value": 0.0006743580548885655
+                "Value": 0.0006708444336048717
             },
             {
                 "Data_type": "National currency",
                 "Donor": "Australia",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.2987264880565413
+                "Value": 0.297170027451037
             },
             {
                 "Data_type": "National currency",
                 "Donor": "Australia",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.12609596200625234
+                "Value": 0.1260212722509681
             },
             {
                 "Data_type": "National currency",
@@ -4269,7 +4269,7 @@
                 "Donor": "Australia",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 347.74651242387495
+                "Value": 347.54053356856105
             },
             {
                 "Data_type": "Current Prices",
@@ -4339,7 +4339,7 @@
                 "Donor": "Australia",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 372.50512520114995
+                "Value": 372.284481207475
             },
             {
                 "Data_type": "National currency",
@@ -4409,7 +4409,7 @@
                 "Donor": "Australia",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 486.081937874981
+                "Value": 485.79401952763396
             },
             {
                 "Data_type": "Constant Prices",
@@ -4479,7 +4479,7 @@
                 "Donor": "Australia",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 823.825701771037
+                "Value": 819.533306212307
             },
             {
                 "Data_type": "Current Prices",
@@ -4549,7 +4549,7 @@
                 "Donor": "Australia",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 882.479867427352
+                "Value": 877.8818648942059
             },
             {
                 "Data_type": "National currency",
@@ -4619,7 +4619,7 @@
                 "Donor": "Australia",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 1151.54797900595
+                "Value": 1145.54804550045
             },
             {
                 "Data_type": "Constant Prices",
@@ -5102,7 +5102,7 @@
                 "Donor": "Australia",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": -0.028016568119532237
+                "Value": -0.02859229793285889
             },
             {
                 "Data_type": "Current Prices",
@@ -5165,7 +5165,7 @@
                 "Donor": "Australia",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.04118602789823056
+                "Value": 0.04056930767664979
             },
             {
                 "Data_type": "National currency",
@@ -5228,7 +5228,7 @@
                 "Donor": "Australia",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.009918715382741583
+                "Value": 0.009320515563264742
             },
             {
                 "Data_type": "Constant Prices",
@@ -5291,7 +5291,7 @@
                 "Donor": "Australia",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": -0.017652955688400196
+                "Value": -0.022771298174037335
             },
             {
                 "Data_type": "Current Prices",
@@ -5354,7 +5354,7 @@
                 "Donor": "Australia",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.05228750155295181
+                "Value": 0.046804746901739636
             },
             {
                 "Data_type": "National currency",
@@ -5417,7 +5417,7 @@
                 "Donor": "Australia",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.020686806494049526
+                "Value": 0.015368701577403332
             },
             {
                 "Data_type": "Constant Prices",
@@ -7001,7 +7001,7 @@
                 "Donor": "Canada",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 1642.17968354828
+                "Value": 1640.26894166175
             },
             {
                 "Data_type": "Constant Prices",
@@ -7043,7 +7043,7 @@
                 "Donor": "Canada",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 1446.5359887377201
+                "Value": 1432.8814675875199
             },
             {
                 "Data_type": "Constant Prices",
@@ -7057,14 +7057,14 @@
                 "Donor": "Canada",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 533.773590351127
+                "Value": 520.119069200935
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "Canada",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 1396.34394225184
+                "Value": 1377.0246278887303
             },
             {
                 "Data_type": "Constant Prices",
@@ -7092,21 +7092,21 @@
                 "Donor": "Canada",
                 "Metric": "LDC_ODA_Over_GNI",
                 "Time_Period": 2017,
-                "Value": 0.0009310925256493803
+                "Value": 0.000922303513358461
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "Canada",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.3542158275231664
+                "Value": 0.3508722207644632
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "Canada",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.4021234453056214
+                "Value": 0.4016555585583922
             },
             {
                 "Data_type": "Constant Prices",
@@ -8401,7 +8401,7 @@
                 "Donor": "Canada",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 1717.4330437902302
+                "Value": 1715.43474160263
             },
             {
                 "Data_type": "Current Prices",
@@ -8443,7 +8443,7 @@
                 "Donor": "Canada",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 1512.82391992696
+                "Value": 1498.5436763851599
             },
             {
                 "Data_type": "Current Prices",
@@ -8457,14 +8457,14 @@
                 "Donor": "Canada",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 558.2339199269629
+                "Value": 543.953676385159
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "Canada",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 1460.33180835483
+                "Value": 1440.1271808083
             },
             {
                 "Data_type": "Current Prices",
@@ -8492,21 +8492,21 @@
                 "Donor": "Canada",
                 "Metric": "LDC_ODA_Over_GNI",
                 "Time_Period": 2017,
-                "Value": 0.0009310925256557864
+                "Value": 0.0009223035133648145
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "Canada",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.35421582752316483
+                "Value": 0.35087222076446467
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "Canada",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.4021234453056211
+                "Value": 0.4016555585583939
             },
             {
                 "Data_type": "Current Prices",
@@ -9801,7 +9801,7 @@
                 "Donor": "Canada",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 2229.3998341441
+                "Value": 2226.8058380743696
             },
             {
                 "Data_type": "National currency",
@@ -9843,7 +9843,7 @@
                 "Donor": "Canada",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 1963.79673045719
+                "Value": 1945.25954631557
             },
             {
                 "Data_type": "National currency",
@@ -9857,14 +9857,14 @@
                 "Donor": "Canada",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 724.64345145719
+                "Value": 706.106267315575
             },
             {
                 "Data_type": "National currency",
                 "Donor": "Canada",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 1895.6567204254002
+                "Value": 1869.42909340725
             },
             {
                 "Data_type": "National currency",
@@ -9892,21 +9892,21 @@
                 "Donor": "Canada",
                 "Metric": "LDC_ODA_Over_GNI",
                 "Time_Period": 2017,
-                "Value": 0.0009310925256556038
+                "Value": 0.0009223035133646292
             },
             {
                 "Data_type": "National currency",
                 "Donor": "Canada",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.35421582752316544
+                "Value": 0.3508722207644636
             },
             {
                 "Data_type": "National currency",
                 "Donor": "Canada",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.4021234453056215
+                "Value": 0.4016555585583931
             },
             {
                 "Data_type": "National currency",
@@ -10004,7 +10004,7 @@
                 "Donor": "Canada",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 1642.17968354828
+                "Value": 1640.26894166175
             },
             {
                 "Data_type": "Current Prices",
@@ -10074,7 +10074,7 @@
                 "Donor": "Canada",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 1717.4330437902302
+                "Value": 1715.43474160263
             },
             {
                 "Data_type": "National currency",
@@ -10144,7 +10144,7 @@
                 "Donor": "Canada",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 2229.3998341441
+                "Value": 2226.8058380743696
             },
             {
                 "Data_type": "Constant Prices",
@@ -10214,7 +10214,7 @@
                 "Donor": "Canada",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 1446.5359887377201
+                "Value": 1432.8814675875199
             },
             {
                 "Data_type": "Current Prices",
@@ -10284,7 +10284,7 @@
                 "Donor": "Canada",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 1512.82391992696
+                "Value": 1498.5436763851599
             },
             {
                 "Data_type": "National currency",
@@ -10354,7 +10354,7 @@
                 "Donor": "Canada",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 1963.79673045719
+                "Value": 1945.25954631557
             },
             {
                 "Data_type": "Constant Prices",
@@ -10837,7 +10837,7 @@
                 "Donor": "Canada",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.04214427457578207
+                "Value": 0.04093169793926155
             },
             {
                 "Data_type": "Current Prices",
@@ -10900,7 +10900,7 @@
                 "Donor": "Canada",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.08990083818719108
+                "Value": 0.08863269487465186
             },
             {
                 "Data_type": "National currency",
@@ -10963,7 +10963,7 @@
                 "Donor": "Canada",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.06745154523222752
+                "Value": 0.06620952257188972
             },
             {
                 "Data_type": "Constant Prices",
@@ -11026,7 +11026,7 @@
                 "Donor": "Canada",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.07679640660258924
+                "Value": 0.06663202809912394
             },
             {
                 "Data_type": "Current Prices",
@@ -11089,7 +11089,7 @@
                 "Donor": "Canada",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.12614091421347795
+                "Value": 0.11551075011736156
             },
             {
                 "Data_type": "National currency",
@@ -11152,7 +11152,7 @@
                 "Donor": "Canada",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.10294516428287181
+                "Value": 0.09253395558121502
             },
             {
                 "Data_type": "Constant Prices",
@@ -12799,7 +12799,7 @@
                 "Donor": "EU Countries",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 25397.04304005408
+                "Value": 25378.658983121262
             },
             {
                 "Data_type": "Constant Prices",
@@ -12841,7 +12841,7 @@
                 "Donor": "EU Countries",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 19439.559649293788
+                "Value": 19263.937324555045
             },
             {
                 "Data_type": "Constant Prices",
@@ -12855,14 +12855,14 @@
                 "Donor": "EU Countries",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 9911.484403933708
+                "Value": 9735.862079194949
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "EU Countries",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 20816.323796451088
+                "Value": 20617.804420641864
             },
             {
                 "Data_type": "Constant Prices",
@@ -12890,21 +12890,21 @@
                 "Donor": "EU Countries",
                 "Metric": "LDC_ODA_Over_GNI",
                 "Time_Period": 2017,
-                "Value": 0.0011735359489743382
+                "Value": 0.0011629339026707408
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "EU Countries",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.2398864851293259
+                "Value": 0.23771928469105114
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "EU Countries",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.3134025408738161
+                "Value": 0.31317567941812513
             },
             {
                 "Data_type": "Constant Prices",
@@ -14199,7 +14199,7 @@
                 "Donor": "EU Countries",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 25772.585448616563
+                "Value": 25754.241770478657
             },
             {
                 "Data_type": "Current Prices",
@@ -14241,7 +14241,7 @@
                 "Donor": "EU Countries",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 19685.88599485759
+                "Value": 19508.698648673242
             },
             {
                 "Data_type": "Current Prices",
@@ -14255,14 +14255,14 @@
                 "Donor": "EU Countries",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 10050.177376263595
+                "Value": 9872.990030079245
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "EU Countries",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 21079.741786074585
+                "Value": 20881.117681098935
             },
             {
                 "Data_type": "Current Prices",
@@ -14290,21 +14290,21 @@
                 "Donor": "EU Countries",
                 "Metric": "LDC_ODA_Over_GNI",
                 "Time_Period": 2017,
-                "Value": 0.0011622484316299168
+                "Value": 0.0011517873472133343
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "EU Countries",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.23853572670400977
+                "Value": 0.23638873101400737
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "EU Countries",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.3122888347841117
+                "Value": 0.31206656271588
             },
             {
                 "Data_type": "Current Prices",
@@ -14402,7 +14402,7 @@
                 "Donor": "EU Countries",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 25397.04304005408
+                "Value": 25378.658983121262
             },
             {
                 "Data_type": "Current Prices",
@@ -14472,7 +14472,7 @@
                 "Donor": "EU Countries",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 25772.585448616563
+                "Value": 25754.241770478657
             },
             {
                 "Data_type": "Constant Prices",
@@ -14542,7 +14542,7 @@
                 "Donor": "EU Countries",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 19439.559649293788
+                "Value": 19263.937324555045
             },
             {
                 "Data_type": "Current Prices",
@@ -14612,7 +14612,7 @@
                 "Donor": "EU Countries",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 19685.88599485759
+                "Value": 19508.698648673242
             },
             {
                 "Data_type": "Constant Prices",
@@ -14955,7 +14955,7 @@
                 "Donor": "EU Countries",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.018456379329107042
+                "Value": 0.017719153344505356
             },
             {
                 "Data_type": "Current Prices",
@@ -15018,7 +15018,7 @@
                 "Donor": "EU Countries",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.033516146763680865
+                "Value": 0.03278054002432773
             },
             {
                 "Data_type": "Constant Prices",
@@ -15081,7 +15081,7 @@
                 "Donor": "EU Countries",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.0658570748301135
+                "Value": 0.056227829070542024
             },
             {
                 "Data_type": "Current Prices",
@@ -15144,7 +15144,7 @@
                 "Donor": "EU Countries",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.07936297120188462
+                "Value": 0.06964791644199875
             },
             {
                 "Data_type": "Constant Prices",
@@ -16350,7 +16350,7 @@
                 "Donor": "EU Institutions",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 6360.114381007829
+                "Value": 6359.007508724279
             },
             {
                 "Data_type": "Constant Prices",
@@ -16385,7 +16385,7 @@
                 "Donor": "EU Institutions",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 4360.82661972077
+                "Value": 4353.41867349116
             },
             {
                 "Data_type": "Constant Prices",
@@ -16399,14 +16399,14 @@
                 "Donor": "EU Institutions",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 157.81512509713102
+                "Value": 150.40717886752302
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "EU Institutions",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 4645.644584433529
+                "Value": 4634.48097401482
             },
             {
                 "Data_type": "Constant Prices",
@@ -16427,14 +16427,14 @@
                 "Donor": "EU Institutions",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.2731166236136787
+                "Value": 0.2726526672497652
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "EU Institutions",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.3983311232054638
+                "Value": 0.39826180028868297
             },
             {
                 "Data_type": "Constant Prices",
@@ -17400,7 +17400,7 @@
                 "Donor": "EU Institutions",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 6552.36772772444
+                "Value": 6551.2273969387
             },
             {
                 "Data_type": "Current Prices",
@@ -17435,7 +17435,7 @@
                 "Donor": "EU Institutions",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 4492.64555596439
+                "Value": 4485.01368255837
             },
             {
                 "Data_type": "Current Prices",
@@ -17449,14 +17449,14 @@
                 "Donor": "EU Institutions",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 162.585555964385
+                "Value": 154.953682558373
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "EU Institutions",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 4786.07298957044
+                "Value": 4774.57192587088
             },
             {
                 "Data_type": "Current Prices",
@@ -17477,14 +17477,14 @@
                 "Donor": "EU Institutions",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.27311662361367883
+                "Value": 0.27265266724976495
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "EU Institutions",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.398331123205464
+                "Value": 0.3982618002886827
             },
             {
                 "Data_type": "Current Prices",
@@ -18450,7 +18450,7 @@
                 "Donor": "EU Institutions",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 5812.605411264351
+                "Value": 5811.59382382432
             },
             {
                 "Data_type": "National currency",
@@ -18485,7 +18485,7 @@
                 "Donor": "EU Institutions",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 3985.42587269601
+                "Value": 3978.65563779753
             },
             {
                 "Data_type": "National currency",
@@ -18499,14 +18499,14 @@
                 "Donor": "EU Institutions",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 144.229646696006
+                "Value": 137.459411797533
             },
             {
                 "Data_type": "National currency",
                 "Donor": "EU Institutions",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 4245.72534904794
+                "Value": 4235.52275544005
             },
             {
                 "Data_type": "National currency",
@@ -18527,14 +18527,14 @@
                 "Donor": "EU Institutions",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.2731166236136787
+                "Value": 0.27265266724976484
             },
             {
                 "Data_type": "National currency",
                 "Donor": "EU Institutions",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.39833112320546393
+                "Value": 0.3982618002886825
             },
             {
                 "Data_type": "National currency",
@@ -18618,7 +18618,7 @@
                 "Donor": "EU Institutions",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 6360.114381007829
+                "Value": 6359.007508724279
             },
             {
                 "Data_type": "Current Prices",
@@ -18688,7 +18688,7 @@
                 "Donor": "EU Institutions",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 6552.36772772444
+                "Value": 6551.2273969387
             },
             {
                 "Data_type": "National currency",
@@ -18758,7 +18758,7 @@
                 "Donor": "EU Institutions",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 5812.605411264351
+                "Value": 5811.59382382432
             },
             {
                 "Data_type": "Constant Prices",
@@ -18828,7 +18828,7 @@
                 "Donor": "EU Institutions",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 4360.82661972077
+                "Value": 4353.41867349116
             },
             {
                 "Data_type": "Current Prices",
@@ -18898,7 +18898,7 @@
                 "Donor": "EU Institutions",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 4492.64555596439
+                "Value": 4485.01368255837
             },
             {
                 "Data_type": "National currency",
@@ -18968,7 +18968,7 @@
                 "Donor": "EU Institutions",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 3985.42587269601
+                "Value": 3978.65563779753
             },
             {
                 "Data_type": "Constant Prices",
@@ -19451,7 +19451,7 @@
                 "Donor": "EU Institutions",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": -0.02551923400327749
+                "Value": -0.02568882619708379
             },
             {
                 "Data_type": "Current Prices",
@@ -19514,7 +19514,7 @@
                 "Donor": "EU Institutions",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.003937341358524193
+                "Value": 0.003762622736970034
             },
             {
                 "Data_type": "National currency",
@@ -19577,7 +19577,7 @@
                 "Donor": "EU Institutions",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": -0.015157784453005863
+                "Value": -0.015329179885031685
             },
             {
                 "Data_type": "Constant Prices",
@@ -19640,7 +19640,7 @@
                 "Donor": "EU Institutions",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.022616797687065926
+                "Value": 0.020879629275805556
             },
             {
                 "Data_type": "Current Prices",
@@ -19703,7 +19703,7 @@
                 "Donor": "EU Institutions",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.053528427570805226
+                "Value": 0.05173874808491985
             },
             {
                 "Data_type": "National currency",
@@ -19766,7 +19766,7 @@
                 "Donor": "EU Institutions",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.03349006756392914
+                "Value": 0.031734428205387744
             },
             {
                 "Data_type": "Constant Prices",
@@ -21287,7 +21287,7 @@
                 "Donor": "France",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 4045.4968322555796
+                "Value": 4043.8675768899398
             },
             {
                 "Data_type": "Constant Prices",
@@ -21329,7 +21329,7 @@
                 "Donor": "France",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 2376.27131699649
+                "Value": 2351.90542297698
             },
             {
                 "Data_type": "Constant Prices",
@@ -21343,14 +21343,14 @@
                 "Donor": "France",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 1529.60404284286
+                "Value": 1505.2381488233402
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "France",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 2980.89148130242
+                "Value": 2961.0389590804903
             },
             {
                 "Data_type": "Constant Prices",
@@ -21378,21 +21378,21 @@
                 "Donor": "France",
                 "Metric": "LDC_ODA_Over_GNI",
                 "Time_Period": 2017,
-                "Value": 0.0009321773672491915
+                "Value": 0.0009226189743269185
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "France",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.21582154414662127
+                "Value": 0.21360854564169873
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "France",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.3674266347166256
+                "Value": 0.36727865985941693
             },
             {
                 "Data_type": "Constant Prices",
@@ -22687,7 +22687,7 @@
                 "Donor": "France",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 4157.55729687442
+                "Value": 4155.88291105366
             },
             {
                 "Data_type": "Current Prices",
@@ -22729,7 +22729,7 @@
                 "Donor": "France",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 2442.0941513440303
+                "Value": 2417.05332084134
             },
             {
                 "Data_type": "Current Prices",
@@ -22743,14 +22743,14 @@
                 "Donor": "France",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 1571.9741513440301
+                "Value": 1546.93332084134
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "France",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 3063.46232444577
+                "Value": 3043.05988636522
             },
             {
                 "Data_type": "Current Prices",
@@ -22778,21 +22778,21 @@
                 "Donor": "France",
                 "Metric": "LDC_ODA_Over_GNI",
                 "Time_Period": 2017,
-                "Value": 0.0009321773672694563
+                "Value": 0.0009226189743469754
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "France",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.21582154414662133
+                "Value": 0.2136085456416988
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "France",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.3674266347166254
+                "Value": 0.3672786598594174
             },
             {
                 "Data_type": "Current Prices",
@@ -24087,7 +24087,7 @@
                 "Donor": "France",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 3688.1690780573
+                "Value": 3686.6837303957
             },
             {
                 "Data_type": "National currency",
@@ -24129,7 +24129,7 @@
                 "Donor": "France",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 2166.3817216572897
+                "Value": 2144.16800091835
             },
             {
                 "Data_type": "National currency",
@@ -24143,14 +24143,14 @@
                 "Donor": "France",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 1394.49826965729
+                "Value": 1372.28454891835
             },
             {
                 "Data_type": "National currency",
                 "Donor": "France",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 2717.59742801585
+                "Value": 2699.49842519459
             },
             {
                 "Data_type": "National currency",
@@ -24178,21 +24178,21 @@
                 "Donor": "France",
                 "Metric": "LDC_ODA_Over_GNI",
                 "Time_Period": 2017,
-                "Value": 0.0009321773672694565
+                "Value": 0.0009226189743469744
             },
             {
                 "Data_type": "National currency",
                 "Donor": "France",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.21582154414662139
+                "Value": 0.21360854564169854
             },
             {
                 "Data_type": "National currency",
                 "Donor": "France",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.36742663471662557
+                "Value": 0.3672786598594172
             },
             {
                 "Data_type": "National currency",
@@ -24290,7 +24290,7 @@
                 "Donor": "France",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 4045.4968322555796
+                "Value": 4043.8675768899398
             },
             {
                 "Data_type": "Current Prices",
@@ -24360,7 +24360,7 @@
                 "Donor": "France",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 4157.55729687442
+                "Value": 4155.88291105366
             },
             {
                 "Data_type": "National currency",
@@ -24430,7 +24430,7 @@
                 "Donor": "France",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 3688.1690780573
+                "Value": 3686.6837303957
             },
             {
                 "Data_type": "Constant Prices",
@@ -24500,7 +24500,7 @@
                 "Donor": "France",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 2376.27131699649
+                "Value": 2351.90542297698
             },
             {
                 "Data_type": "Current Prices",
@@ -24570,7 +24570,7 @@
                 "Donor": "France",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 2442.0941513440303
+                "Value": 2417.05332084134
             },
             {
                 "Data_type": "National currency",
@@ -24640,7 +24640,7 @@
                 "Donor": "France",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 2166.3817216572897
+                "Value": 2144.16800091835
             },
             {
                 "Data_type": "Constant Prices",
@@ -25123,7 +25123,7 @@
                 "Donor": "France",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.036435211477418905
+                "Value": 0.03601780474112526
             },
             {
                 "Data_type": "Current Prices",
@@ -25186,7 +25186,7 @@
                 "Donor": "France",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.06514451868029436
+                "Value": 0.06471554975652771
             },
             {
                 "Data_type": "National currency",
@@ -25249,7 +25249,7 @@
                 "Donor": "France",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.04488521787160216
+                "Value": 0.04446440803827856
             },
             {
                 "Data_type": "Constant Prices",
@@ -25312,7 +25312,7 @@
                 "Donor": "France",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.13106225700954344
+                "Value": 0.11946453124201772
             },
             {
                 "Data_type": "Current Prices",
@@ -25375,7 +25375,7 @@
                 "Donor": "France",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.1623927381071293
+                "Value": 0.15047375475569735
             },
             {
                 "Data_type": "National currency",
@@ -25438,7 +25438,7 @@
                 "Donor": "France",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.14028375315142627
+                "Value": 0.12859147168393026
             },
             {
                 "Data_type": "Constant Prices",
@@ -27085,7 +27085,7 @@
                 "Donor": "Germany",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 5650.382228093511
+                "Value": 5647.03288633176
             },
             {
                 "Data_type": "Constant Prices",
@@ -27127,7 +27127,7 @@
                 "Donor": "Germany",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 3773.1851989465704
+                "Value": 3747.02892709887
             },
             {
                 "Data_type": "Constant Prices",
@@ -27141,14 +27141,14 @@
                 "Donor": "Germany",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 1679.78519895883
+                "Value": 1653.6289271111402
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "Germany",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 4017.9875088412396
+                "Value": 3983.6375374767895
             },
             {
                 "Data_type": "Constant Prices",
@@ -27176,21 +27176,21 @@
                 "Donor": "Germany",
                 "Metric": "LDC_ODA_Over_GNI",
                 "Time_Period": 2017,
-                "Value": 0.0010424974619412232
+                "Value": 0.0010352707170089349
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "Germany",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.1582921095465364
+                "Value": 0.15719480548369819
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "Germany",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.23704400273776377
+                "Value": 0.23690349164564778
             },
             {
                 "Data_type": "Constant Prices",
@@ -28485,7 +28485,7 @@
                 "Donor": "Germany",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 5848.738387710589
+                "Value": 5845.271467607719
             },
             {
                 "Data_type": "Current Prices",
@@ -28527,7 +28527,7 @@
                 "Donor": "Germany",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 3905.6425257918
+                "Value": 3878.5680403747997
             },
             {
                 "Data_type": "Current Prices",
@@ -28541,14 +28541,14 @@
                 "Donor": "Germany",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 1738.7539071978
+                "Value": 1711.6794217807999
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "Germany",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 4159.0385987446
+                "Value": 4123.4827747267
             },
             {
                 "Data_type": "Current Prices",
@@ -28576,21 +28576,21 @@
                 "Donor": "Germany",
                 "Metric": "LDC_ODA_Over_GNI",
                 "Time_Period": 2017,
-                "Value": 0.0010424974619474485
+                "Value": 0.0010352707170151192
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "Germany",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.1582921095465363
+                "Value": 0.15719480548369838
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "Germany",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.23704400273776344
+                "Value": 0.23690349164564772
             },
             {
                 "Data_type": "Current Prices",
@@ -29885,7 +29885,7 @@
                 "Donor": "Germany",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 5188.41582373807
+                "Value": 5185.34031891481
             },
             {
                 "Data_type": "National currency",
@@ -29927,7 +29927,7 @@
                 "Donor": "Germany",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 3464.6954846299104
+                "Value": 3440.6777086164802
             },
             {
                 "Data_type": "National currency",
@@ -29941,14 +29941,14 @@
                 "Donor": "Germany",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 1542.44859107517
+                "Value": 1518.4308150617499
             },
             {
                 "Data_type": "National currency",
                 "Donor": "Germany",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 3689.4831409463395
+                "Value": 3657.9415694600502
             },
             {
                 "Data_type": "National currency",
@@ -29976,21 +29976,21 @@
                 "Donor": "Germany",
                 "Metric": "LDC_ODA_Over_GNI",
                 "Time_Period": 2017,
-                "Value": 0.00104249746194745
+                "Value": 0.0010352707170151179
             },
             {
                 "Data_type": "National currency",
                 "Donor": "Germany",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.1582921095465365
+                "Value": 0.15719480548369816
             },
             {
                 "Data_type": "National currency",
                 "Donor": "Germany",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.2370440027377637
+                "Value": 0.2369034916456478
             },
             {
                 "Data_type": "National currency",
@@ -30088,7 +30088,7 @@
                 "Donor": "Germany",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 5650.382228093511
+                "Value": 5647.03288633176
             },
             {
                 "Data_type": "Current Prices",
@@ -30158,7 +30158,7 @@
                 "Donor": "Germany",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 5848.738387710589
+                "Value": 5845.271467607719
             },
             {
                 "Data_type": "National currency",
@@ -30228,7 +30228,7 @@
                 "Donor": "Germany",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 5188.41582373807
+                "Value": 5185.34031891481
             },
             {
                 "Data_type": "Constant Prices",
@@ -30298,7 +30298,7 @@
                 "Donor": "Germany",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 3773.1851989465704
+                "Value": 3747.02892709887
             },
             {
                 "Data_type": "Current Prices",
@@ -30368,7 +30368,7 @@
                 "Donor": "Germany",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 3905.6425257918
+                "Value": 3878.5680403747997
             },
             {
                 "Data_type": "National currency",
@@ -30438,7 +30438,7 @@
                 "Donor": "Germany",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 3464.6954846299104
+                "Value": 3440.6777086164802
             },
             {
                 "Data_type": "Constant Prices",
@@ -30921,7 +30921,7 @@
                 "Donor": "Germany",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.020219238063973632
+                "Value": 0.01961448908200203
             },
             {
                 "Data_type": "Current Prices",
@@ -30984,7 +30984,7 @@
                 "Donor": "Germany",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.056033942602663256
+                "Value": 0.05540796396210457
             },
             {
                 "Data_type": "National currency",
@@ -31047,7 +31047,7 @@
                 "Donor": "Germany",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.035947927106959376
+                "Value": 0.035333854728279546
             },
             {
                 "Data_type": "Constant Prices",
@@ -31110,7 +31110,7 @@
                 "Donor": "Germany",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.0542185388478682
+                "Value": 0.046910541695571295
             },
             {
                 "Data_type": "Current Prices",
@@ -31173,7 +31173,7 @@
                 "Donor": "Germany",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.0912267857808462
+                "Value": 0.08366224204619543
             },
             {
                 "Data_type": "National currency",
@@ -31236,7 +31236,7 @@
                 "Donor": "Germany",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.07047139407960845
+                "Value": 0.06305072975691561
             },
             {
                 "Data_type": "Constant Prices",
@@ -32883,7 +32883,7 @@
                 "Donor": "Italy",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 1526.5626138827402
+                "Value": 1525.7235332786802
             },
             {
                 "Data_type": "Constant Prices",
@@ -32925,7 +32925,7 @@
                 "Donor": "Italy",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 1150.75474191341
+                "Value": 1141.1822861718902
             },
             {
                 "Data_type": "Constant Prices",
@@ -32939,14 +32939,14 @@
                 "Donor": "Italy",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 877.824612946205
+                "Value": 868.252157204684
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "Italy",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 1140.60747768453
+                "Value": 1131.32147407365
             },
             {
                 "Data_type": "Constant Prices",
@@ -32974,21 +32974,21 @@
                 "Donor": "Italy",
                 "Metric": "LDC_ODA_Over_GNI",
                 "Time_Period": 2017,
-                "Value": 0.0006049105967142037
+                "Value": 0.0005998786992092714
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "Italy",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.21286771358188447
+                "Value": 0.21109699155672643
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "Italy",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.2823850134360391
+                "Value": 0.28222979950279026
             },
             {
                 "Data_type": "Constant Prices",
@@ -34283,7 +34283,7 @@
                 "Donor": "Italy",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 1561.63148205331
+                "Value": 1560.77312572035
             },
             {
                 "Data_type": "Current Prices",
@@ -34325,7 +34325,7 @@
                 "Donor": "Italy",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 1177.1903862648599
+                "Value": 1167.3980278574302
             },
             {
                 "Data_type": "Current Prices",
@@ -34339,14 +34339,14 @@
                 "Donor": "Italy",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 897.990386264861
+                "Value": 888.198027857431
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "Italy",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 1166.81001461654
+                "Value": 1157.31068884416
             },
             {
                 "Data_type": "Current Prices",
@@ -34374,21 +34374,21 @@
                 "Donor": "Italy",
                 "Metric": "LDC_ODA_Over_GNI",
                 "Time_Period": 2017,
-                "Value": 0.0006049105967594337
+                "Value": 0.0005998786992541241
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "Italy",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.21286771358188475
+                "Value": 0.21109699155672634
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "Italy",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.28238501343603883
+                "Value": 0.28222979950278926
             },
             {
                 "Data_type": "Current Prices",
@@ -35683,7 +35683,7 @@
                 "Donor": "Italy",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 1385.32328772949
+                "Value": 1384.56183982653
             },
             {
                 "Data_type": "National currency",
@@ -35725,7 +35725,7 @@
                 "Donor": "Italy",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 1044.28559165556
+                "Value": 1035.59879051233
             },
             {
                 "Data_type": "National currency",
@@ -35739,14 +35739,14 @@
                 "Donor": "Italy",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 796.6072716555581
+                "Value": 787.9204705123269
             },
             {
                 "Data_type": "National currency",
                 "Donor": "Italy",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 1035.07716396634
+                "Value": 1026.65031207365
             },
             {
                 "Data_type": "National currency",
@@ -35774,21 +35774,21 @@
                 "Donor": "Italy",
                 "Metric": "LDC_ODA_Over_GNI",
                 "Time_Period": 2017,
-                "Value": 0.0006049105967594353
+                "Value": 0.0005998786992541264
             },
             {
                 "Data_type": "National currency",
                 "Donor": "Italy",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.21286771358188533
+                "Value": 0.21109699155672712
             },
             {
                 "Data_type": "National currency",
                 "Donor": "Italy",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.28238501343603856
+                "Value": 0.2822297995027908
             },
             {
                 "Data_type": "National currency",
@@ -35886,7 +35886,7 @@
                 "Donor": "Italy",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 1526.5626138827402
+                "Value": 1525.7235332786802
             },
             {
                 "Data_type": "Current Prices",
@@ -35956,7 +35956,7 @@
                 "Donor": "Italy",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 1561.63148205331
+                "Value": 1560.77312572035
             },
             {
                 "Data_type": "National currency",
@@ -36026,7 +36026,7 @@
                 "Donor": "Italy",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 1385.32328772949
+                "Value": 1384.56183982653
             },
             {
                 "Data_type": "Constant Prices",
@@ -36096,7 +36096,7 @@
                 "Donor": "Italy",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 1150.75474191341
+                "Value": 1141.1822861718902
             },
             {
                 "Data_type": "Current Prices",
@@ -36166,7 +36166,7 @@
                 "Donor": "Italy",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 1177.1903862648599
+                "Value": 1167.3980278574302
             },
             {
                 "Data_type": "National currency",
@@ -36236,7 +36236,7 @@
                 "Donor": "Italy",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 1044.28559165556
+                "Value": 1035.59879051233
             },
             {
                 "Data_type": "Constant Prices",
@@ -36719,7 +36719,7 @@
                 "Donor": "Italy",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.3019168597353974
+                "Value": 0.301201256474078
             },
             {
                 "Data_type": "Current Prices",
@@ -36782,7 +36782,7 @@
                 "Donor": "Italy",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.33182506678035906
+                "Value": 0.3310930243659973
             },
             {
                 "Data_type": "National currency",
@@ -36845,7 +36845,7 @@
                 "Donor": "Italy",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.30649343883761526
+                "Value": 0.3057753200432187
             },
             {
                 "Data_type": "Constant Prices",
@@ -36908,7 +36908,7 @@
                 "Donor": "Italy",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.3401906969235544
+                "Value": 0.32904243425364266
             },
             {
                 "Data_type": "Current Prices",
@@ -36971,7 +36971,7 @@
                 "Donor": "Italy",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.37097814739982526
+                "Value": 0.3595737819337683
             },
             {
                 "Data_type": "National currency",
@@ -37034,7 +37034,7 @@
                 "Donor": "Italy",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.34490181859823954
+                "Value": 0.3337143668621587
             },
             {
                 "Data_type": "Constant Prices",
@@ -38681,7 +38681,7 @@
                 "Donor": "Japan",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 3521.9100737872495
+                "Value": 3517.9201161842893
             },
             {
                 "Data_type": "Constant Prices",
@@ -38723,7 +38723,7 @@
                 "Donor": "Japan",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 5025.60818506115
+                "Value": 4995.887029437979
             },
             {
                 "Data_type": "Constant Prices",
@@ -38737,14 +38737,14 @@
                 "Donor": "Japan",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 1680.4882381705402
+                "Value": 1650.76708254737
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "Japan",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 2949.74511281708
+                "Value": 2909.3573337379803
             },
             {
                 "Data_type": "Constant Prices",
@@ -38772,21 +38772,21 @@
                 "Donor": "Japan",
                 "Metric": "LDC_ODA_Over_GNI",
                 "Time_Period": 2017,
-                "Value": 0.0009647695780740877
+                "Value": 0.0009590639866880192
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "Japan",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.4243059197921799
+                "Value": 0.4217965991667753
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "Japan",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.2973505371401054
+                "Value": 0.2970136699255684
             },
             {
                 "Data_type": "Constant Prices",
@@ -40081,7 +40081,7 @@
                 "Donor": "Japan",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 3406.50722358447
+                "Value": 3402.6480054013
             },
             {
                 "Data_type": "Current Prices",
@@ -40123,7 +40123,7 @@
                 "Donor": "Japan",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 4860.93347832318
+                "Value": 4832.1861993744105
             },
             {
                 "Data_type": "Current Prices",
@@ -40137,14 +40137,14 @@
                 "Donor": "Japan",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 1625.4234783231698
+                "Value": 1596.67619937441
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "Japan",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 2853.09046058039
+                "Value": 2814.02607270704
             },
             {
                 "Data_type": "Current Prices",
@@ -40172,21 +40172,21 @@
                 "Donor": "Japan",
                 "Metric": "LDC_ODA_Over_GNI",
                 "Time_Period": 2017,
-                "Value": 0.0009647695780214336
+                "Value": 0.0009590639866356747
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "Japan",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.42430591979218063
+                "Value": 0.4217965991667752
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "Japan",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.2973505371401049
+                "Value": 0.29701366992556866
             },
             {
                 "Data_type": "Current Prices",
@@ -41481,7 +41481,7 @@
                 "Donor": "Japan",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 382152.5405141
+                "Value": 381719.601454734
             },
             {
                 "Data_type": "National currency",
@@ -41523,7 +41523,7 @@
                 "Donor": "Japan",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 545314.586492077
+                "Value": 542089.627623039
             },
             {
                 "Data_type": "National currency",
@@ -41537,14 +41537,14 @@
                 "Donor": "Japan",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 182345.044611077
+                "Value": 179120.085742039
             },
             {
                 "Data_type": "National currency",
                 "Donor": "Japan",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 320068.532448336
+                "Value": 315686.168317101
             },
             {
                 "Data_type": "National currency",
@@ -41572,21 +41572,21 @@
                 "Donor": "Japan",
                 "Metric": "LDC_ODA_Over_GNI",
                 "Time_Period": 2017,
-                "Value": 0.0009647695780214335
+                "Value": 0.0009590639866356738
             },
             {
                 "Data_type": "National currency",
                 "Donor": "Japan",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.4243059197921805
+                "Value": 0.42179659916677487
             },
             {
                 "Data_type": "National currency",
                 "Donor": "Japan",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.29735053714010573
+                "Value": 0.2970136699255682
             },
             {
                 "Data_type": "National currency",
@@ -41684,7 +41684,7 @@
                 "Donor": "Japan",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 3521.9100737872495
+                "Value": 3517.9201161842893
             },
             {
                 "Data_type": "Current Prices",
@@ -41754,7 +41754,7 @@
                 "Donor": "Japan",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 3406.50722358447
+                "Value": 3402.6480054013
             },
             {
                 "Data_type": "National currency",
@@ -41824,7 +41824,7 @@
                 "Donor": "Japan",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 382152.5405141
+                "Value": 381719.601454734
             },
             {
                 "Data_type": "Constant Prices",
@@ -41894,7 +41894,7 @@
                 "Donor": "Japan",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 5025.60818506115
+                "Value": 4995.887029437979
             },
             {
                 "Data_type": "Current Prices",
@@ -41964,7 +41964,7 @@
                 "Donor": "Japan",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 4860.93347832318
+                "Value": 4832.1861993744105
             },
             {
                 "Data_type": "National currency",
@@ -42034,7 +42034,7 @@
                 "Donor": "Japan",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 545314.586492077
+                "Value": 542089.627623039
             },
             {
                 "Data_type": "Constant Prices",
@@ -42517,7 +42517,7 @@
                 "Donor": "Japan",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.17489819416914343
+                "Value": 0.1735671567819541
             },
             {
                 "Data_type": "Current Prices",
@@ -42580,7 +42580,7 @@
                 "Donor": "Japan",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.13640016399104282
+                "Value": 0.13511274086571712
             },
             {
                 "Data_type": "National currency",
@@ -42643,7 +42643,7 @@
                 "Donor": "Japan",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.17170707378607242
+                "Value": 0.17037965160618862
             },
             {
                 "Data_type": "Constant Prices",
@@ -42706,7 +42706,7 @@
                 "Donor": "Japan",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.26344893268735126
+                "Value": 0.2559769689035545
             },
             {
                 "Data_type": "Current Prices",
@@ -42769,7 +42769,7 @@
                 "Donor": "Japan",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.2220493498294689
+                "Value": 0.21482222078000301
             },
             {
                 "Data_type": "National currency",
@@ -42832,7 +42832,7 @@
                 "Donor": "Japan",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.2600173011961491
+                "Value": 0.25256563188215964
             },
             {
                 "Data_type": "Constant Prices",
@@ -44479,7 +44479,7 @@
                 "Donor": "Netherlands",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 1237.08794789052
+                "Value": 1236.44570466399
             },
             {
                 "Data_type": "Constant Prices",
@@ -44521,7 +44521,7 @@
                 "Donor": "Netherlands",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 963.309713442374
+                "Value": 950.6108883886501
             },
             {
                 "Data_type": "Constant Prices",
@@ -44535,14 +44535,14 @@
                 "Donor": "Netherlands",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 453.22975090915804
+                "Value": 440.530925855434
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "Netherlands",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 1085.54831151038
+                "Value": 1076.57719392298
             },
             {
                 "Data_type": "Constant Prices",
@@ -44570,21 +44570,21 @@
                 "Donor": "Netherlands",
                 "Metric": "LDC_ODA_Over_GNI",
                 "Time_Period": 2017,
-                "Value": 0.0012050580386287959
+                "Value": 0.0011891723675942472
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "Netherlands",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.20455262694414214
+                "Value": 0.2018561130529234
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "Netherlands",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.262687675594669
+                "Value": 0.2625512993728884
             },
             {
                 "Data_type": "Constant Prices",
@@ -45879,7 +45879,7 @@
                 "Donor": "Netherlands",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 1271.0904977907198
+                "Value": 1270.43060189254
             },
             {
                 "Data_type": "Current Prices",
@@ -45921,7 +45921,7 @@
                 "Donor": "Netherlands",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 989.787205731046
+                "Value": 976.739341279355
             },
             {
                 "Data_type": "Current Prices",
@@ -45935,14 +45935,14 @@
                 "Donor": "Netherlands",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 465.687205731046
+                "Value": 452.639341279355
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "Netherlands",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 1115.38564902075
+                "Value": 1106.16795165384
             },
             {
                 "Data_type": "Current Prices",
@@ -45970,21 +45970,21 @@
                 "Donor": "Netherlands",
                 "Metric": "LDC_ODA_Over_GNI",
                 "Time_Period": 2017,
-                "Value": 0.0012050580386744453
+                "Value": 0.0011891723676392943
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "Netherlands",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.20455262694414225
+                "Value": 0.20185611305292336
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "Netherlands",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.2626876755946672
+                "Value": 0.2625512993728887
             },
             {
                 "Data_type": "Current Prices",
@@ -47279,7 +47279,7 @@
                 "Donor": "Netherlands",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 1127.58438059015
+                "Value": 1126.9989869388698
             },
             {
                 "Data_type": "National currency",
@@ -47321,7 +47321,7 @@
                 "Donor": "Netherlands",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 878.040230204011
+                "Value": 866.465469648916
             },
             {
                 "Data_type": "National currency",
@@ -47335,14 +47335,14 @@
                 "Donor": "Netherlands",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 413.111120204011
+                "Value": 401.536359648916
             },
             {
                 "Data_type": "National currency",
                 "Donor": "Netherlands",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 989.458609246308
+                "Value": 981.2815899121199
             },
             {
                 "Data_type": "National currency",
@@ -47370,21 +47370,21 @@
                 "Donor": "Netherlands",
                 "Metric": "LDC_ODA_Over_GNI",
                 "Time_Period": 2017,
-                "Value": 0.0012050580386744453
+                "Value": 0.0011891723676392945
             },
             {
                 "Data_type": "National currency",
                 "Donor": "Netherlands",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.20455262694414222
+                "Value": 0.2018561130529234
             },
             {
                 "Data_type": "National currency",
                 "Donor": "Netherlands",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.26268767559466777
+                "Value": 0.26255129937288807
             },
             {
                 "Data_type": "National currency",
@@ -47482,7 +47482,7 @@
                 "Donor": "Netherlands",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 1237.08794789052
+                "Value": 1236.44570466399
             },
             {
                 "Data_type": "Current Prices",
@@ -47552,7 +47552,7 @@
                 "Donor": "Netherlands",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 1271.0904977907198
+                "Value": 1270.43060189254
             },
             {
                 "Data_type": "National currency",
@@ -47622,7 +47622,7 @@
                 "Donor": "Netherlands",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 1127.58438059015
+                "Value": 1126.9989869388698
             },
             {
                 "Data_type": "Constant Prices",
@@ -47692,7 +47692,7 @@
                 "Donor": "Netherlands",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 963.309713442374
+                "Value": 950.6108883886501
             },
             {
                 "Data_type": "Current Prices",
@@ -47762,7 +47762,7 @@
                 "Donor": "Netherlands",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 989.787205731046
+                "Value": 976.739341279355
             },
             {
                 "Data_type": "National currency",
@@ -47832,7 +47832,7 @@
                 "Donor": "Netherlands",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 878.040230204011
+                "Value": 866.465469648916
             },
             {
                 "Data_type": "Constant Prices",
@@ -48315,7 +48315,7 @@
                 "Donor": "Netherlands",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": -0.17004042300742017
+                "Value": -0.17047130257222887
             },
             {
                 "Data_type": "Current Prices",
@@ -48378,7 +48378,7 @@
                 "Donor": "Netherlands",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": -0.14722818724038278
+                "Value": -0.1476709099436848
             },
             {
                 "Data_type": "National currency",
@@ -48441,7 +48441,7 @@
                 "Donor": "Netherlands",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": -0.16344810892507133
+                "Value": -0.1638824109377911
             },
             {
                 "Data_type": "Constant Prices",
@@ -48504,7 +48504,7 @@
                 "Donor": "Netherlands",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": -0.18688141955214865
+                "Value": -0.19760035081273053
             },
             {
                 "Data_type": "Current Prices",
@@ -48567,7 +48567,7 @@
                 "Donor": "Netherlands",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": -0.16453207474314724
+                "Value": -0.17554562612001667
             },
             {
                 "Data_type": "National currency",
@@ -48630,7 +48630,7 @@
                 "Donor": "Netherlands",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": -0.18042287239261956
+                "Value": -0.19122694341597546
             },
             {
                 "Data_type": "Constant Prices",
@@ -50277,7 +50277,7 @@
                 "Donor": "Sweden",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 1690.6145485460502
+                "Value": 1690.0057934149402
             },
             {
                 "Data_type": "Constant Prices",
@@ -50319,7 +50319,7 @@
                 "Donor": "Sweden",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 1621.2811317895998
+                "Value": 1605.3934849444
             },
             {
                 "Data_type": "Constant Prices",
@@ -50333,14 +50333,14 @@
                 "Donor": "Sweden",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 636.1645089638749
+                "Value": 620.276862118673
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "Sweden",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 1597.77946747731
+                "Value": 1588.0397918745498
             },
             {
                 "Data_type": "Constant Prices",
@@ -50368,21 +50368,21 @@
                 "Donor": "Sweden",
                 "Metric": "LDC_ODA_Over_GNI",
                 "Time_Period": 2017,
-                "Value": 0.003039484681663416
+                "Value": 0.0030096994345111473
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "Sweden",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.30136972888369246
+                "Value": 0.29841647436881835
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "Sweden",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.3142576806403426
+                "Value": 0.3141445229866686
             },
             {
                 "Data_type": "Constant Prices",
@@ -51677,7 +51677,7 @@
                 "Donor": "Sweden",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 1732.0312068492499
+                "Value": 1731.40753844103
             },
             {
                 "Data_type": "Current Prices",
@@ -51719,7 +51719,7 @@
                 "Donor": "Sweden",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 1660.9992607424697
+                "Value": 1644.7223984837399
             },
             {
                 "Data_type": "Current Prices",
@@ -51733,14 +51733,14 @@
                 "Donor": "Sweden",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 651.749260742474
+                "Value": 635.472398483743
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "Sweden",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 1636.92185289289
+                "Value": 1626.94357481461
             },
             {
                 "Data_type": "Current Prices",
@@ -51768,21 +51768,21 @@
                 "Donor": "Sweden",
                 "Metric": "LDC_ODA_Over_GNI",
                 "Time_Period": 2017,
-                "Value": 0.003039484681662824
+                "Value": 0.0030096994345105584
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "Sweden",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.30136972888369223
+                "Value": 0.2984164743688179
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "Sweden",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.3142576806403429
+                "Value": 0.3141445229866697
             },
             {
                 "Data_type": "Current Prices",
@@ -53077,7 +53077,7 @@
                 "Donor": "Sweden",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 14803.6707249405
+                "Value": 14798.340231055501
             },
             {
                 "Data_type": "National currency",
@@ -53119,7 +53119,7 @@
                 "Donor": "Sweden",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 14196.560681565901
+                "Value": 14057.4423398406
             },
             {
                 "Data_type": "National currency",
@@ -53133,14 +53133,14 @@
                 "Donor": "Sweden",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 5570.50093156593
+                "Value": 5431.38258984055
             },
             {
                 "Data_type": "National currency",
                 "Donor": "Sweden",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 13990.7710766755
+                "Value": 13905.486733940501
             },
             {
                 "Data_type": "National currency",
@@ -53168,21 +53168,21 @@
                 "Donor": "Sweden",
                 "Metric": "LDC_ODA_Over_GNI",
                 "Time_Period": 2017,
-                "Value": 0.0030394846816628267
+                "Value": 0.0030096994345105745
             },
             {
                 "Data_type": "National currency",
                 "Donor": "Sweden",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.30136972888369246
+                "Value": 0.29841647436881946
             },
             {
                 "Data_type": "National currency",
                 "Donor": "Sweden",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.3142576806403421
+                "Value": 0.31414452298667006
             },
             {
                 "Data_type": "National currency",
@@ -53280,7 +53280,7 @@
                 "Donor": "Sweden",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 1690.6145485460502
+                "Value": 1690.0057934149402
             },
             {
                 "Data_type": "Current Prices",
@@ -53350,7 +53350,7 @@
                 "Donor": "Sweden",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 1732.0312068492499
+                "Value": 1731.40753844103
             },
             {
                 "Data_type": "National currency",
@@ -53420,7 +53420,7 @@
                 "Donor": "Sweden",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 14803.6707249405
+                "Value": 14798.340231055501
             },
             {
                 "Data_type": "Constant Prices",
@@ -53490,7 +53490,7 @@
                 "Donor": "Sweden",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 1621.2811317895998
+                "Value": 1605.3934849444
             },
             {
                 "Data_type": "Current Prices",
@@ -53560,7 +53560,7 @@
                 "Donor": "Sweden",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 1660.9992607424697
+                "Value": 1644.7223984837399
             },
             {
                 "Data_type": "National currency",
@@ -53630,7 +53630,7 @@
                 "Donor": "Sweden",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 14196.560681565901
+                "Value": 14057.4423398406
             },
             {
                 "Data_type": "Constant Prices",
@@ -54113,7 +54113,7 @@
                 "Donor": "Sweden",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.11196110770660828
+                "Value": 0.11156071364251274
             },
             {
                 "Data_type": "Current Prices",
@@ -54176,7 +54176,7 @@
                 "Donor": "Sweden",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.13920191980297814
+                "Value": 0.1387917168891073
             },
             {
                 "Data_type": "National currency",
@@ -54239,7 +54239,7 @@
                 "Donor": "Sweden",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.13793710144989535
+                "Value": 0.1375273539708073
             },
             {
                 "Data_type": "Constant Prices",
@@ -54302,7 +54302,7 @@
                 "Donor": "Sweden",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.15342776268806646
+                "Value": 0.14212481676726285
             },
             {
                 "Data_type": "Current Prices",
@@ -54365,7 +54365,7 @@
                 "Donor": "Sweden",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.18168442448348054
+                "Value": 0.17010457910654364
             },
             {
                 "Data_type": "National currency",
@@ -54428,7 +54428,7 @@
                 "Donor": "Sweden",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.18037243920531942
+                "Value": 0.1688054505491361
             },
             {
                 "Data_type": "Constant Prices",
@@ -56075,7 +56075,7 @@
                 "Donor": "United Kingdom",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 7270.977204897379
+                "Value": 7260.343872498341
             },
             {
                 "Data_type": "Constant Prices",
@@ -56117,7 +56117,7 @@
                 "Donor": "United Kingdom",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 6268.71199206624
+                "Value": 6202.57704550867
             },
             {
                 "Data_type": "Constant Prices",
@@ -56131,14 +56131,14 @@
                 "Donor": "United Kingdom",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 2904.04718072849
+                "Value": 2837.91223417091
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "United Kingdom",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 6700.72422597403
+                "Value": 6595.70422025573
             },
             {
                 "Data_type": "Constant Prices",
@@ -56166,21 +56166,21 @@
                 "Donor": "United Kingdom",
                 "Metric": "LDC_ODA_Over_GNI",
                 "Time_Period": 2017,
-                "Value": 0.0023650244677444437
+                "Value": 0.0023400734463895657
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "United Kingdom",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.3403069027791029
+                "Value": 0.3367166630525128
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "United Kingdom",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.39471644827640373
+                "Value": 0.39413920108120365
             },
             {
                 "Data_type": "Constant Prices",
@@ -57475,7 +57475,7 @@
                 "Donor": "United Kingdom",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 7079.91446496385
+                "Value": 7069.5605494252295
             },
             {
                 "Data_type": "Current Prices",
@@ -57517,7 +57517,7 @@
                 "Donor": "United Kingdom",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 6103.98622614697
+                "Value": 6039.58913734063
             },
             {
                 "Data_type": "Current Prices",
@@ -57531,14 +57531,14 @@
                 "Donor": "United Kingdom",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 2827.7362261469702
+                "Value": 2763.33913734063
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "United Kingdom",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 6524.64628018
+                "Value": 6422.38593241068
             },
             {
                 "Data_type": "Current Prices",
@@ -57566,21 +57566,21 @@
                 "Donor": "United Kingdom",
                 "Metric": "LDC_ODA_Over_GNI",
                 "Time_Period": 2017,
-                "Value": 0.0023650244677509797
+                "Value": 0.002340073446396028
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "United Kingdom",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.3403069027791033
+                "Value": 0.33671666305251247
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "United Kingdom",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.39471644827640356
+                "Value": 0.3941392010812033
             },
             {
                 "Data_type": "Current Prices",
@@ -58875,7 +58875,7 @@
                 "Donor": "United Kingdom",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 5498.2615734909305
+                "Value": 5490.22072268364
             },
             {
                 "Data_type": "National currency",
@@ -58917,7 +58917,7 @@
                 "Donor": "United Kingdom",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 4740.35570322573
+                "Value": 4690.34492405874
             },
             {
                 "Data_type": "National currency",
@@ -58931,14 +58931,14 @@
                 "Donor": "United Kingdom",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 2196.01995322573
+                "Value": 2146.00917405874
             },
             {
                 "Data_type": "National currency",
                 "Donor": "United Kingdom",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 5067.04030118779
+                "Value": 4987.624915110129
             },
             {
                 "Data_type": "National currency",
@@ -58966,21 +58966,21 @@
                 "Donor": "United Kingdom",
                 "Metric": "LDC_ODA_Over_GNI",
                 "Time_Period": 2017,
-                "Value": 0.002365024467750977
+                "Value": 0.002340073446396031
             },
             {
                 "Data_type": "National currency",
                 "Donor": "United Kingdom",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.3403069027791028
+                "Value": 0.33671666305251285
             },
             {
                 "Data_type": "National currency",
                 "Donor": "United Kingdom",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.3947164482764038
+                "Value": 0.3941392010812037
             },
             {
                 "Data_type": "National currency",
@@ -59078,7 +59078,7 @@
                 "Donor": "United Kingdom",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 7270.977204897379
+                "Value": 7260.343872498341
             },
             {
                 "Data_type": "Current Prices",
@@ -59148,7 +59148,7 @@
                 "Donor": "United Kingdom",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 7079.91446496385
+                "Value": 7069.5605494252295
             },
             {
                 "Data_type": "National currency",
@@ -59218,7 +59218,7 @@
                 "Donor": "United Kingdom",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 5498.2615734909305
+                "Value": 5490.22072268364
             },
             {
                 "Data_type": "Constant Prices",
@@ -59288,7 +59288,7 @@
                 "Donor": "United Kingdom",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 6268.71199206624
+                "Value": 6202.57704550867
             },
             {
                 "Data_type": "Current Prices",
@@ -59358,7 +59358,7 @@
                 "Donor": "United Kingdom",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 6103.98622614697
+                "Value": 6039.58913734063
             },
             {
                 "Data_type": "National currency",
@@ -59428,7 +59428,7 @@
                 "Donor": "United Kingdom",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 4740.35570322573
+                "Value": 4690.34492405874
             },
             {
                 "Data_type": "Constant Prices",
@@ -59911,7 +59911,7 @@
                 "Donor": "United Kingdom",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.040658547409778256
+                "Value": 0.03913665180528425
             },
             {
                 "Data_type": "Current Prices",
@@ -59974,7 +59974,7 @@
                 "Donor": "United Kingdom",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.01331269446590766
+                "Value": 0.011830790397061586
             },
             {
                 "Data_type": "National currency",
@@ -60037,7 +60037,7 @@
                 "Donor": "United Kingdom",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.06199546359274555
+                "Value": 0.06044236413273807
             },
             {
                 "Data_type": "Constant Prices",
@@ -60100,7 +60100,7 @@
                 "Donor": "United Kingdom",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.11436240610700787
+                "Value": 0.10260587649344055
             },
             {
                 "Data_type": "Current Prices",
@@ -60163,7 +60163,7 @@
                 "Donor": "United Kingdom",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.08507980370161117
+                "Value": 0.07363220570710416
             },
             {
                 "Data_type": "National currency",
@@ -60226,7 +60226,7 @@
                 "Donor": "United Kingdom",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.13721049332614066
+                "Value": 0.125212916264694
             },
             {
                 "Data_type": "Constant Prices",
@@ -61873,7 +61873,7 @@
                 "Donor": "United States",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 13090.7764657341
+                "Value": 13080.2919149297
             },
             {
                 "Data_type": "Constant Prices",
@@ -61915,7 +61915,7 @@
                 "Donor": "United States",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 11594.8808219192
+                "Value": 11522.2758066479
             },
             {
                 "Data_type": "Constant Prices",
@@ -61929,14 +61929,14 @@
                 "Donor": "United States",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 2295.78080123868
+                "Value": 2223.17578596734
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "United States",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 13008.3991548173
+                "Value": 12902.4579499756
             },
             {
                 "Data_type": "Constant Prices",
@@ -61964,21 +61964,21 @@
                 "Donor": "United States",
                 "Metric": "LDC_ODA_Over_GNI",
                 "Time_Period": 2017,
-                "Value": 0.000608858195797652
+                "Value": 0.0006050456375417382
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "United States",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.3348041529485363
+                "Value": 0.3327076708017108
             },
             {
                 "Data_type": "Constant Prices",
                 "Donor": "United States",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.37799839371900373
+                "Value": 0.3776956505338839
             },
             {
                 "Data_type": "Constant Prices",
@@ -63273,7 +63273,7 @@
                 "Donor": "United States",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 13326.2502109168
+                "Value": 13315.577066528898
             },
             {
                 "Data_type": "Current Prices",
@@ -63315,7 +63315,7 @@
                 "Donor": "United States",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 11803.446755287
+                "Value": 11729.535738426699
             },
             {
                 "Data_type": "Current Prices",
@@ -63329,14 +63329,14 @@
                 "Donor": "United States",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 2337.0767552870398
+                "Value": 2263.1657384267396
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "United States",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 13242.3911167025
+                "Value": 13134.5442668948
             },
             {
                 "Data_type": "Current Prices",
@@ -63364,21 +63364,21 @@
                 "Donor": "United States",
                 "Metric": "LDC_ODA_Over_GNI",
                 "Time_Period": 2017,
-                "Value": 0.0006088581957932447
+                "Value": 0.0006050456375373564
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "United States",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.3348041529485363
+                "Value": 0.3327076708017097
             },
             {
                 "Data_type": "Current Prices",
                 "Donor": "United States",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.37799839371900207
+                "Value": 0.37769565053388215
             },
             {
                 "Data_type": "Current Prices",
@@ -64673,7 +64673,7 @@
                 "Donor": "United States",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 13326.2502109168
+                "Value": 13315.577066528898
             },
             {
                 "Data_type": "National currency",
@@ -64715,7 +64715,7 @@
                 "Donor": "United States",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 11803.446755287
+                "Value": 11729.535738426699
             },
             {
                 "Data_type": "National currency",
@@ -64729,14 +64729,14 @@
                 "Donor": "United States",
                 "Metric": "LDC_ODA_Imputed_Multilateral",
                 "Time_Period": 2017,
-                "Value": 2337.0767552870398
+                "Value": 2263.1657384267396
             },
             {
                 "Data_type": "National currency",
                 "Donor": "United States",
                 "Metric": "SSA_ODA",
                 "Time_Period": 2017,
-                "Value": 13242.3911167025
+                "Value": 13134.5442668948
             },
             {
                 "Data_type": "National currency",
@@ -64764,21 +64764,21 @@
                 "Donor": "United States",
                 "Metric": "LDC_ODA_Over_GNI",
                 "Time_Period": 2017,
-                "Value": 0.0006088581957932447
+                "Value": 0.0006050456375373564
             },
             {
                 "Data_type": "National currency",
                 "Donor": "United States",
                 "Metric": "LDC_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.3348041529485363
+                "Value": 0.3327076708017097
             },
             {
                 "Data_type": "National currency",
                 "Donor": "United States",
                 "Metric": "Africa_ODA_Over_All_ODA",
                 "Time_Period": 2017,
-                "Value": 0.37799839371900207
+                "Value": 0.37769565053388215
             },
             {
                 "Data_type": "National currency",
@@ -64876,7 +64876,7 @@
                 "Donor": "United States",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 13090.7764657341
+                "Value": 13080.2919149297
             },
             {
                 "Data_type": "Current Prices",
@@ -64946,7 +64946,7 @@
                 "Donor": "United States",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 13326.2502109168
+                "Value": 13315.577066528898
             },
             {
                 "Data_type": "National currency",
@@ -65016,7 +65016,7 @@
                 "Donor": "United States",
                 "Metric": "Africa_ODA",
                 "Time_Period": 2017,
-                "Value": 13326.2502109168
+                "Value": 13315.577066528898
             },
             {
                 "Data_type": "Constant Prices",
@@ -65086,7 +65086,7 @@
                 "Donor": "United States",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 11594.8808219192
+                "Value": 11522.2758066479
             },
             {
                 "Data_type": "Current Prices",
@@ -65156,7 +65156,7 @@
                 "Donor": "United States",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 11803.446755287
+                "Value": 11729.535738426699
             },
             {
                 "Data_type": "National currency",
@@ -65226,7 +65226,7 @@
                 "Donor": "United States",
                 "Metric": "LDC_ODA",
                 "Time_Period": 2017,
-                "Value": 11803.446755287
+                "Value": 11729.535738426699
             },
             {
                 "Data_type": "Constant Prices",
@@ -65709,7 +65709,7 @@
                 "Donor": "United States",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.00427358393427113
+                "Value": 0.003469249872052771
             },
             {
                 "Data_type": "Current Prices",
@@ -65772,7 +65772,7 @@
                 "Donor": "United States",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.02233821612901199
+                "Value": 0.021519413898728468
             },
             {
                 "Data_type": "National currency",
@@ -65835,7 +65835,7 @@
                 "Donor": "United States",
                 "Metric": "Africa_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": 0.02233821612901199
+                "Value": 0.021519413898728468
             },
             {
                 "Data_type": "Constant Prices",
@@ -65898,7 +65898,7 @@
                 "Donor": "United States",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": -0.02314065639226426
+                "Value": -0.029257570282959278
             },
             {
                 "Data_type": "Current Prices",
@@ -65961,7 +65961,7 @@
                 "Donor": "United States",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": -0.005569144972892848
+                "Value": -0.011796088442552644
             },
             {
                 "Data_type": "National currency",
@@ -66024,7 +66024,7 @@
                 "Donor": "United States",
                 "Metric": "LDC_ODA_YoY_Percent",
                 "Time_Period": 2017,
-                "Value": -0.005569144972892848
+                "Value": -0.011796088442552644
             },
             {
                 "Data_type": "Constant Prices",
