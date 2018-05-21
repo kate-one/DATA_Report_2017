@@ -5119,7 +5119,7 @@
                 {
                     "profile": "United Kingdom",
                     "language": "english",
-                    "recommendations_1": "As DFID looks to modernise ODA, and to use aid as a soft power tool, an emphasis should be kept on poverty reduction and alleviation of suffering as the primary purposes of aid.",
+                    "recommendations_1": "The UK met the 0.7 target when including debt relief. ONE’s methodology has historically been to exclude debt relief in aid figures due to difficulties in how debt relief is counted as ODA. For more information, see the methodology section in last year’s report. As DFID looks to modernise ODA, and to use aid as a soft power tool, an emphasis should be kept on poverty reduction and alleviation of suffering as the primary purposes of aid.",
                     "recommendations_2": "Before further ODA is spent by other departments and in cross-departmental funds, there is a need to ensure that all departments and funds spending ODA reach the same levels of transparency and accountability as DFID, to ensure that UK aid continues to demonstrate effectiveness and efficiency.",
                     "recommendations_3": ""
                 },
@@ -5625,7 +5625,7 @@
         "english": {
             "selector_page": {
                 "title": "Country profiles",
-                "intro_line": "Click on a country to find out more",
+                "intro_line": "Click on a country to find out more. All data excludes bilateral debt relief. Some countries may not meet 0.7 target due to debt relief exclusion.",
                 "instructions": "Click on a country to find out more",
                 "legend_target_met": "ODA / GNI target met",
                 "legend_target_not_met": "ODA / GNI target not met"

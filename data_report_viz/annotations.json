@@ -3,7 +3,7 @@
         "english": {
             "selector_page": {
                 "title": "Country profiles",
-                "intro_line": "Click on a country to find out more",
+                "intro_line": "Click on a country to find out more. All data excludes bilateral debt relief. Some countries may not meet 0.7 target due to debt relief exclusion.",
                 "instructions": "Click on a country to find out more",
                 "legend_target_met": "ODA / GNI target met",
                 "legend_target_not_met": "ODA / GNI target not met"
