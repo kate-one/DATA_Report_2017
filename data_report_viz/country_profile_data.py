@@ -14,7 +14,7 @@ PROFILES = ['Australia', 'Canada', 'EU Institutions', 'EU Countries', 'France','
 
 METRICS = ['Africa_ODA', 'Africa_ODA_Bilateral',
        'Bilat_ODA_Ex_Debt_Relief', 'GNI',
-       'IA82_In_Donor_Refugee_Cost',
+       'IA82_In_Donor_Refugee_Cost', 'IA6_Debt_Relief',
        'IB_Multilateral_ODA', 'LDC_ODA', 'LDC_ODA_Bilateral',
        'LDC_ODA_Imputed_Multilateral', 'SSA_ODA', 'SSA_ODA_Bilateral',
        'Total_ODA_ONE']
@@ -25,6 +25,7 @@ NEW_METRIC_NAMES = {'Africa_ODA':'Africa_ODA',
                     'Bilat_ODA_Ex_Debt_Relief':'All_ODA_Bilateral',
                     'GNI':'GNI',
                     'IA82_In_Donor_Refugee_Cost':'In_Donor_Refugee_Costs',
+                    'IA6_Debt_Relief':'Debt_Relief',
                     'IB_Multilateral_ODA':'All_ODA_Multilateral',
                     'LDC_ODA':'LDC_ODA',
                     'LDC_ODA_Bilateral':'ODC_ODA_Bilateral',
@@ -95,6 +96,7 @@ def build_json(path = PATH, profiles = PROFILES, metrics = METRICS, new_names = 
     df_wide['In_Donor_Refugee_Over_GNI'] = (df_wide['IA82_In_Donor_Refugee_Cost'] / df_wide['GNI']).where(
         df_wide['GNI'] != 0)
     df_wide['In_Donor_Refugee_Over_All_ODA'] = df_wide['IA82_In_Donor_Refugee_Cost'] / df_wide['Total_ODA_ONE']
+    df_wide['Debt_Relief_Over_All_ODA'] = df_wide['IA6_Debt_Relief'] / df_wide['Total_ODA_ONE']
 
     # Reshape data to be long
     df_long = df_wide.stack(level = 'Metric').reset_index()
