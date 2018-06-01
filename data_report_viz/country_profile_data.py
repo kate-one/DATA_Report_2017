@@ -2,11 +2,12 @@ import pandas as pd
 import numpy as np
 import json
 
+
 #TODO: add a section of the JSON for annotations & translations
 #TODO: add data 'as of' to JSON
 
 # Paths
-PATH = '../views/DAC_Combined_Interactive_Prelim2018.csv'
+PATH = '../views/DAC_Combined_Interactive_Prelim2018_withDR.csv'
 
 # List of donor countries for profiles
 PROFILES = ['Australia', 'Canada', 'EU Institutions', 'EU Countries', 'France','Germany',
@@ -17,7 +18,7 @@ METRICS = ['Africa_ODA', 'Africa_ODA_Bilateral',
        'IA82_In_Donor_Refugee_Cost', 'IA6_Debt_Relief',
        'IB_Multilateral_ODA', 'LDC_ODA', 'LDC_ODA_Bilateral',
        'LDC_ODA_Imputed_Multilateral', 'SSA_ODA', 'SSA_ODA_Bilateral',
-       'Total_ODA_ONE']
+       'Total_ODA']
 
 
 NEW_METRIC_NAMES = {'Africa_ODA':'Africa_ODA',
@@ -32,7 +33,7 @@ NEW_METRIC_NAMES = {'Africa_ODA':'Africa_ODA',
                     'LDC_ODA_Imputed_Multilateral':'LDC_ODA_Imputed_Multilateral',
                     'SSA_ODA':'SSA_ODA',
                     'SSA_ODA_Bilateral':'SSA_ODA_Bilateral',
-                    'Total_ODA_ONE':'All_ODA'}
+                    'Total_ODA':'All_ODA'}
 
 
 def build_json(path = PATH, profiles = PROFILES, metrics = METRICS, new_names = NEW_METRIC_NAMES):
@@ -63,21 +64,21 @@ def build_json(path = PATH, profiles = PROFILES, metrics = METRICS, new_names = 
 
     ## Calculate YoY percentage change for certain metrics
     # Create a subset with only the metrics that are relevant
-    df_yoy = df_filt[df_filt['Metric'].isin(['Total_ODA_ONE', 'LDC_ODA', 'Africa_ODA', 'IA82_In_Donor_Refugee_Cost'])]
+    df_yoy = df_filt[df_filt['Metric'].isin(['Total_ODA', 'LDC_ODA', 'Africa_ODA', 'IA82_In_Donor_Refugee_Cost'])]
     df_yoy = df_yoy.pivot_table(index=['Data_type', 'Donor', 'Time_Period'], columns='Metric', values='Value').reset_index()
     df_yoy['Africa_ODA_YoY_Percent'] = df_yoy.sort_values('Time_Period').groupby(
         ['Data_type','Donor']).Africa_ODA.pct_change()
     df_yoy['LDC_ODA_YoY_Percent'] = df_yoy.sort_values('Time_Period').groupby(
         ['Data_type', 'Donor']).LDC_ODA.pct_change()
     df_yoy['All_ODA_YoY_Percent'] = df_yoy.sort_values('Time_Period').groupby(
-        ['Data_type', 'Donor']).Total_ODA_ONE.pct_change()
+        ['Data_type', 'Donor']).Total_ODA.pct_change()
     df_yoy['In_Donor_Refugee_YoY_Percent'] = df_yoy.sort_values('Time_Period').groupby(
         ['Data_type', 'Donor']).IA82_In_Donor_Refugee_Cost.pct_change()
 
 
     # Reshape data to be long
     df_yoy_long = df_yoy.melt(id_vars=['Data_type','Donor','Time_Period'], value_vars=[
-        'Africa_ODA','LDC_ODA','Total_ODA_ONE','IA82_In_Donor_Refugee_Cost','Africa_ODA_YoY_Percent',
+        'Africa_ODA','LDC_ODA','Total_ODA','IA82_In_Donor_Refugee_Cost','Africa_ODA_YoY_Percent',
         'LDC_ODA_YoY_Percent','All_ODA_YoY_Percent',
         'In_Donor_Refugee_YoY_Percent'], var_name='Metric', value_name='Value')
 
@@ -87,16 +88,16 @@ def build_json(path = PATH, profiles = PROFILES, metrics = METRICS, new_names = 
                                   columns='Metric', values='Value')
 
     # Calculate ratios
-    df_wide['All_ODA_Over_GNI'] = (df_wide['Total_ODA_ONE']/df_wide['GNI']).where(df_wide['GNI'] != 0)
+    df_wide['All_ODA_Over_GNI'] = (df_wide['Total_ODA']/df_wide['GNI']).where(df_wide['GNI'] != 0)
     df_wide['LDC_ODA_Over_GNI'] = (df_wide['LDC_ODA'] / df_wide['GNI']).where(df_wide['GNI'] != 0)
-    df_wide['LDC_ODA_Over_All_ODA'] = df_wide['LDC_ODA'] / df_wide['Total_ODA_ONE']
-    df_wide['Africa_ODA_Over_All_ODA'] = df_wide['Africa_ODA'] / df_wide['Total_ODA_ONE']
-    df_wide['All_ODA_Excl_Refugee_Costs'] = df_wide['Total_ODA_ONE'] - df_wide['IA82_In_Donor_Refugee_Cost']
+    df_wide['LDC_ODA_Over_All_ODA'] = df_wide['LDC_ODA'] / df_wide['Total_ODA']
+    df_wide['Africa_ODA_Over_All_ODA'] = df_wide['Africa_ODA'] / df_wide['Total_ODA']
+    df_wide['All_ODA_Excl_Refugee_Costs'] = df_wide['Total_ODA'] - df_wide['IA82_In_Donor_Refugee_Cost']
     df_wide['All_ODA_Excl_Refugee_Costs_Over_GNI'] = (df_wide['All_ODA_Excl_Refugee_Costs']/df_wide['GNI']).where(df_wide['GNI'] != 0)
     df_wide['In_Donor_Refugee_Over_GNI'] = (df_wide['IA82_In_Donor_Refugee_Cost'] / df_wide['GNI']).where(
         df_wide['GNI'] != 0)
-    df_wide['In_Donor_Refugee_Over_All_ODA'] = df_wide['IA82_In_Donor_Refugee_Cost'] / df_wide['Total_ODA_ONE']
-    df_wide['Debt_Relief_Over_All_ODA'] = df_wide['IA6_Debt_Relief'] / df_wide['Total_ODA_ONE']
+    df_wide['In_Donor_Refugee_Over_All_ODA'] = df_wide['IA82_In_Donor_Refugee_Cost'] / df_wide['Total_ODA']
+    df_wide['Debt_Relief_Over_All_ODA'] = df_wide['IA6_Debt_Relief'] / df_wide['Total_ODA']
 
     # Reshape data to be long
     df_long = df_wide.stack(level = 'Metric').reset_index()

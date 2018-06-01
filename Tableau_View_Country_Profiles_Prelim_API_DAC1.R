@@ -5,6 +5,8 @@
 # Using an updated DAC1 database                            #
 # and DAC Preliminary data as an input                      #
 
+# NOT EXCLUDING DEBT RELIEF ANY MORE                        #
+
 #############################################################
 
 
@@ -18,7 +20,7 @@ library(readxl)
 
 #Read Datasets
 dac1 <- read.csv("../source_data/dac1_2007_2017_20180410_denorm.csv", stringsAsFactors = FALSE)
-dac2a <- read.csv("../source_data/dac2a_filtered_2007_2016_20180102_denorm.csv", stringsAsFactors = FALSE)
+dac2a <- read.csv("../source_data/dac2a_filtered_2007_2016_20180530_denorm.csv", stringsAsFactors = FALSE)
 
 prelim.2017 <- read.csv("../source_data/prelim_2017_denorm.csv", stringsAsFactors = FALSE)
 
@@ -82,14 +84,17 @@ tableau.base.dac1 <- dac1 %>%
          as_of_date, Data_type, Constant_price_date = REFERENCEPERIOD, Time_Period,
          Transaction_Aid_type_short, obsValue) %>% 
   spread(Transaction_Aid_type_short, obsValue, fill=0) %>% 
-  mutate(Total_ODA_ONE = IA_Bilateral_ODA + 
+  mutate(Total_ODA_Ex_DR = IA_Bilateral_ODA + 
            IB_Multilateral_ODA - 
            IA6_Debt_Relief,
+         Total_ODA = IA_Bilateral_ODA + 
+           IB_Multilateral_ODA,
          Bilat_ODA_Ex_Debt_Relief = IA_Bilateral_ODA - IA6_Debt_Relief)
 
 #then summarise how much each donor gave to LDCs and SSAs
+
 tableau.dac2a <- dac2a %>%
-  filter(Aid_type %in% c('Imputed Multilateral ODA','Memo: ODA Total, excl. Debt')) %>% 
+  filter(Aid_type %in% c('Imputed Multilateral ODA','ODA: Total Net')) %>% 
   select(Donor, Time_Period = obsTime, Data_type, Constant_price_date = REFERENCEPERIOD, 
          Aid_type, obsValue, Recipient, Recipient_Fragile_State_ONE2017, Recipient_Africa) %>% 
   group_by(Donor, Data_type, Constant_price_date, Time_Period) %>% 
@@ -98,11 +103,11 @@ tableau.dac2a <- dac2a %>%
             Fragile_State_ODA = sum(obsValue[Recipient_Fragile_State_ONE2017 == 'Fragile State']),
             Africa_ODA =  sum(obsValue[Recipient == 'Africa, Total']),
             Africa_Fragile_ODA = sum(obsValue[Recipient_Fragile_State_ONE2017 == 'Fragile State' & Recipient_Africa == 'Africa']),
-            LDC_ODA_Bilateral = sum(obsValue[Recipient == 'LDCs, Total' & Aid_type == 'Memo: ODA Total, excl. Debt']),
-            SSA_ODA_Bilateral = sum(obsValue[Recipient == 'South of Sahara, Total' & Aid_type == 'Memo: ODA Total, excl. Debt']),
-            Africa_ODA_Bilateral = sum(obsValue[Recipient == 'Africa, Total' & Aid_type == 'Memo: ODA Total, excl. Debt']),
+            LDC_ODA_Bilateral = sum(obsValue[Recipient == 'LDCs, Total' & Aid_type == 'ODA: Total Net']),
+            SSA_ODA_Bilateral = sum(obsValue[Recipient == 'South of Sahara, Total' & Aid_type == 'ODA: Total Net']),
+            Africa_ODA_Bilateral = sum(obsValue[Recipient == 'Africa, Total' & Aid_type == 'ODA: Total Net']),
             LDC_ODA_Imputed_Multilateral = sum(obsValue[Recipient == 'LDCs, Total' & Aid_type == 'Imputed Multilateral ODA']),
-            Fragile_State_ODA_Bilateral = sum(obsValue[Recipient_Fragile_State_ONE2017 == 'Fragile State' & Aid_type == 'Memo: ODA Total, excl. Debt']))
+            Fragile_State_ODA_Bilateral = sum(obsValue[Recipient_Fragile_State_ONE2017 == 'Fragile State' & Aid_type == 'ODA: Total Net']))
 
 
 # pull in the preliminary data and reshape it to match the previous tables
@@ -114,13 +119,15 @@ tableau.prelim.2017 <- prelim.2017 %>%
          as_of_date, Data_type, Time_Period = obsTime,
          Transaction_Aid_type_short, obsValue) %>%
   spread(Transaction_Aid_type_short, obsValue, fill=0) %>%
-  mutate(SSA_ODA_Bilateral = SSA_ODA_Bilateral_inc_Debt_Relief - SSA_ODA_Bilateral_Debt_Relief,
-         LDC_ODA_Bilateral = LDC_ODA_Bilateral_inc_Debt_Relief - SSA_ODA_Bilateral_Debt_Relief,
-         Africa_ODA_Bilateral = Africa_ODA_Bilateral_inc_Debt_Relief - SSA_ODA_Bilateral_Debt_Relief,
+  mutate(SSA_ODA_Bilateral = SSA_ODA_Bilateral_inc_Debt_Relief,
+         LDC_ODA_Bilateral = LDC_ODA_Bilateral_inc_Debt_Relief,
+         Africa_ODA_Bilateral = Africa_ODA_Bilateral_inc_Debt_Relief,
          #assume that ssa debt relief equals total LDC debt relief, since we don't have the detail
-         Total_ODA_ONE = IA_Bilateral_ODA +
-           IB_Multilateral_ODA -
+         Total_ODA_Ex_DR = IA_Bilateral_ODA + 
+           IB_Multilateral_ODA - 
            IA6_Debt_Relief,
+         Total_ODA = IA_Bilateral_ODA + 
+           IB_Multilateral_ODA,
          Bilat_ODA_Ex_Debt_Relief = IA_Bilateral_ODA - IA6_Debt_Relief) %>%
   select(-LDC_ODA_Bilateral_inc_Debt_Relief,
          -SSA_ODA_Bilateral_inc_Debt_Relief,
@@ -227,7 +234,7 @@ price.conversion.table <- tableau.combined %>%
   spread(names, Value) %>% 
   mutate(National_Ccy_Ratio = National_currency / Current_Prices,
          Constant_Price_Ratio = Constant_Prices / Current_Prices) %>% 
-  filter(Metric == 'Total_ODA_ONE') %>% 
+  filter(Metric == 'Total_ODA') %>% 
   select(Donor, Time_Period, National_Ccy_Ratio, Constant_Price_Ratio)
 
 #Apply these conversion factors to donor-level metrics where we lack constant or national ccy prices
@@ -255,7 +262,7 @@ tableau.combined.imputed <- tableau.combined %>%
   spread(new_names, Value)
 
 
-write.csv(tableau.combined.imputed, 'views/DAC_Combined_Tableau_Prelim2018.csv', row.names = FALSE)
+write.csv(tableau.combined.imputed, 'views/DAC_Combined_Tableau_Prelim2018_withDR.csv', row.names = FALSE)
 
 
 # Create a long form of the data to use in the DATA report online interactive viz
@@ -276,4 +283,4 @@ tableau.combined.imputed.long <- tableau.combined %>%
   select(-National_Currency_Imputed, -Constant_Prices_Imputed) %>% 
   gather(Data_type, Value, `Current Prices`:`Constant Prices`)
 
-write.csv(tableau.combined.imputed.long, 'views/DAC_Combined_Interactive_Prelim2018.csv', row.names = FALSE)
+write.csv(tableau.combined.imputed.long, 'views/DAC_Combined_Interactive_Prelim2018_withDR.csv', row.names = FALSE)
